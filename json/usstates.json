@@ -1,0 +1,287 @@
+{
+	"New York": {
+		"capital": "Albany",
+		"name": "New York",
+		"isState": "true"
+	},
+	"Maryland": {
+		"capital": "Annapolis",
+		"name": "Maryland",
+		"isState": "true"
+	},
+	"Georgia": {
+		"capital": "Atlanta",
+		"name": "Georgia",
+		"isState": "true"
+	},
+	"Maine": {
+		"capital": "Augusta",
+		"name": "Maine",
+		"isState": "true"
+	},
+	"Texas": {
+		"capital": "Austin",
+		"name": "Texas",
+		"isState": "true"
+	},
+	"Louisiana": {
+		"capital": "Baton Rouge",
+		"name": "Louisiana",
+		"isState": "true"
+	},
+	"North Dakota": {
+		"capital": "Bismarck",
+		"name": "North Dakota",
+		"isState": "true"
+	},
+	"Idaho": {
+		"capital": "Boise City",
+		"name": "Idaho",
+		"isState": "true"
+	},
+	"Massachusetts": {
+		"capital": "Boston",
+		"name": "Massachusetts",
+		"isState": "true"
+	},
+	"Nevada": {
+		"capital": "Carson City",
+		"name": "Nevada",
+		"isState": "true"
+	},
+	"West Virginia": {
+		"capital": "Charleston",
+		"name": "West Virginia",
+		"isState": "true"
+	},
+	"Wyoming": {
+		"capital": "Cheyenne",
+		"name": "Wyoming",
+		"isState": "true"
+	},
+	"South Carolina": {
+		"capital": "Columbia",
+		"name": "South Carolina",
+		"isState": "true"
+	},
+	"Ohio": {
+		"capital": "Columbus",
+		"name": "Ohio",
+		"isState": "true"
+	},
+	"New Hampshire": {
+		"capital": "Concord",
+		"name": "New Hampshire",
+		"isState": "true"
+	},
+	"Colorado": {
+		"capital": "Denver",
+		"name": "Colorado",
+		"isState": "true"
+	},
+	"Iowa": {
+		"capital": "Des Moines",
+		"name": "Iowa",
+		"isState": "true"
+	},
+	"Delaware": {
+		"capital": "Dover",
+		"name": "Delaware",
+		"isState": "true"
+	},
+	"Kentucky": {
+		"capital": "Frankfort",
+		"name": "Kentucky",
+		"isState": "true"
+	},
+	"Pennsylvania": {
+		"capital": "Harrisburg",
+		"name": "Pennsylvania",
+		"isState": "true"
+	},
+	"Connecticut": {
+		"capital": "Hartford",
+		"name": "Connecticut",
+		"isState": "true"
+	},
+	"Montana": {
+		"capital": "Helena",
+		"name": "Montana",
+		"isState": "true"
+	},
+	"Hawaii": {
+		"capital": "Honolulu",
+		"name": "Hawaii",
+		"isState": "true"
+	},
+	"Indiana": {
+		"capital": "Indianapolis",
+		"name": "Indiana",
+		"isState": "true"
+	},
+	"Mississippi": {
+		"capital": "Jackson",
+		"name": "Mississippi",
+		"isState": "true"
+	},
+	"Missouri": {
+		"capital": "Jefferson City",
+		"name": "Missouri",
+		"isState": "true"
+	},
+	"Alaska": {
+		"capital": "Juneau",
+		"name": "Alaska",
+		"isState": "true"
+	},
+	"Michigan": {
+		"capital": "Lansing",
+		"name": "Michigan",
+		"isState": "true"
+	},
+	"Nebraska": {
+		"capital": "Lincoln",
+		"name": "Nebraska",
+		"isState": "true"
+	},
+	"Arkansas": {
+		"capital": "Little Rock",
+		"name": "Arkansas",
+		"isState": "true"
+	},
+	"Wisconsin": {
+		"capital": "Madison",
+		"name": "Wisconsin",
+		"isState": "true"
+	},
+	"Alabama": {
+		"capital": "Montgomery",
+		"name": "Alabama",
+		"isState": "true"
+	},
+	"Vermont": {
+		"capital": "Montpelier",
+		"name": "Vermont",
+		"isState": "true"
+	},
+	"Tennessee": {
+		"capital": "Nashville-Davidson",
+		"name": "Tennessee",
+		"isState": "true"
+	},
+	"Oklahoma": {
+		"capital": "Oklahoma City",
+		"name": "Oklahoma",
+		"isState": "true"
+	},
+	"Washington": {
+		"capital": "Olympia",
+		"name": "Washington",
+		"isState": "true"
+	},
+	"Arizona": {
+		"capital": "Phoenix",
+		"name": "Arizona",
+		"isState": "true"
+	},
+	"South Dakota": {
+		"capital": "Pierre",
+		"name": "South Dakota",
+		"isState": "true"
+	},
+	"Rhode Island": {
+		"capital": "Providence",
+		"name": "Rhode Island",
+		"isState": "true"
+	},
+	"North Carolina": {
+		"capital": "Raleigh",
+		"name": "North Carolina",
+		"isState": "true"
+	},
+	"Virginia": {
+		"capital": "Richmond",
+		"name": "Virginia",
+		"isState": "true"
+	},
+	"California": {
+		"capital": "Sacramento",
+		"name": "California",
+		"isState": "true"
+	},
+	"Minnesota": {
+		"capital": "St. Paul",
+		"name": "Minnesota",
+		"isState": "true"
+	},
+	"Oregon": {
+		"capital": "Salem",
+		"name": "Oregon",
+		"isState": "true"
+	},
+	"Utah": {
+		"capital": "Salt Lake City",
+		"name": "Utah",
+		"isState": "true"
+	},
+	"New Mexico": {
+		"capital": "Santa Fe",
+		"name": "New Mexico",
+		"isState": "true"
+	},
+	"Illinois": {
+		"capital": "Springfield",
+		"name": "Illinois",
+		"isState": "true"
+	},
+	"Florida": {
+		"capital": "Tallahassee",
+		"name": "Florida",
+		"isState": "true"
+	},
+	"Kansas": {
+		"capital": "Topeka",
+		"name": "Kansas",
+		"isState": "true"
+	},
+	"New Jersey": {
+		"capital": "Trenton",
+		"name": "New Jersey",
+		"isState": "true"
+	},
+	"District of Columbia": {
+		"capital": "Washington D.C.",
+		"name": "District of Columbia",
+		"isState": "true"
+	},
+	"Territory": {
+		"capital": "Capital City",
+		"name": "Territory",
+		"isTerritory": "true"
+	},
+	"American Samoa": {
+		"capital": "Pago Pago",
+		"name": "American Samoa",
+		"isTerritory": "true"
+	},
+	"Guam": {
+		"capital": "Hagåtña (Agaña)",
+		"name": "Guam",
+		"isTerritory": "true"
+	},
+	"Northern Mariana Islands": {
+		"capital": "Saipan (island)",
+		"name": "Northern Mariana Islands",
+		"isTerritory": "true"
+	},
+	"Puerto Rico": {
+		"capital": "San Juan",
+		"name": "Puerto Rico",
+		"isTerritory": "true"
+	},
+	"US Virgin Islands": {
+		"capital": "Charlotte Amalie",
+		"name": "US Virgin Islands",
+		"isTerritory": "true"
+	}
+}
