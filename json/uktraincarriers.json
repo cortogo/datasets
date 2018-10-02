@@ -1,0 +1,289 @@
+{
+    "LE": {
+        "name": "Abellio Greater Anglia",
+        "business": "EB",
+        "sector": "21",
+        "atoc": "LE"
+    },
+    "AW": {
+        "name": "Arriva Trains Wales",
+        "business": "HL",
+        "sector": "71",
+        "atoc": "AW"
+    },
+    "CC": {
+        "name": "c2c",
+        "business": "HT",
+        "sector": "79",
+        "atoc": "CC"
+    },
+    "CS": {
+        "name": "Caledonian Sleeper",
+        "business": "ES",
+        "sector": "35",
+        "atoc": "CS"
+    },
+    "CH": {
+        "name": "Chiltern Railway",
+        "business": "HO",
+        "sector": "74",
+        "atoc": "CH"
+    },
+    "XC": {
+        "name": "CrossCountry",
+        "business": "EH",
+        "sector": "27",
+        "atoc": "XC"
+    },
+    "ZZ": {
+        "name": "Devon and Cornwall Railways",
+        "business": "PO",
+        "sector": "34",
+        "atoc": "ZZ"
+    },
+    "EM": {
+        "name": "East Midlands Trains",
+        "business": "EM",
+        "sector": "28",
+        "atoc": "EM"
+    },
+    "GR": {
+        "name": "East Coast",
+        "business": "HB",
+        "sector": "61",
+        "atoc": "GR"
+    },
+    "ES": {
+        "name": "Eurostar",
+        "business": "GA",
+        "sector": "06",
+        "atoc": "ES"
+    },
+    "FC": {
+        "name": "First Capital Connect (defunct)",
+        "business": "EG",
+        "sector": "26",
+        "atoc": "FC"
+    },
+    "GW": {
+        "name": "First Great Western",
+        "business": "EF",
+        "sector": "25",
+        "atoc": "GW"
+    },
+    "HT": {
+        "name": "First Hull Trains",
+        "business": "PF",
+        "sector": "55",
+        "atoc": "HT"
+    },
+    "SR": {
+        "name": "Scotrail",
+        "business": "HA",
+        "sector": "60",
+        "atoc": "SR"
+    },
+    "TP": {
+        "name": "Transpennine Express",
+        "business": "EA",
+        "sector": "20",
+        "atoc": "TP"
+    },
+    "GX": {
+        "name": "Gatwick Express",
+        "business": "HV",
+        "sector": "81",
+        "atoc": "GX"
+    },
+    "ZZ_0": {
+        "name": "GB Railfreight",
+        "business": "PE",
+        "sector": "54",
+        "atoc": "ZZ"
+    },
+    "GC": {
+        "name": "Grand Central",
+        "business": "EC",
+        "sector": "22",
+        "atoc": "GC"
+    },
+    "LN": {
+        "name": "Great North Western Railway",
+        "business": "LN",
+        "sector": "",
+        "atoc": "LN"
+    },
+    "GN": {
+        "name": "Govia Thameslink Railway (Great Northern)",
+        "business": "ET",
+        "sector": "88",
+        "atoc": "GN"
+    },
+    "TL": {
+        "name": "Govia Thameslink Railway (Thameslink)",
+        "business": "ET",
+        "sector": "88",
+        "atoc": "TL"
+    },
+    "HC": {
+        "name": "Heathrow Connect",
+        "business": "EE",
+        "sector": "24",
+        "atoc": "HC"
+    },
+    "HX": {
+        "name": "Heathrow Express",
+        "business": "HM",
+        "sector": "86",
+        "atoc": "HX"
+    },
+    "IL": {
+        "name": "Island Lines",
+        "business": "HZ",
+        "sector": "85",
+        "atoc": "IL"
+    },
+    "LM": {
+        "name": "London Midland",
+        "business": "EJ",
+        "sector": "29",
+        "atoc": "LM"
+    },
+    "LO": {
+        "name": "London Overground",
+        "business": "EK",
+        "sector": "30",
+        "atoc": "LO"
+    },
+    "LT": {
+        "name": "LUL Bakerloo Line",
+        "business": "XC",
+        "sector": "91",
+        "atoc": "LT"
+    },
+    "LT_0": {
+        "name": "LUL District Line – Wimbledon",
+        "business": "XB",
+        "sector": "90",
+        "atoc": "LT"
+    },
+    "LT_1": {
+        "name": "LUL District Line – Richmond",
+        "business": "XE",
+        "sector": "93",
+        "atoc": "LT"
+    },
+    "ME": {
+        "name": "Merseyrail",
+        "business": "HE",
+        "sector": "64",
+        "atoc": "ME"
+    },
+    "LR": {
+        "name": "Network Rail (On-Track Machines)",
+        "business": "LR",
+        "sector": "00*",
+        "atoc": "LR"
+    },
+    "TW": {
+        "name": "Nexus (Tyne & Wear Metro)",
+        "business": "PG",
+        "sector": "56",
+        "atoc": "TW"
+    },
+    "NY": {
+        "name": "North Yorkshire Moors Railway",
+        "business": "PR",
+        "sector": "51",
+        "atoc": "NY"
+    },
+    "NT": {
+        "name": "Northern Rail",
+        "business": "ED",
+        "sector": "23",
+        "atoc": "NT"
+    },
+    "SW": {
+        "name": "South West Trains",
+        "business": "HY",
+        "sector": "84",
+        "atoc": "SW"
+    },
+    "SE": {
+        "name": "Southeastern",
+        "business": "HU",
+        "sector": "80",
+        "atoc": "SE",
+        "general": {
+            "website": "https://www.southeasternrailway.co.uk/",
+            "contact": "https://www.southeasternrailway.co.uk/help-and-contact/get-in-touch/contact-us"
+        },
+        "comp": {
+            "link": "https://www.southeasternrailway.co.uk/compensation",
+            "calc": {
+                "0": {
+                    "Single": "0",
+                    "Return": "0",
+                    "Season": "0"
+                },
+                "29": {
+                    "Single": "50",
+                    "Return": "25",
+                    "Season": "50"
+                },
+                "59": {
+                    "Single": "100",
+                    "Return": "50",
+                    "Season": "100"
+                },
+                "119": {
+                    "Single": "100",
+                    "Return": "100",
+                    "Season": "200"
+                }
+            },
+            "season": {
+                "annual": "464",
+                "quarterly": "120",
+                "monthly": "40",
+                "weekly": "10"
+            }
+        }
+    },
+    "SN": {
+        "name": "Southern",
+        "business": "HW",
+        "sector": "88",
+        "atoc": "SN"
+    },
+    "SJ": {
+        "name": "South Yorkshire Supertram",
+        "business": "SJ",
+        "sector": "",
+        "atoc": "SJ"
+    },
+    "SP": {
+        "name": "Swanage Railway",
+        "business": "SP",
+        "sector": "",
+        "atoc": "SP"
+    },
+    "XR": {
+        "name": "TfL Rail (will become Crossrail)",
+        "business": "EX",
+        "sector": "33",
+        "atoc": "XR"
+    },
+    "VT": {
+        "name": "Virgin Trains",
+        "business": "HF",
+        "sector": "65",
+        "atoc": "VT"
+    },
+    "WR": {
+        "name": "West Coast Railway Co.",
+        "business": "PA",
+        "sector": "50",
+        "atoc": "WR"
+    }
+}
