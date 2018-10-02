@@ -1,0 +1,7993 @@
+{
+	"AFG": {
+		"name": "Afghanistan",
+		"alpha2": "AF",
+		"alpha3": "AFG",
+		"numeric": "004",
+		"calling": {
+			"callingCode": "93",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Afghani",
+			"alphabeticCode": "AFN",
+			"numericCode": "971"
+		},
+		"names": {
+			"english": "Afghanistan",
+			"french": "Afghanistan",
+			"local": "Afghanestan",
+			"officialName": "Islamic State of Afghanistan"
+		},
+		"region": "South-Central Asia",
+		"area": {
+			"area": "652090",
+			"earthPercentage": "0.44"
+		},
+		"capital": {
+			"name": "Kabul",
+			"population": "1000000"
+		},
+		"population": {
+			"2015": "26556000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ALB": {
+		"name": "Albania",
+		"alpha2": "AL",
+		"alpha3": "ALB",
+		"numeric": "008",
+		"calling": {
+			"callingCode": "355",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Lek",
+			"alphabeticCode": "ALL",
+			"numericCode": "008"
+		},
+		"names": {
+			"english": "Albania",
+			"french": "Albanie",
+			"local": "Shqiperia",
+			"officialName": "Republic of Albania"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "28748",
+			"earthPercentage": "0.02"
+		},
+		"capital": {
+			"name": "Tirana",
+			"population": "250000"
+		},
+		"population": {
+			"2015": "2890000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"DZA": {
+		"name": "Algeria",
+		"alpha2": "DZ",
+		"alpha3": "DZA",
+		"numeric": "012",
+		"calling": {
+			"callingCode": "213",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Algerian Dinar",
+			"alphabeticCode": "DZD",
+			"numericCode": "012"
+		},
+		"names": {
+			"english": "Algeria",
+			"french": "Algérie",
+			"local": "Al Jaza'ir",
+			"officialName": "Democratic and Popular Republic of Algeria"
+		},
+		"region": "Northern Africa",
+		"area": {
+			"area": "2381741",
+			"earthPercentage": "1.6"
+		},
+		"capital": {
+			"name": "Algiers",
+			"population": "1600000"
+		},
+		"population": {
+			"2016": "40400000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ASM": {
+		"name": "American Samoa",
+		"alpha2": "AS",
+		"alpha3": "ASM",
+		"numeric": "016",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "US Dollar",
+			"alphabeticCode": "USD",
+			"numericCode": "840"
+		},
+		"names": {
+			"english": "American Samoa",
+			"french": "Samoa Américaines",
+			"local": "American Samoa"
+		},
+		"region": "Polynesia, Oceania",
+		"area": {
+			"area": "199",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Pago Pago",
+			"population": "3600"
+		},
+		"population": {
+			"2015": "54300"
+		}
+	},
+	"AND": {
+		"name": "Andorra",
+		"alpha2": "AD",
+		"alpha3": "AND",
+		"numeric": "020",
+		"calling": {
+			"callingCode": "376",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro, since 1 July 2013 replaced Andorran Peseta",
+			"alphabeticCode": "EUR ADP",
+			"numericCode": "978 020"
+		},
+		"names": {
+			"english": "Andorra",
+			"french": "Andorre",
+			"local": "Andorra",
+			"officialName": "Principality of Andorra"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "468",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Andorra la Vella",
+			"population": "16000"
+		},
+		"population": {
+			"2015": "71700"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"AGO": {
+		"name": "Angola",
+		"alpha2": "AO",
+		"alpha3": "AGO",
+		"numeric": "024",
+		"calling": {
+			"callingCode": "244",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Kwanza",
+			"alphabeticCode": "AOA",
+			"numericCode": "973"
+		},
+		"names": {
+			"english": "Angola",
+			"french": "Angola",
+			"local": "Angola",
+			"officialName": "Republic of Angola"
+		},
+		"region": "Central Africa",
+		"area": {
+			"area": "1246700",
+			"earthPercentage": "0.85"
+		},
+		"capital": {
+			"name": "Luanda",
+			"population": "470000"
+		},
+		"population": {
+			"2014": "24383300"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"AIA": {
+		"name": "Anguilla",
+		"alpha2": "AI",
+		"alpha3": "AIA",
+		"numeric": "660",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "East Caribbean Dollar",
+			"alphabeticCode": "XCD",
+			"numericCode": "951"
+		},
+		"names": {
+			"english": "Anguilla",
+			"french": "Anguilla",
+			"local": "Anguilla"
+		},
+		"region": "Leeward Islands, Caribbean",
+		"area": {
+			"area": "91",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2016": "16600"
+		}
+	},
+	"ATG": {
+		"name": "Antigua and Barbuda",
+		"alpha2": "AG",
+		"alpha3": "ATG",
+		"numeric": "028",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "East Caribbean Dollar",
+			"alphabeticCode": "XCD",
+			"numericCode": "951"
+		},
+		"names": {
+			"english": "Antigua and Barbuda",
+			"french": "Antigua-et-Barbuda",
+			"local": "Antigua and Barbuda",
+			"officialName": "Antigua and Barbuda"
+		},
+		"region": "Leeward Islands, Caribbean",
+		"area": {
+			"area": "442",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2011": "89000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Saint John's"
+		}
+	},
+	"ARG": {
+		"name": "Argentina",
+		"alpha2": "AR",
+		"alpha3": "ARG",
+		"numeric": "032",
+		"calling": {
+			"callingCode": "54",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Argentine Peso",
+			"alphabeticCode": "ARS",
+			"numericCode": "032"
+		},
+		"names": {
+			"english": "Argentina",
+			"french": "Argentine",
+			"local": "Argentina",
+			"officialName": "Argentine Republic"
+		},
+		"region": "Southern South America",
+		"area": {
+			"area": "2780400",
+			"earthPercentage": "2"
+		},
+		"capital": {
+			"name": "Buenos Aires",
+			"population": "3000000"
+		},
+		"population": {
+			"2016": "43590000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ARM": {
+		"name": "Armenia",
+		"alpha2": "AM",
+		"alpha3": "ARM",
+		"numeric": "051",
+		"calling": {
+			"callingCode": "374",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Armenian Dram",
+			"alphabeticCode": "AMD",
+			"numericCode": "051"
+		},
+		"names": {
+			"english": "Armenia",
+			"french": "Arménie",
+			"local": "Hayastan",
+			"officialName": "Republic of Armenia"
+		},
+		"region": "Western Asia",
+		"area": {
+			"area": "29743",
+			"earthPercentage": "0.02"
+		},
+		"capital": {
+			"name": "Yerevan",
+			"population": "1200000"
+		},
+		"population": {
+			"2016": "3000000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ABW": {
+		"name": "Aruba",
+		"alpha2": "AW",
+		"alpha3": "ABW",
+		"numeric": "533",
+		"calling": {
+			"callingCode": "297",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Aruban Guilder",
+			"alphabeticCode": "AWG",
+			"numericCode": "533"
+		},
+		"names": {
+			"english": "Aruba",
+			"french": "Aruba",
+			"local": "Aruba"
+		},
+		"region": "Leeward Islands, Caribbean",
+		"area": {
+			"area": "180",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2015": "106000"
+		}
+	},
+	"AUS": {
+		"name": "Australia",
+		"alpha2": "AU",
+		"alpha3": "AUS",
+		"numeric": "036",
+		"calling": {
+			"callingCode": "61",
+			"intDialingPrefix": "0011"
+		},
+		"currency": {
+			"name": "Australian Dollar",
+			"alphabeticCode": "AUD",
+			"numericCode": "036"
+		},
+		"names": {
+			"english": "Australia",
+			"french": "Australie",
+			"local": "Australia",
+			"officialName": "Commonwealth of Australia"
+		},
+		"region": "Australia/Oceania",
+		"area": {
+			"area": "7692024",
+			"earthPercentage": "5.2"
+		},
+		"capital": {
+			"name": "Canberra",
+			"population": "347000"
+		},
+		"population": {
+			"2016": "24129000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"AUT": {
+		"name": "Austria",
+		"alpha2": "AT",
+		"alpha3": "AUT",
+		"numeric": "040",
+		"calling": {
+			"callingCode": "43",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Austrian Schilling",
+			"alphabeticCode": "EUR ATS",
+			"numericCode": "978 040"
+		},
+		"names": {
+			"english": "Austria",
+			"french": "Autriche",
+			"local": "Österreich",
+			"officialName": "Republic of Austria"
+		},
+		"region": "Western Europe",
+		"area": {
+			"area": "83871",
+			"earthPercentage": "0.06"
+		},
+		"capital": {
+			"name": "Vienna",
+			"population": "1600000"
+		},
+		"population": {
+			"2016": "8740000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"AZE": {
+		"name": "Azerbaijan",
+		"alpha2": "AZ",
+		"alpha3": "AZE",
+		"numeric": "031",
+		"calling": {
+			"callingCode": "994",
+			"intDialingPrefix": "810"
+		},
+		"currency": {
+			"name": "Azerbaijan Manat; Beginning January 2006, 1 new Manat (AZN) = 5000 old Manats (AZM).",
+			"alphabeticCode": "AZN",
+			"numericCode": "031"
+		},
+		"names": {
+			"english": "Azerbaijan",
+			"french": "Azerbaïdjan",
+			"local": "Azarbaycan",
+			"officialName": "Azerbaijani Republic"
+		},
+		"region": "Caucasus, Western Asia",
+		"area": {
+			"area": "86600",
+			"earthPercentage": "0.06"
+		},
+		"capital": {
+			"name": "Baku",
+			"population": "1150000"
+		},
+		"population": {
+			"2016": "9705600"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BHS": {
+		"name": "Bahamas",
+		"alpha2": "BS",
+		"alpha3": "BHS",
+		"numeric": "044",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "Bahamian Dollar",
+			"alphabeticCode": "BSD",
+			"numericCode": "044"
+		},
+		"names": {
+			"english": "Bahamas",
+			"french": "Bahamas",
+			"local": "Bahamas",
+			"officialName": "Commonwealth of The Bahamas"
+		},
+		"region": "Caribbean",
+		"area": {
+			"area": "13943",
+			"earthPercentage": ">0.01"
+		},
+		"population": {
+			"2015": "370000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Nassau"
+		}
+	},
+	"BHR": {
+		"name": "Bahrain",
+		"alpha2": "BH",
+		"alpha3": "BHR",
+		"numeric": "048",
+		"calling": {
+			"callingCode": "973",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Bahraini Dinar",
+			"alphabeticCode": "BHD",
+			"numericCode": "048"
+		},
+		"names": {
+			"english": "Bahrain",
+			"french": "Bahreïn",
+			"local": "Al Bahrayn",
+			"officialName": "State of Bahrain"
+		},
+		"region": "Arabian Peninsula, Middle East",
+		"area": {
+			"area": "741",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Manama",
+			"population": "150000"
+		},
+		"population": {
+			"2010": "1234000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BGD": {
+		"name": "Bangladesh",
+		"alpha2": "BD",
+		"alpha3": "BGD",
+		"numeric": "050",
+		"calling": {
+			"callingCode": "880",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Taka",
+			"alphabeticCode": "BDT",
+			"numericCode": "050"
+		},
+		"names": {
+			"english": "Bangladesh",
+			"french": "Bangladesh",
+			"local": "Bangladesh",
+			"officialName": "People's Republic of Bangladesh"
+		},
+		"region": "South-Central Asia",
+		"area": {
+			"area": "143998",
+			"earthPercentage": "0.10"
+		},
+		"capital": {
+			"name": "Dhaka",
+			"population": "3400000"
+		},
+		"population": {
+			"2017": "164670000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BRB": {
+		"name": "Barbados",
+		"alpha2": "BB",
+		"alpha3": "BRB",
+		"numeric": "052",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "Barbados Dollar",
+			"alphabeticCode": "BBD",
+			"numericCode": "052"
+		},
+		"names": {
+			"english": "Barbados",
+			"french": "Barbade",
+			"local": "Barbados",
+			"officialName": "Barbados"
+		},
+		"region": "Lesser Antilles, Caribbean",
+		"area": {
+			"area": "431",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Bridgetown",
+			"population": "8500"
+		},
+		"population": {
+			"2013": "285000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BLR": {
+		"name": "Belarus",
+		"alpha2": "BY",
+		"alpha3": "BLR",
+		"numeric": "112",
+		"calling": {
+			"callingCode": "375",
+			"intDialingPrefix": "810"
+		},
+		"currency": {
+			"name": "Belarusian Ruble",
+			"alphabeticCode": "BYR",
+			"numericCode": "974"
+		},
+		"names": {
+			"english": "Belarus",
+			"french": "Bélarus",
+			"local": "Byelarus",
+			"officialName": "Republic of Belarus"
+		},
+		"region": "Eastern Europe",
+		"area": {
+			"area": "207595",
+			"earthPercentage": "0.14"
+		},
+		"capital": {
+			"name": "Minsk",
+			"population": "1700000"
+		},
+		"population": {
+			"2016": "9505200"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BEL": {
+		"name": "Belgium",
+		"alpha2": "BE",
+		"alpha3": "BEL",
+		"numeric": "056",
+		"calling": {
+			"callingCode": "32",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Belgium Francs",
+			"alphabeticCode": "EUR BEF",
+			"numericCode": "978056"
+		},
+		"names": {
+			"english": "Belgium",
+			"french": "Belgique",
+			"local": "Belgique/Belgie",
+			"officialName": "Kingdom of Belgium"
+		},
+		"region": "Western Europe",
+		"area": {
+			"area": "30528",
+			"earthPercentage": "0.02"
+		},
+		"capital": {
+			"name": "Brussels",
+			"population": "140000"
+		},
+		"population": {
+			"2016": "11268000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BLZ": {
+		"name": "Belize",
+		"alpha2": "BZ",
+		"alpha3": "BLZ",
+		"numeric": "084",
+		"calling": {
+			"callingCode": "501",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Belize Dollar",
+			"alphabeticCode": "BZD",
+			"numericCode": "084"
+		},
+		"names": {
+			"english": "Belize",
+			"french": "Belize",
+			"local": "Belize",
+			"officialName": "Belize"
+		},
+		"region": "Central America",
+		"area": {
+			"area": "22966",
+			"earthPercentage": "0.02"
+		},
+		"capital": {
+			"name": "Belmopan",
+			"population": "8300"
+		},
+		"population": {
+			"2015": "361000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BEN": {
+		"name": "Benin",
+		"alpha2": "BJ",
+		"alpha3": "BEN",
+		"numeric": "204",
+		"calling": {
+			"callingCode": "229",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFA Franc BCEAO",
+			"alphabeticCode": "XOF",
+			"numericCode": "952"
+		},
+		"names": {
+			"english": "Benin",
+			"french": "Bénin",
+			"local": "Benin",
+			"officialName": "Republic of Benin"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "112622",
+			"earthPercentage": "0.08"
+		},
+		"capital": {
+			"name": "Porto-Novo",
+			"population": "185000"
+		},
+		"population": {
+			"2013": "10008000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BMU": {
+		"name": "Bermuda",
+		"alpha2": "BM",
+		"alpha3": "BMU",
+		"numeric": "060",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "Bermudian Dollar",
+			"alphabeticCode": "BMD",
+			"numericCode": "060"
+		},
+		"names": {
+			"english": "Bermuda",
+			"french": "Bermudes",
+			"local": "Bermuda"
+		},
+		"region": "North America",
+		"area": {
+			"area": "53",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2014": "65100"
+		}
+	},
+	"BTN": {
+		"name": "Bhutan",
+		"alpha2": "BT",
+		"alpha3": "BTN",
+		"numeric": "064",
+		"calling": {
+			"callingCode": "975",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Ngultrum Indian Rupee",
+			"alphabeticCode": "BTN INR",
+			"numericCode": "064 356"
+		},
+		"names": {
+			"english": "Bhutan",
+			"french": "Bhoutan",
+			"local": "Bhutan",
+			"officialName": "Kingdom of Bhutan"
+		},
+		"region": "South-Central Asia",
+		"area": {
+			"area": "38394",
+			"earthPercentage": "0.03"
+		},
+		"capital": {
+			"name": "Thimphu",
+			"population": "9000"
+		},
+		"population": {
+			"2015": "760000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BOL": {
+		"name": "Bolivia",
+		"alpha2": "BO",
+		"alpha3": "BOL",
+		"numeric": "068",
+		"calling": {
+			"callingCode": "591",
+			"intDialingPrefix": "0010"
+		},
+		"currency": {
+			"name": "Boliviano",
+			"alphabeticCode": "BOB",
+			"numericCode": "068"
+		},
+		"names": {
+			"english": "Bolivia",
+			"french": "Bolivie",
+			"local": "Bolivia",
+			"officialName": "Republic of Bolivia"
+		},
+		"region": "Central South America",
+		"area": {
+			"area": "1098581",
+			"earthPercentage": "0.74"
+		},
+		"capital": {
+			"name": "La Paz (administrative) Sucre (legisl./judiciary)",
+			"population": "785000"
+		},
+		"population": {
+			"2016": "11410000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BIH": {
+		"name": "Bosnia and Herzegovina",
+		"alpha2": "BA",
+		"alpha3": "BIH",
+		"numeric": "070",
+		"calling": {
+			"callingCode": "387",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Convertible Mark",
+			"alphabeticCode": "BAM",
+			"numericCode": "977"
+		},
+		"names": {
+			"english": "Bosnia and Herzegovina",
+			"french": "Bosnie-Herzégovine",
+			"local": "Bosna i Hercegovina",
+			"officialName": ""
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "51197",
+			"earthPercentage": "0.03"
+		},
+		"population": {
+			"2013": "3530000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Sarajevo"
+		}
+	},
+	"BWA": {
+		"name": "Botswana",
+		"alpha2": "BW",
+		"alpha3": "BWA",
+		"numeric": "072",
+		"calling": {
+			"callingCode": "267",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Pula",
+			"alphabeticCode": "BWP",
+			"numericCode": "072"
+		},
+		"names": {
+			"english": "Botswana",
+			"french": "Botswana",
+			"local": "Botswana",
+			"officialName": "Republic of Botswana"
+		},
+		"region": "Southern Africa",
+		"area": {
+			"area": "582000",
+			"earthPercentage": "0.39"
+		},
+		"capital": {
+			"name": "Gaborone",
+			"population": "140000"
+		},
+		"population": {
+			"2016": "2230000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BVT": {
+		"name": "Bouvet Island",
+		"alpha2": "BV",
+		"alpha3": "BVT",
+		"numeric": "074"
+	},
+	"BRA": {
+		"name": "Brazil",
+		"alpha2": "BR",
+		"alpha3": "BRA",
+		"numeric": "076",
+		"calling": {
+			"callingCode": "55",
+			"intDialingPrefix": "0014"
+		},
+		"currency": {
+			"name": "Brazilian Real",
+			"alphabeticCode": "BRL",
+			"numericCode": "986"
+		},
+		"names": {
+			"english": "Brazil",
+			"french": "Brésil",
+			"local": "Brasil",
+			"officialName": "Federative Republic of Brazil"
+		},
+		"region": "Central Eastern South America",
+		"area": {
+			"area": "8514877",
+			"earthPercentage": "5.7"
+		},
+		"capital": {
+			"name": "Brasilia",
+			"population": "1650000"
+		},
+		"population": {
+			"2017": "208300000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"VGB": {
+		"name": "British Virgin Islands",
+		"alpha2": "VG",
+		"alpha3": "VGB",
+		"numeric": "092",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "US Dollar",
+			"alphabeticCode": "USD",
+			"numericCode": "840"
+		},
+		"names": {
+			"english": "Virgin Islands (British)",
+			"french": "Îles Vierges Britanniques"
+		},
+		"region": "Lesser Antilles, Caribbean",
+		"area": {
+			"area": "151",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2012": "28000"
+		}
+	},
+	"IOT": {
+		"name": "British Indian Ocean Territory",
+		"alpha2": "IO",
+		"alpha3": "IOT",
+		"numeric": "086"
+	},
+	"BRN": {
+		"name": "Brunei Darussalam",
+		"alpha2": "BN",
+		"alpha3": "BRN",
+		"numeric": "096",
+		"calling": {
+			"callingCode": "673",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Brunei Dollar",
+			"alphabeticCode": "BND",
+			"numericCode": "096"
+		},
+		"names": {
+			"english": "Brunei Darussalam",
+			"french": "Brunéi Darussalam",
+			"local": "Negara Brunei Darussalam",
+			"officialName": "Negara Brunei Darussalam"
+		},
+		"region": "Southeast Asia",
+		"area": {
+			"area": "5765",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2015": "417200"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Bandar Seri Begawan"
+		}
+	},
+	"BGR": {
+		"name": "Bulgaria",
+		"alpha2": "BG",
+		"alpha3": "BGR",
+		"numeric": "100",
+		"calling": {
+			"callingCode": "359",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Bulgarian Lev",
+			"alphabeticCode": "BGN",
+			"numericCode": "975"
+		},
+		"names": {
+			"english": "Bulgaria",
+			"french": "Bulgarie",
+			"local": "Bulgaria",
+			"officialName": "Republic of Bulgaria"
+		},
+		"region": "Balkan, Eastern Europe",
+		"area": {
+			"area": "110879",
+			"earthPercentage": "0.07"
+		},
+		"capital": {
+			"name": "Sofia",
+			"population": "1150000"
+		},
+		"population": {
+			"2015": "7153000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BFA": {
+		"name": "Burkina Faso",
+		"alpha2": "BF",
+		"alpha3": "BFA",
+		"numeric": "854",
+		"calling": {
+			"callingCode": "226",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFA Franc BCEAO",
+			"alphabeticCode": "XOF",
+			"numericCode": "952"
+		},
+		"names": {
+			"english": "Burkina Faso",
+			"french": "Burkina Faso",
+			"local": "Burkina Faso",
+			"officialName": "Burkina Faso"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "274222",
+			"earthPercentage": "0.18"
+		},
+		"capital": {
+			"name": "Ouagadougou",
+			"population": "650000"
+		},
+		"population": {
+			"2016": "19034397"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BDI": {
+		"name": "Burundi",
+		"alpha2": "BI",
+		"alpha3": "BDI",
+		"numeric": "108",
+		"calling": {
+			"callingCode": "257",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Burundi Franc",
+			"alphabeticCode": "BIF",
+			"numericCode": "108"
+		},
+		"names": {
+			"english": "Burundi",
+			"french": "Burundi",
+			"local": "Burundi",
+			"officialName": "Republic of Burundi"
+		},
+		"region": "Eastern Africa, African Great Lakes",
+		"area": {
+			"area": "27834",
+			"earthPercentage": "0.02"
+		},
+		"capital": {
+			"name": "Bujumbura",
+			"population": "240000"
+		},
+		"population": {
+			"2016": "10114000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"KHM": {
+		"name": "Cambodia",
+		"alpha2": "KH",
+		"alpha3": "KHM",
+		"numeric": "116",
+		"calling": {
+			"callingCode": "855",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Riel (The US dollar is the de facto currency)",
+			"alphabeticCode": "KHR",
+			"numericCode": "116"
+		},
+		"names": {
+			"english": "Cambodia",
+			"french": "Cambodge",
+			"local": "Kampuchea",
+			"officialName": "Kingdom of Cambodia"
+		},
+		"region": "South-East Asia",
+		"area": {
+			"area": "181035",
+			"earthPercentage": "0.12"
+		},
+		"capital": {
+			"name": "Phnom Penh",
+			"population": "900000"
+		},
+		"population": {
+			"2013": "14676591"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"CMR": {
+		"name": "Cameroon",
+		"alpha2": "CM",
+		"alpha3": "CMR",
+		"numeric": "120",
+		"calling": {
+			"callingCode": "237",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFA Franc BEAC",
+			"alphabeticCode": "XAF",
+			"numericCode": "950"
+		},
+		"names": {
+			"english": "Cameroon",
+			"french": "Cameroun",
+			"local": "Cameroon",
+			"officialName": "Republic of Cameroon"
+		},
+		"region": "Central Africa",
+		"area": {
+			"area": "475650",
+			"earthPercentage": "0.32"
+		},
+		"capital": {
+			"name": "Yaoundé",
+			"population": "660000"
+		},
+		"population": {
+			"2016": "24000000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"CAN": {
+		"name": "Canada",
+		"alpha2": "CA",
+		"alpha3": "CAN",
+		"numeric": "124",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "Canadian Dollar",
+			"alphabeticCode": "CAD",
+			"numericCode": "124"
+		},
+		"names": {
+			"english": "Canada",
+			"french": "Canada",
+			"local": "Canada",
+			"officialName": "Canada"
+		},
+		"region": "North North America",
+		"area": {
+			"area": "9984670",
+			"earthPercentage": "6.7"
+		},
+		"capital": {
+			"name": "Ottawa",
+			"population": "320000"
+		},
+		"population": {
+			"2016": "36286400"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"CPV": {
+		"name": "Cape Verde",
+		"alpha2": "CV",
+		"alpha3": "CPV",
+		"numeric": "132",
+		"calling": {
+			"callingCode": "238",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Cape Verde Escudo",
+			"alphabeticCode": "CVE",
+			"numericCode": "132"
+		},
+		"names": {
+			"english": "Cape Verde",
+			"french": "Cap-Vert",
+			"local": "Cabo Verde",
+			"officialName": "Republic of Cape Verde"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "4033",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Praia",
+			"population": "62000"
+		},
+		"population": {
+			"2015": "525000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"CYM": {
+		"name": "Cayman Islands",
+		"alpha2": "KY",
+		"alpha3": "CYM",
+		"numeric": "136",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "Cayman Islands Dollar",
+			"alphabeticCode": "KYD",
+			"numericCode": "136"
+		},
+		"names": {
+			"english": "Cayman Islands",
+			"french": "Caïmanes, Îles",
+			"local": "Cayman Islands"
+		},
+		"region": "Greater Antilles, Caribbean",
+		"area": {
+			"area": "264",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2015": "60400"
+		}
+	},
+	"CAF": {
+		"name": "Central African Republic",
+		"alpha2": "CF",
+		"alpha3": "CAF",
+		"numeric": "140",
+		"calling": {
+			"callingCode": "236",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFA Franc BEAC",
+			"alphabeticCode": "XAF",
+			"numericCode": "950"
+		},
+		"names": {
+			"english": "Central African Republic",
+			"french": "Centrafricaine, République",
+			"local": "Republique Centrafricaine",
+			"officialName": "Central African Republic"
+		},
+		"region": "Central Africa",
+		"area": {
+			"area": "622984",
+			"earthPercentage": "0.42"
+		},
+		"population": {
+			"2011": "5000000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Bangui"
+		}
+	},
+	"TCD": {
+		"name": "Chad",
+		"alpha2": "TD",
+		"alpha3": "TCD",
+		"numeric": "148",
+		"calling": {
+			"callingCode": "235",
+			"intDialingPrefix": "15"
+		},
+		"currency": {
+			"name": "CFA Franc BEAC",
+			"alphabeticCode": "XAF",
+			"numericCode": "950"
+		},
+		"names": {
+			"english": "Chad",
+			"french": "Tchad",
+			"local": "Tchad",
+			"officialName": "Republic of Chad"
+		},
+		"region": "Central Africa",
+		"area": {
+			"area": "1284000",
+			"earthPercentage": "0.86"
+		},
+		"capital": {
+			"name": "N'Djamena",
+			"population": "190000"
+		},
+		"population": {
+			"2015": "13679000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"CHL": {
+		"name": "Chile",
+		"alpha2": "CL",
+		"alpha3": "CHL",
+		"numeric": "152",
+		"calling": {
+			"callingCode": "56",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Chilean Peso",
+			"alphabeticCode": "CLP",
+			"numericCode": "152"
+		},
+		"names": {
+			"english": "Chile",
+			"french": "Chili",
+			"local": "Chile",
+			"officialName": "Republic of Chile"
+		},
+		"region": "Western South America",
+		"area": {
+			"area": "756102",
+			"earthPercentage": "0.51"
+		},
+		"capital": {
+			"name": "Santiago",
+			"population": "4250000"
+		},
+		"population": {
+			"2014": "17819054"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"CHN": {
+		"name": "China",
+		"alpha2": "CN",
+		"alpha3": "CHN",
+		"numeric": "156",
+		"calling": {
+			"callingCode": "86",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Renminbi (Yuan)",
+			"alphabeticCode": "CNY",
+			"numericCode": "156"
+		},
+		"names": {
+			"english": "China",
+			"french": "Chine",
+			"local": "Zhong Guo",
+			"officialName": "People's Republic of China"
+		},
+		"region": "Eastern Asia",
+		"area": {
+			"area": "9598094",
+			"earthPercentage": "6.4"
+		},
+		"capital": {
+			"name": "Beijing",
+			"population": "7400000"
+		},
+		"population": {
+			"2017": "1382710000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"HKG": {
+		"name": "Hong Kong, SAR China",
+		"alpha2": "HK",
+		"alpha3": "HKG",
+		"numeric": "344",
+		"calling": {
+			"callingCode": "852",
+			"intDialingPrefix": "001"
+		},
+		"currency": {
+			"name": "Hong Kong Dollar",
+			"alphabeticCode": "HKD",
+			"numericCode": "344"
+		},
+		"names": {
+			"english": "Hong Kong",
+			"french": "Hong-Kong",
+			"local": "Xianggang"
+		},
+		"region": "Eastern Asia",
+		"area": {
+			"area": "1106"
+		},
+		"population": {
+			"2017": "7374900"
+		}
+	},
+	"MAC": {
+		"name": "Macao, SAR China",
+		"alpha2": "MO",
+		"alpha3": "MAC",
+		"numeric": "446",
+		"calling": {
+			"callingCode": "853",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Macanese Pataca",
+			"alphabeticCode": "MOP",
+			"numericCode": "446"
+		},
+		"names": {
+			"english": "Macau",
+			"french": "Macao",
+			"local": "Aomen"
+		},
+		"region": "Eastern Asia",
+		"population": {
+			"2016": "644.900"
+		}
+	},
+	"CXR": {
+		"name": "Christmas Island",
+		"alpha2": "CX",
+		"alpha3": "CXR",
+		"numeric": "162",
+		"calling": {
+			"callingCode": "61",
+			"intDialingPrefix": "0011"
+		},
+		"currency": {
+			"name": "Australian Dollar",
+			"alphabeticCode": "AUD",
+			"numericCode": "036"
+		},
+		"names": {
+			"english": "Christmas Island",
+			"french": "Île Christmas",
+			"local": "Christmas Island"
+		},
+		"region": "Southeast Asia"
+	},
+	"CCK": {
+		"name": "Cocos (Keeling) Islands",
+		"alpha2": "CC",
+		"alpha3": "CCK",
+		"numeric": "166",
+		"calling": {
+			"callingCode": "61",
+			"intDialingPrefix": "0011"
+		},
+		"currency": {
+			"name": "Australian Dollar",
+			"alphabeticCode": "AUD",
+			"numericCode": "036"
+		},
+		"names": {
+			"english": "Cocos (Keeling) Islands",
+			"french": "Îles Cocos (Keeling)",
+			"local": "Cocos (Keeling) Islands"
+		},
+		"region": "South-East Asia, Australia"
+	},
+	"COL": {
+		"name": "Colombia",
+		"alpha2": "CO",
+		"alpha3": "COL",
+		"numeric": "170",
+		"calling": {
+			"callingCode": "57",
+			"intDialingPrefix": "005"
+		},
+		"currency": {
+			"name": "Colombian Peso",
+			"alphabeticCode": "COP",
+			"numericCode": "170"
+		},
+		"names": {
+			"english": "Colombia",
+			"french": "Colombie",
+			"local": "Colombia",
+			"officialName": "Republic of Colombia"
+		},
+		"region": "North West South America",
+		"area": {
+			"area": "1138914",
+			"earthPercentage": "0.76"
+		},
+		"capital": {
+			"name": "Bogotá",
+			"population": "6422198"
+		},
+		"population": {
+			"2015": "48063000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"COM": {
+		"name": "Comoros",
+		"alpha2": "KM",
+		"alpha3": "COM",
+		"numeric": "174",
+		"calling": {
+			"callingCode": "269",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Comoro Franc",
+			"alphabeticCode": "KMF",
+			"numericCode": "174"
+		},
+		"names": {
+			"english": "Comoros",
+			"french": "Comores",
+			"local": "Comores",
+			"officialName": "Federal Islamic Republic of the Comoros"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "2235",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Moroni",
+			"population": "19000"
+		},
+		"population": {
+			"2015": "770000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"COG": {
+		"name": "Congo (Brazzaville)",
+		"alpha2": "CG",
+		"alpha3": "COG",
+		"numeric": "178",
+		"calling": {
+			"callingCode": "242",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFA Franc BEAC",
+			"alphabeticCode": "XAF",
+			"numericCode": "950"
+		},
+		"names": {
+			"english": "Congo, Republic of (Brazzaville)",
+			"french": "République du Congo",
+			"local": "République du Congo",
+			"officialName": "Republic of the Congo"
+		},
+		"region": "Central Africa",
+		"area": {
+			"area": "342000",
+			"earthPercentage": "0.23"
+		},
+		"capital": {
+			"name": "Brazzaville",
+			"population": "620000"
+		},
+		"population": {
+			"2012": "4043000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"COD": {
+		"name": "Congo, (Kinshasa)",
+		"alpha2": "CD",
+		"alpha3": "COD",
+		"numeric": "180",
+		"calling": {
+			"callingCode": "243",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Franc Congolais",
+			"alphabeticCode": "CDF",
+			"numericCode": "976"
+		},
+		"names": {
+			"english": "Democratic Republic of the Congo (Kinshasa)",
+			"french": "Congo, La République Démocratique du",
+			"local": "République Démocratique du Congo",
+			"officialName": "Democratic Republic of the Congo"
+		},
+		"region": "Central Africa",
+		"area": {
+			"area": "2344858",
+			"earthPercentage": "1.6"
+		},
+		"population": {
+			"2015": "71200000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Kinshasa"
+		}
+	},
+	"COK": {
+		"name": "Cook Islands",
+		"alpha2": "CK",
+		"alpha3": "COK",
+		"numeric": "184",
+		"calling": {
+			"callingCode": "682",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "New Zealand Dollar",
+			"alphabeticCode": "NZD",
+			"numericCode": "554"
+		},
+		"names": {
+			"english": "Cook Islands",
+			"french": "Îles Cook",
+			"local": "Cook Islands"
+		},
+		"region": "Polynesia, Oceania",
+		"area": {
+			"area": "236",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Avarua",
+			"population": "12000"
+		}
+	},
+	"CRI": {
+		"name": "Costa Rica",
+		"alpha2": "CR",
+		"alpha3": "CRI",
+		"numeric": "188",
+		"calling": {
+			"callingCode": "506",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Costa Rican Colón",
+			"alphabeticCode": "CRC",
+			"numericCode": "188"
+		},
+		"names": {
+			"english": "Costa Rica",
+			"french": "Costa Rica",
+			"local": "Costa Rica",
+			"officialName": "Republic of Costa Rica"
+		},
+		"region": "Central America",
+		"area": {
+			"area": "51100",
+			"earthPercentage": "0.03"
+		},
+		"capital": {
+			"name": "San José",
+			"population": "317000"
+		},
+		"population": {
+			"2015": "4832000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"CIV": {
+		"name": "Côte d'Ivoire",
+		"alpha2": "CI",
+		"alpha3": "CIV",
+		"numeric": "384",
+		"calling": {
+			"callingCode": "225",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFA Franc BCEAO",
+			"alphabeticCode": "XOF",
+			"numericCode": "952"
+		},
+		"names": {
+			"english": "Ivory Coast",
+			"french": "Côte D'ivoire",
+			"local": "Cote d'Ivoire",
+			"officialName": "Republic of Côte d'Ivoire"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "322463",
+			"earthPercentage": "0.22"
+		},
+		"capital": {
+			"name": "Yamoussoukro",
+			"population": "110000"
+		},
+		"population": {
+			"2015": "22700000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"HRV": {
+		"name": "Croatia",
+		"alpha2": "HR",
+		"alpha3": "HRV",
+		"numeric": "191",
+		"calling": {
+			"callingCode": "385",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Croatian Kuna",
+			"alphabeticCode": "HRK",
+			"numericCode": "191"
+		},
+		"names": {
+			"english": "Croatia",
+			"french": "Croatie",
+			"local": "Hrvatska",
+			"officialName": "Republic of Croatia"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "56594",
+			"earthPercentage": "0.04"
+		},
+		"population": {
+			"2015": "4225000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Zagreb"
+		}
+	},
+	"CUB": {
+		"name": "Cuba",
+		"alpha2": "CU",
+		"alpha3": "CUB",
+		"numeric": "192",
+		"calling": {
+			"callingCode": "53",
+			"intDialingPrefix": "119"
+		},
+		"currency": {
+			"name": "Cuban Peso",
+			"alphabeticCode": "CUP",
+			"numericCode": "192"
+		},
+		"names": {
+			"english": "Cuba",
+			"french": "Cuba",
+			"local": "Cuba",
+			"officialName": "Republic of Cuba"
+		},
+		"region": "Greater Antilles, Caribbean",
+		"area": {
+			"area": "109884",
+			"earthPercentage": "0.07"
+		},
+		"capital": {
+			"name": "Havana (Habana)",
+			"population": "2180000"
+		},
+		"population": {
+			"2015": "11239000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"CYP": {
+		"name": "Cyprus",
+		"alpha2": "CY",
+		"alpha3": "CYP",
+		"numeric": "196",
+		"calling": {
+			"callingCode": "357",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "1 January 2008, the Cyprus Pound (CYP) was replaced by the euro; Northern Cyprus also Turkish lira in use",
+			"alphabeticCode": "EUR TRY",
+			"numericCode": "978 949"
+		},
+		"names": {
+			"english": "Cyprus",
+			"french": "Chypre",
+			"local": "Kibris, Kypros",
+			"officialName": "Republic of Cyprus"
+		},
+		"region": "Mediterranean, Western Asia",
+		"area": {
+			"area": "9251",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Nicosia",
+			"population": "180000"
+		},
+		"population": {
+			"2015": "848300"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"CZE": {
+		"name": "Czech Republic",
+		"alpha2": "CZ",
+		"alpha3": "CZE",
+		"numeric": "203",
+		"calling": {
+			"callingCode": "420",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Czech Koruna",
+			"alphabeticCode": "CZK",
+			"numericCode": "203"
+		},
+		"names": {
+			"english": "Czech Republic",
+			"french": "République Tchèque",
+			"local": "Ceska Republika",
+			"officialName": "Czech Republic"
+		},
+		"region": "Eastern Europe",
+		"area": {
+			"area": "78867",
+			"earthPercentage": "0.05"
+		},
+		"capital": {
+			"name": "Prague",
+			"population": "1250000"
+		},
+		"population": {
+			"2016": "10565000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"DNK": {
+		"name": "Denmark",
+		"alpha2": "DK",
+		"alpha3": "DNK",
+		"numeric": "208",
+		"calling": {
+			"callingCode": "45",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Danish Krone",
+			"alphabeticCode": "DKK",
+			"numericCode": "208"
+		},
+		"names": {
+			"english": "Denmark",
+			"french": "Danemark",
+			"local": "Danmark",
+			"officialName": "Kingdom of Denmark"
+		},
+		"region": "Northern Europe",
+		"area": {
+			"area": "42916",
+			"earthPercentage": "0.03"
+		},
+		"capital": {
+			"name": "Copenhagen",
+			"population": "1360000"
+		},
+		"population": {
+			"2017": "5760000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"DJI": {
+		"name": "Djibouti",
+		"alpha2": "DJ",
+		"alpha3": "DJI",
+		"numeric": "262",
+		"calling": {
+			"callingCode": "253",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Djibouti Franc",
+			"alphabeticCode": "DJF",
+			"numericCode": "262"
+		},
+		"names": {
+			"english": "Djibouti",
+			"french": "Djibouti",
+			"local": "Djibouti",
+			"officialName": "Republic of Djibouti"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "23200",
+			"earthPercentage": "0.02"
+		},
+		"capital": {
+			"name": "Djibouti",
+			"population": "62000"
+		},
+		"population": {
+			"2016": "850000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"DMA": {
+		"name": "Dominica",
+		"alpha2": "DM",
+		"alpha3": "DMA",
+		"numeric": "212",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "East Caribbean Dollar",
+			"alphabeticCode": "XCD",
+			"numericCode": "951"
+		},
+		"names": {
+			"english": "Dominica",
+			"french": "Dominique",
+			"local": "Dominica",
+			"officialName": "Commonwealth of Dominica"
+		},
+		"region": "Lesser Antilles, Caribbean",
+		"area": {
+			"area": "751",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Roseau",
+			"population": "16500"
+		},
+		"population": {
+			"2014": "72000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"DOM": {
+		"name": "Dominican Republic",
+		"alpha2": "DO",
+		"alpha3": "DOM",
+		"numeric": "214",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "Dominican Peso",
+			"alphabeticCode": "DOP",
+			"numericCode": "214"
+		},
+		"names": {
+			"english": "Dominican Republic",
+			"french": "Dominicaine, République",
+			"local": "Dominicana, Republica",
+			"officialName": "Dominican Republic"
+		},
+		"region": "Greater Antilles, Caribbean",
+		"area": {
+			"area": "48310",
+			"earthPercentage": "0.03"
+		},
+		"capital": {
+			"name": "Santo Domingo",
+			"population": "2150000"
+		},
+		"population": {
+			"2015": "9980000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ECU": {
+		"name": "Ecuador",
+		"alpha2": "EC",
+		"alpha3": "ECU",
+		"numeric": "218",
+		"calling": {
+			"callingCode": "593",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "US Dollar (plus Ecuadorian centavo coins)",
+			"alphabeticCode": "USD",
+			"numericCode": "840"
+		},
+		"names": {
+			"english": "Ecuador",
+			"french": "Équateur",
+			"local": "Ecuador",
+			"officialName": "Republic of Ecuador"
+		},
+		"region": "North West South America",
+		"area": {
+			"area": "283561",
+			"earthPercentage": "0.20"
+		},
+		"capital": {
+			"name": "Quito",
+			"population": "1100000"
+		},
+		"population": {
+			"2015": "16278000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"EGY": {
+		"name": "Egypt",
+		"alpha2": "EG",
+		"alpha3": "EGY",
+		"numeric": "818",
+		"calling": {
+			"callingCode": "20",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Egyptian Pound",
+			"alphabeticCode": "EGP",
+			"numericCode": "818"
+		},
+		"names": {
+			"english": "Egypt",
+			"french": "Égypte",
+			"local": "Misr",
+			"officialName": "Arab Republic of Egypt"
+		},
+		"region": "Africa, Middle East",
+		"area": {
+			"area": "1002000",
+			"earthPercentage": "0.67"
+		},
+		"capital": {
+			"name": "Cairo",
+			"population": "6800000"
+		},
+		"population": {
+			"2017": "92467000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SLV": {
+		"name": "El Salvador",
+		"alpha2": "SV",
+		"alpha3": "SLV",
+		"numeric": "222",
+		"calling": {
+			"callingCode": "503",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Salvadoran Colón (colón is out of circulation) US Dollar",
+			"alphabeticCode": "SVC USD",
+			"numericCode": "222 840"
+		},
+		"names": {
+			"english": "El Salvador",
+			"french": "El Salvador",
+			"local": "El Salvador",
+			"officialName": "Republic of El Salvador"
+		},
+		"region": "Central America",
+		"area": {
+			"area": "21041",
+			"earthPercentage": "0.01"
+		},
+		"capital": {
+			"name": "San Salvador",
+			"population": "420000"
+		},
+		"population": {
+			"2015": "6426000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"GNQ": {
+		"name": "Equatorial Guinea",
+		"alpha2": "GQ",
+		"alpha3": "GNQ",
+		"numeric": "226",
+		"calling": {
+			"callingCode": "240",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFA Franc BEAC",
+			"alphabeticCode": "XAF",
+			"numericCode": "950"
+		},
+		"names": {
+			"english": "Equatorial Guinea",
+			"french": "Guinée Équatoriale",
+			"local": "Guinea Ecuatorial",
+			"officialName": "Republic of Equatorial Guinea"
+		},
+		"region": "Central Africa",
+		"area": {
+			"area": "28051",
+			"earthPercentage": "0.02"
+		},
+		"capital": {
+			"name": "Malabo",
+			"population": "35000"
+		},
+		"population": {
+			"2015": "1222000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ERI": {
+		"name": "Eritrea",
+		"alpha2": "ER",
+		"alpha3": "ERI",
+		"numeric": "232",
+		"calling": {
+			"callingCode": "291",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Nakfa",
+			"alphabeticCode": "ERN",
+			"numericCode": "232"
+		},
+		"names": {
+			"english": "Eritrea",
+			"french": "Érythrée",
+			"local": "Hagere Ertra",
+			"officialName": "State of Eritrea"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "117600",
+			"earthPercentage": "0.08"
+		},
+		"capital": {
+			"name": "Asmara",
+			"population": "360000"
+		},
+		"population": {
+			"2012": "6000000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"EST": {
+		"name": "Estonia",
+		"alpha2": "EE",
+		"alpha3": "EST",
+		"numeric": "233",
+		"calling": {
+			"callingCode": "372",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Estonian Kroon in 2011.",
+			"alphabeticCode": "EEK",
+			"numericCode": "233"
+		},
+		"names": {
+			"english": "Estonia",
+			"french": "Estonie",
+			"local": "Eesti Vabariik",
+			"officialName": "Republic of Estonia"
+		},
+		"region": "Northern Europe",
+		"area": {
+			"area": "45227",
+			"earthPercentage": "0.03"
+		},
+		"capital": {
+			"name": "Tallinn",
+			"population": "450000"
+		},
+		"population": {
+			"2017": "1315000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ETH": {
+		"name": "Ethiopia",
+		"alpha2": "ET",
+		"alpha3": "ETH",
+		"numeric": "231",
+		"calling": {
+			"callingCode": "251",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Ethiopian Birr",
+			"alphabeticCode": "ETB",
+			"numericCode": "230"
+		},
+		"names": {
+			"english": "Ethiopia",
+			"french": "Éthiopie",
+			"local": "Ityop'iya",
+			"officialName": "Federal Democratic Republic of Ethiopia"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "1104300",
+			"earthPercentage": "0.74"
+		},
+		"capital": {
+			"name": "Addis Ababa",
+			"population": "2400000"
+		},
+		"population": {
+			"2015": "90000000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"FLK": {
+		"name": "Falkland Islands (Malvinas)",
+		"alpha2": "FK",
+		"alpha3": "FLK",
+		"numeric": "238",
+		"calling": {
+			"callingCode": "500",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Falkland Islands Pound",
+			"alphabeticCode": "FKP",
+			"numericCode": "238"
+		},
+		"names": {
+			"english": "Falkland Islands",
+			"french": "Falkland, Îles (Malvinas)",
+			"local": "Islas Malvinas"
+		},
+		"region": "Southern South America",
+		"area": {
+			"area": "12173",
+			"earthPercentage": ">0.01"
+		}
+	},
+	"FRO": {
+		"name": "Faroe Islands",
+		"alpha2": "FO",
+		"alpha3": "FRO",
+		"numeric": "234",
+		"calling": {
+			"callingCode": "298",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Faroese Króna, a version of the Danish krone",
+			"alphabeticCode": "DKK",
+			"numericCode": "-"
+		},
+		"names": {
+			"english": "Faroe Islands",
+			"french": "Îles Féroé",
+			"local": "Foroyar"
+		},
+		"region": "Northern Europe",
+		"area": {
+			"area": "1393",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2016": "49500"
+		}
+	},
+	"FJI": {
+		"name": "Fiji",
+		"alpha2": "FJ",
+		"alpha3": "FJI",
+		"numeric": "242",
+		"calling": {
+			"callingCode": "679",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Fiji Dollar",
+			"alphabeticCode": "FJD",
+			"numericCode": "242"
+		},
+		"names": {
+			"english": "Fiji",
+			"french": "Fidji",
+			"local": "Fiji",
+			"officialName": "Republic of the Fiji Islands"
+		},
+		"region": "Melanesia, Oceania",
+		"area": {
+			"area": "18274",
+			"earthPercentage": "0.01"
+		},
+		"capital": {
+			"name": "Suva",
+			"population": "75000"
+		},
+		"population": {
+			"2015": "870000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"FIN": {
+		"name": "Finland",
+		"alpha2": "FI",
+		"alpha3": "FIN",
+		"numeric": "246",
+		"calling": {
+			"callingCode": "358",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Markka",
+			"alphabeticCode": "EUR FIM",
+			"numericCode": "978 246"
+		},
+		"names": {
+			"english": "Finland",
+			"french": "Finlande",
+			"local": "Suomen Tasavalta",
+			"officialName": "Republic of Finland"
+		},
+		"region": "Northern Europe",
+		"area": {
+			"area": "338145",
+			"earthPercentage": "0.23"
+		},
+		"capital": {
+			"name": "Helsinki",
+			"population": "500000"
+		},
+		"population": {
+			"2017": "5513219"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"FRA": {
+		"name": "France",
+		"alpha2": "FR",
+		"alpha3": "FRA",
+		"numeric": "250",
+		"calling": {
+			"callingCode": "33",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced French Franc",
+			"alphabeticCode": "EUR FRF",
+			"numericCode": "978 250"
+		},
+		"names": {
+			"english": "France",
+			"french": "France",
+			"local": "France",
+			"officialName": "French Republic"
+		},
+		"region": "Western Europe",
+		"area": {
+			"area": "551500",
+			"earthPercentage": "0.37"
+		},
+		"capital": {
+			"name": "Paris",
+			"population": "2200000"
+		},
+		"population": {
+			"2017": "67080000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"GUF": {
+		"name": "French Guiana",
+		"alpha2": "GF",
+		"alpha3": "GUF",
+		"numeric": "254",
+		"calling": {
+			"callingCode": "594",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro",
+			"alphabeticCode": "EUR",
+			"numericCode": "978"
+		},
+		"names": {
+			"english": "French Guiana",
+			"french": "Guyane Française",
+			"local": "Guyane"
+		},
+		"region": "Northern South America",
+		"area": {
+			"area": "83534",
+			"earthPercentage": "0.06"
+		},
+		"population": {
+			"2014": "250000"
+		}
+	},
+	"PYF": {
+		"name": "French Polynesia",
+		"alpha2": "PF",
+		"alpha3": "PYF",
+		"numeric": "258",
+		"calling": {
+			"callingCode": "689",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFP Franc",
+			"alphabeticCode": "XPF",
+			"numericCode": "953"
+		},
+		"names": {
+			"english": "French Polynesia",
+			"french": "Polynésie Française",
+			"local": "Polynésie Française"
+		},
+		"region": "Polynesia, Oceania",
+		"area": {
+			"area": "4167",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2014": "270000"
+		}
+	},
+	"ATF": {
+		"name": "French Southern Territories",
+		"alpha2": "TF",
+		"alpha3": "ATF",
+		"numeric": "260",
+		"currency": {
+			"name": "Euro",
+			"alphabeticCode": "EUR",
+			"numericCode": "978"
+		},
+		"names": {
+			"english": "French Southern Territories",
+			"french": "Terres Australes Françaises",
+			"local": "Terres Australes et Antarctiques Françaises"
+		},
+		"region": "Southern South America, Antarctic"
+	},
+	"GAB": {
+		"name": "Gabon",
+		"alpha2": "GA",
+		"alpha3": "GAB",
+		"numeric": "266",
+		"calling": {
+			"callingCode": "241",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFA Franc BEAC",
+			"alphabeticCode": "XAF",
+			"numericCode": "950"
+		},
+		"names": {
+			"english": "Gabon",
+			"french": "Gabon",
+			"local": "Gabon",
+			"officialName": "Gabonese Republic"
+		},
+		"region": "Central Africa",
+		"area": {
+			"area": "267668",
+			"earthPercentage": "0.18"
+		},
+		"capital": {
+			"name": "Libreville",
+			"population": "57000"
+		},
+		"population": {
+			"2010": "1505000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"GMB": {
+		"name": "Gambia",
+		"alpha2": "GM",
+		"alpha3": "GMB",
+		"numeric": "270",
+		"calling": {
+			"callingCode": "220",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Dalasi",
+			"alphabeticCode": "GMD",
+			"numericCode": "270"
+		},
+		"names": {
+			"english": "Gambia",
+			"french": "Gambie",
+			"local": "The Gambia",
+			"officialName": "Republic of The Gambia"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "11295",
+			"earthPercentage": ">0.01"
+		},
+		"capital": {
+			"name": "Banjul",
+			"population": "52000"
+		},
+		"population": {
+			"2015": "1882000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"GEO": {
+		"name": "Georgia",
+		"alpha2": "GE",
+		"alpha3": "GEO",
+		"numeric": "268",
+		"calling": {
+			"callingCode": "995",
+			"intDialingPrefix": "810"
+		},
+		"currency": {
+			"name": "Lari",
+			"alphabeticCode": "GEL",
+			"numericCode": "981"
+		},
+		"names": {
+			"english": "Georgia",
+			"french": "Géorgie",
+			"local": "Sak'art'velo",
+			"officialName": "Georgia"
+		},
+		"region": "Western Asia",
+		"area": {
+			"area": "69700",
+			"earthPercentage": "0.05"
+		},
+		"capital": {
+			"name": "T'bilisi",
+			"population": "1300000"
+		},
+		"population": {
+			"2015": "3729000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"DEU": {
+		"name": "Germany",
+		"alpha2": "DE",
+		"alpha3": "DEU",
+		"numeric": "276",
+		"calling": {
+			"callingCode": "49",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Deutsche Mark",
+			"alphabeticCode": "EUR DEM",
+			"numericCode": "978 280"
+		},
+		"names": {
+			"english": "Germany",
+			"french": "Allemagne",
+			"local": "Deutschland",
+			"officialName": "Federal Republic of Germany"
+		},
+		"region": "Western Europe",
+		"area": {
+			"area": "357375",
+			"earthPercentage": "0.24"
+		},
+		"capital": {
+			"name": "Berlin",
+			"population": "3400000"
+		},
+		"population": {
+			"2015": "81771000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"GHA": {
+		"name": "Ghana",
+		"alpha2": "GH",
+		"alpha3": "GHA",
+		"numeric": "288",
+		"calling": {
+			"callingCode": "233",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Cedi",
+			"alphabeticCode": "GHC",
+			"numericCode": "288"
+		},
+		"names": {
+			"english": "Ghana",
+			"french": "Ghana",
+			"local": "Ghana",
+			"officialName": "Republic of Ghana"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "238533",
+			"earthPercentage": "0.16"
+		},
+		"capital": {
+			"name": "Accra",
+			"population": "600000"
+		},
+		"population": {
+			"2016": "28300000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"GIB": {
+		"name": "Gibraltar",
+		"alpha2": "GI",
+		"alpha3": "GIB",
+		"numeric": "292",
+		"calling": {
+			"callingCode": "350",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Gibraltar Pound",
+			"alphabeticCode": "GIP",
+			"numericCode": "292"
+		},
+		"names": {
+			"english": "Gibraltar",
+			"french": "Gibraltar",
+			"local": "Gibraltar"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "6",
+			"earthPercentage": "<0.01"
+		}
+	},
+	"GRC": {
+		"name": "Greece",
+		"alpha2": "GR",
+		"alpha3": "GRC",
+		"numeric": "300",
+		"calling": {
+			"callingCode": "30",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Drachma",
+			"alphabeticCode": "EUR GRD",
+			"numericCode": "978 300"
+		},
+		"names": {
+			"english": "Greece",
+			"french": "Grèce",
+			"local": "Ellas or Ellada",
+			"officialName": "Hellenic Republic"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "131957",
+			"earthPercentage": "0.09"
+		},
+		"capital": {
+			"name": "Athens",
+			"population": "770000"
+		},
+		"population": {
+			"2016": "11533000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"GRL": {
+		"name": "Greenland",
+		"alpha2": "GL",
+		"alpha3": "GRL",
+		"numeric": "304",
+		"calling": {
+			"callingCode": "299",
+			"intDialingPrefix": "009"
+		},
+		"currency": {
+			"name": "Danish Krone",
+			"alphabeticCode": "DKK",
+			"numericCode": "208"
+		},
+		"names": {
+			"english": "Greenland",
+			"french": "Groenland",
+			"local": "Kalaallit Nunaat"
+		},
+		"region": "North America",
+		"area": {
+			"area": "2166086",
+			"earthPercentage": "1.5"
+		},
+		"capital": {
+			"name": "Nuuk (Godthåb)",
+			"population": "15000"
+		},
+		"population": {
+			"2016": "56186"
+		}
+	},
+	"GRD": {
+		"name": "Grenada",
+		"alpha2": "GD",
+		"alpha3": "GRD",
+		"numeric": "308",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "East Caribbean Dollar",
+			"alphabeticCode": "XCD",
+			"numericCode": "951"
+		},
+		"names": {
+			"english": "Grenada",
+			"french": "Grenade",
+			"local": "Grenada",
+			"officialName": "Grenada"
+		},
+		"region": "Lesser Antilles, Caribbean",
+		"area": {
+			"area": "344",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Saint George's",
+			"population": "5000"
+		},
+		"population": {
+			"2015": "107000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"GLP": {
+		"name": "Guadeloupe",
+		"alpha2": "GP",
+		"alpha3": "GLP",
+		"numeric": "312",
+		"calling": {
+			"callingCode": "590",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro",
+			"alphabeticCode": "EUR",
+			"numericCode": "978"
+		},
+		"names": {
+			"english": "Guadeloupe",
+			"french": "Guadeloupe",
+			"local": "Guadeloupe"
+		},
+		"region": "Lesser Antilles, Caribbean",
+		"area": {
+			"area": "1630",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2014": "400000"
+		}
+	},
+	"GUM": {
+		"name": "Guam",
+		"alpha2": "GU",
+		"alpha3": "GUM",
+		"numeric": "316",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "US Dollar",
+			"alphabeticCode": "USD",
+			"numericCode": "840"
+		},
+		"names": {
+			"english": "Guam",
+			"french": "Guam",
+			"local": "Guam"
+		},
+		"region": "Micronesia, Oceania",
+		"area": {
+			"area": "549",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Hagåtña (Agana)",
+			"population": "1100"
+		},
+		"population": {
+			"2016": "162800"
+		}
+	},
+	"GTM": {
+		"name": "Guatemala",
+		"alpha2": "GT",
+		"alpha3": "GTM",
+		"numeric": "320",
+		"calling": {
+			"callingCode": "502",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Quetzal",
+			"alphabeticCode": "GTQ",
+			"numericCode": "320"
+		},
+		"names": {
+			"english": "Guatemala",
+			"french": "Guatemala",
+			"local": "Guatemala",
+			"officialName": "Republic of Guatemala"
+		},
+		"region": "Central America",
+		"area": {
+			"area": "108889",
+			"earthPercentage": "0.07"
+		},
+		"capital": {
+			"name": "Guatemala",
+			"population": "1700000"
+		},
+		"population": {
+			"2014": "15806675"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"GGY": {
+		"name": "Guernsey",
+		"alpha2": "GG",
+		"alpha3": "GGY",
+		"numeric": "831",
+		"area": {
+			"area": "78",
+			"earthPercentage": "<0.01"
+		}
+	},
+	"GIN": {
+		"name": "Guinea",
+		"alpha2": "GN",
+		"alpha3": "GIN",
+		"numeric": "324",
+		"calling": {
+			"callingCode": "224",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Guinea Franc",
+			"alphabeticCode": "GNF",
+			"numericCode": "324"
+		},
+		"names": {
+			"english": "Guinea",
+			"french": "Guinéee",
+			"local": "Guinee",
+			"officialName": "Republic of Guinea"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "245857",
+			"earthPercentage": "0.17"
+		},
+		"capital": {
+			"name": "Conakry",
+			"population": "770000"
+		},
+		"population": {
+			"2015": "10629000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"GNB": {
+		"name": "Guinea-Bissau",
+		"alpha2": "GW",
+		"alpha3": "GNB",
+		"numeric": "624",
+		"calling": {
+			"callingCode": "245",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Guinea-Bissau Peso CFA Franc BCEAO",
+			"alphabeticCode": "GWP XOF",
+			"numericCode": "624 952"
+		},
+		"names": {
+			"english": "Guinea-Bissau",
+			"french": "Guinée-Bissau",
+			"local": "Guine-Bissau",
+			"officialName": "Republic of Guinea-Bissau"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "36125",
+			"earthPercentage": "0.02"
+		},
+		"capital": {
+			"name": "Bissau",
+			"population": "120000"
+		},
+		"population": {
+			"2015": "1530673"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"GUY": {
+		"name": "Guyana",
+		"alpha2": "GY",
+		"alpha3": "GUY",
+		"numeric": "328",
+		"calling": {
+			"callingCode": "592",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Guyana Dollar",
+			"alphabeticCode": "GYD",
+			"numericCode": "328"
+		},
+		"names": {
+			"english": "Guyana",
+			"french": "Guyana",
+			"local": "Guyana",
+			"officialName": "Co-operative Republic of Guyana"
+		},
+		"region": "North Eastern South America",
+		"area": {
+			"area": "214969",
+			"earthPercentage": "0.14"
+		},
+		"capital": {
+			"name": "Georgetown",
+			"population": "80000"
+		},
+		"population": {
+			"2012": "748000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"HTI": {
+		"name": "Haiti",
+		"alpha2": "HT",
+		"alpha3": "HTI",
+		"numeric": "332",
+		"calling": {
+			"callingCode": "509",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Haitian Gourde US Dollar",
+			"alphabeticCode": "HTG USD",
+			"numericCode": "332 840"
+		},
+		"names": {
+			"english": "Haiti",
+			"french": "Haïti",
+			"local": "Haiti",
+			"officialName": "Republic of Haiti"
+		},
+		"region": "Greater Antilles, Caribbean",
+		"area": {
+			"area": "27750",
+			"earthPercentage": "0.02"
+		},
+		"capital": {
+			"name": "Port-au-Prince",
+			"population": "700000"
+		},
+		"population": {
+			"2015": "10912000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"HMD": {
+		"name": "Heard and Mcdonald Islands",
+		"alpha2": "HM",
+		"alpha3": "HMD",
+		"numeric": "334"
+	},
+	"VAT": {
+		"name": "Holy See (Vatican City State)",
+		"alpha2": "VA",
+		"alpha3": "VAT",
+		"numeric": "336",
+		"calling": {
+			"callingCode": "379",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Lira",
+			"alphabeticCode": "EUR ITL",
+			"numericCode": "978 380"
+		},
+		"names": {
+			"english": "Vatican City State (Holy See)",
+			"french": "Saint-Siège (État de la Cité du Vatican)",
+			"local": "Status Civitatis Vaticanæ",
+			"officialName": "Holy See"
+		},
+		"region": "Southern Europe within Italy",
+		"area": {
+			"area": "0.44",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2016": "800"
+		},
+		"isSovereign": "true",
+		"capital": {
+			"name": "Vatican City"
+		}
+	},
+	"HND": {
+		"name": "Honduras",
+		"alpha2": "HN",
+		"alpha3": "HND",
+		"numeric": "340",
+		"calling": {
+			"callingCode": "504",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Lempira",
+			"alphabeticCode": "HNL",
+			"numericCode": "340"
+		},
+		"names": {
+			"english": "Honduras",
+			"french": "Honduras",
+			"local": "Honduras",
+			"officialName": "Republic of Honduras"
+		},
+		"region": "Central America",
+		"area": {
+			"area": "112492",
+			"earthPercentage": "0.08"
+		},
+		"capital": {
+			"name": "Tegucigalpa",
+			"population": "620000"
+		},
+		"population": {
+			"2015": "8570000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"HUN": {
+		"name": "Hungary",
+		"alpha2": "HU",
+		"alpha3": "HUN",
+		"numeric": "348",
+		"calling": {
+			"callingCode": "36",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Forint",
+			"alphabeticCode": "HUF",
+			"numericCode": "348"
+		},
+		"names": {
+			"english": "Hungary",
+			"french": "Hongrie",
+			"local": "Magyarorszag",
+			"officialName": "Republic of Hungary"
+		},
+		"region": "Eastern Europe",
+		"area": {
+			"area": "93028",
+			"earthPercentage": "0.06"
+		},
+		"capital": {
+			"name": "Budapest",
+			"population": "1970000"
+		},
+		"population": {
+			"2015": "9849000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ISL": {
+		"name": "Iceland",
+		"alpha2": "IS",
+		"alpha3": "ISL",
+		"numeric": "352",
+		"calling": {
+			"callingCode": "354",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Iceland Krona",
+			"alphabeticCode": "ISK",
+			"numericCode": "352"
+		},
+		"names": {
+			"english": "Iceland",
+			"french": "Islande",
+			"local": "Lyoveldio Island",
+			"officialName": "Republic of Iceland"
+		},
+		"region": "Northern Europe",
+		"area": {
+			"area": "103000",
+			"earthPercentage": "0.07"
+		},
+		"capital": {
+			"name": "Reykjavik",
+			"population": "100000"
+		},
+		"population": {
+			"2016": "332529"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"IND": {
+		"name": "India",
+		"alpha2": "IN",
+		"alpha3": "IND",
+		"numeric": "356",
+		"calling": {
+			"callingCode": "91",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Indian Rupee",
+			"alphabeticCode": "INR",
+			"numericCode": "356"
+		},
+		"names": {
+			"english": "India",
+			"french": "Inde",
+			"local": "Bharat",
+			"officialName": "Republic of India"
+		},
+		"region": "South-Central Asia",
+		"area": {
+			"area": "3287263",
+			"earthPercentage": "2.3"
+		},
+		"capital": {
+			"name": "New Delhi",
+			"population": "7400000"
+		},
+		"population": {
+			"2017": "1339000000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"IDN": {
+		"name": "Indonesia",
+		"alpha2": "ID",
+		"alpha3": "IDN",
+		"numeric": "360",
+		"calling": {
+			"callingCode": "62",
+			"intDialingPrefix": "001"
+		},
+		"currency": {
+			"name": "Rupiah",
+			"alphabeticCode": "IDR",
+			"numericCode": "360"
+		},
+		"names": {
+			"english": "Indonesia",
+			"french": "Indonésie",
+			"local": "Indonesia",
+			"officialName": "Republic of Indonesia"
+		},
+		"region": "Maritime South-East Asia",
+		"area": {
+			"area": "1904569",
+			"earthPercentage": "1.3"
+		},
+		"capital": {
+			"name": "Jakarta",
+			"population": "9200000"
+		},
+		"population": {
+			"2018": "265000000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"IRN": {
+		"name": "Iran, Islamic Republic of",
+		"alpha2": "IR",
+		"alpha3": "IRN",
+		"numeric": "364",
+		"calling": {
+			"callingCode": "98",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Iranian Rial",
+			"alphabeticCode": "IRR",
+			"numericCode": "364"
+		},
+		"names": {
+			"english": "Iran (Islamic Republic of)",
+			"french": "République Islamique d' Iran",
+			"local": "Iran",
+			"officialName": "Islamic Republic of Iran"
+		},
+		"region": "South-Central Asia",
+		"area": {
+			"area": "1648195",
+			"earthPercentage": "1.1"
+		},
+		"population": {
+			"2015": "78226000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Tehran"
+		}
+	},
+	"IRQ": {
+		"name": "Iraq",
+		"alpha2": "IQ",
+		"alpha3": "IRQ",
+		"numeric": "368",
+		"calling": {
+			"callingCode": "964",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Iraqi Dinar",
+			"alphabeticCode": "IQD",
+			"numericCode": "368"
+		},
+		"names": {
+			"english": "Iraq",
+			"french": "Iraq",
+			"local": "Iraq",
+			"officialName": "Republic of Iraq"
+		},
+		"region": "Middle East, Western Asia",
+		"area": {
+			"area": "438317",
+			"earthPercentage": "0.29"
+		},
+		"capital": {
+			"name": "Baghdad",
+			"population": "3900000"
+		},
+		"population": {
+			"2014": "36000000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"IRL": {
+		"name": "Ireland",
+		"alpha2": "IE",
+		"alpha3": "IRL",
+		"numeric": "372",
+		"calling": {
+			"callingCode": "353",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Irish Pound (Punt)",
+			"alphabeticCode": "EUR IEP",
+			"numericCode": "978 372"
+		},
+		"names": {
+			"english": "Ireland",
+			"french": "Irlande",
+			"local": "Éire",
+			"officialName": "Republic of Ireland"
+		},
+		"region": "Northern Europe",
+		"area": {
+			"area": "70273",
+			"earthPercentage": "0.05"
+		},
+		"capital": {
+			"name": "Dublin (City)",
+			"population": "540000"
+		},
+		"population": {
+			"2015": "4635000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"IMN": {
+		"name": "Isle of Man",
+		"alpha2": "IM",
+		"alpha3": "IMN",
+		"numeric": "833",
+		"area": {
+			"area": "572",
+			"earthPercentage": "<0.01"
+		}
+	},
+	"ISR": {
+		"name": "Israel",
+		"alpha2": "IL",
+		"alpha3": "ISR",
+		"numeric": "376",
+		"calling": {
+			"callingCode": "972",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "New Israeli Sheqel",
+			"alphabeticCode": "ILS",
+			"numericCode": "376"
+		},
+		"names": {
+			"english": "Israel",
+			"french": "Israël",
+			"local": "Yisra'el",
+			"officialName": "State of Israel"
+		},
+		"region": "Middle East, Western Asia",
+		"area": {
+			"area": "22072",
+			"earthPercentage": "0.01"
+		},
+		"capital": {
+			"name": "Jerusalem (claimed)",
+			"population": "580000"
+		},
+		"population": {
+			"2017": "8668000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ITA": {
+		"name": "Italy",
+		"alpha2": "IT",
+		"alpha3": "ITA",
+		"numeric": "380",
+		"calling": {
+			"callingCode": "39",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Lira",
+			"alphabeticCode": "EUR ITL",
+			"numericCode": "978 380"
+		},
+		"names": {
+			"english": "Italy",
+			"french": "Italie",
+			"local": "Italia",
+			"officialName": "Italian Republic"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "301318",
+			"earthPercentage": "0.20"
+		},
+		"capital": {
+			"name": "Rome",
+			"population": "2700000"
+		},
+		"population": {
+			"2016": "60656000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"JAM": {
+		"name": "Jamaica",
+		"alpha2": "JM",
+		"alpha3": "JAM",
+		"numeric": "388",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "Jamaican Dollar",
+			"alphabeticCode": "JMD",
+			"numericCode": "388"
+		},
+		"names": {
+			"english": "Jamaica",
+			"french": "Jamaïque",
+			"local": "Jamaica",
+			"officialName": "Jamaica"
+		},
+		"region": "Greater Antilles, Caribbean",
+		"area": {
+			"area": "10991",
+			"earthPercentage": ">0.01"
+		},
+		"capital": {
+			"name": "Kingston",
+			"population": "104000"
+		},
+		"population": {
+			"2015": "2740000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"JPN": {
+		"name": "Japan",
+		"alpha2": "JP",
+		"alpha3": "JPN",
+		"numeric": "392",
+		"calling": {
+			"callingCode": "81",
+			"intDialingPrefix": "010"
+		},
+		"currency": {
+			"name": "Yen",
+			"alphabeticCode": "JPY",
+			"numericCode": "392"
+		},
+		"names": {
+			"english": "Japan",
+			"french": "Japon",
+			"local": "Nippon",
+			"officialName": "Japan"
+		},
+		"region": "Eastern Asia",
+		"area": {
+			"area": "377915",
+			"earthPercentage": "0.25"
+		},
+		"capital": {
+			"name": "Tokyo",
+			"population": "8100000"
+		},
+		"population": {
+			"2017": "126720000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"JEY": {
+		"name": "Jersey",
+		"alpha2": "JE",
+		"alpha3": "JEY",
+		"numeric": "832",
+		"area": {
+			"area": "116",
+			"earthPercentage": "<0.01"
+		}
+	},
+	"JOR": {
+		"name": "Jordan",
+		"alpha2": "JO",
+		"alpha3": "JOR",
+		"numeric": "400",
+		"calling": {
+			"callingCode": "962",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Jordanian Dinar",
+			"alphabeticCode": "JOD",
+			"numericCode": "400"
+		},
+		"names": {
+			"english": "Jordan",
+			"french": "Jordanie",
+			"local": "Al Urdun",
+			"officialName": "Hashemite Kingdom of Jordan"
+		},
+		"region": "Middle East, Western Asia",
+		"area": {
+			"area": "89342",
+			"earthPercentage": "0.06"
+		},
+		"capital": {
+			"name": "Amman",
+			"population": "965000"
+		},
+		"population": {
+			"2017": "9891000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"KAZ": {
+		"name": "Kazakhstan",
+		"alpha2": "KZ",
+		"alpha3": "KAZ",
+		"numeric": "398",
+		"calling": {
+			"callingCode": "7",
+			"intDialingPrefix": "810"
+		},
+		"currency": {
+			"name": "Tenge",
+			"alphabeticCode": "KZT",
+			"numericCode": "398"
+		},
+		"names": {
+			"english": "Kazakhstan",
+			"french": "Kazakstan",
+			"local": "Qazaqstan",
+			"officialName": "Republic of Kazakhstan"
+		},
+		"region": "Central Asia",
+		"area": {
+			"area": "2724900",
+			"earthPercentage": "1.8"
+		},
+		"capital": {
+			"name": "Astana",
+			"population": "1176000"
+		},
+		"population": {
+			"2016": "17713300"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"KEN": {
+		"name": "Kenya",
+		"alpha2": "KE",
+		"alpha3": "KEN",
+		"numeric": "404",
+		"calling": {
+			"callingCode": "254",
+			"intDialingPrefix": "000"
+		},
+		"currency": {
+			"name": "Kenyan Shilling",
+			"alphabeticCode": "KES",
+			"numericCode": "404"
+		},
+		"names": {
+			"english": "Kenya",
+			"french": "Kenya",
+			"local": "Kenya",
+			"officialName": "Republic of Kenya"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "580000",
+			"earthPercentage": "0.39"
+		},
+		"capital": {
+			"name": "Nairobi",
+			"population": "1200000"
+		},
+		"population": {
+			"2015": "46050000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"KIR": {
+		"name": "Kiribati",
+		"alpha2": "KI",
+		"alpha3": "KIR",
+		"numeric": "296",
+		"calling": {
+			"callingCode": "686",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Australian Dollar",
+			"alphabeticCode": "AUD",
+			"numericCode": "036"
+		},
+		"names": {
+			"english": "Kiribati",
+			"french": "Kiribati",
+			"local": "Kiribati, Kiribas",
+			"officialName": "Republic of Kiribati"
+		},
+		"region": "Micronesia, Oceania",
+		"area": {
+			"area": "726",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2012": "100000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"capital": {
+			"name": "Tarawa"
+		}
+	},
+	"PRK": {
+		"name": "Korea (North)",
+		"alpha2": "KP",
+		"alpha3": "PRK",
+		"numeric": "408",
+		"calling": {
+			"callingCode": "850",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "North Korean Won",
+			"alphabeticCode": "KPW",
+			"numericCode": "408"
+		},
+		"names": {
+			"english": "Korea, Democratic People's Rep. (North Korea)",
+			"french": "Corée, République Populaire Démocratique de",
+			"local": "Choson",
+			"officialName": "Democratic People's Republic of Korea"
+		},
+		"region": "Eastern Asia",
+		"area": {
+			"area": "120538",
+			"earthPercentage": "0.08"
+		},
+		"population": {
+			"2015": "25000000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "P'yongyang"
+		}
+	},
+	"KOR": {
+		"name": "Korea (South)",
+		"alpha2": "KR",
+		"alpha3": "KOR",
+		"numeric": "410",
+		"calling": {
+			"callingCode": "82",
+			"intDialingPrefix": "001"
+		},
+		"currency": {
+			"name": "Won",
+			"alphabeticCode": "KRW",
+			"numericCode": "410"
+		},
+		"names": {
+			"english": "Korea, Republic of (South Korea)",
+			"french": "Corée, République de",
+			"local": "Han-guk",
+			"officialName": "Republic of Korea"
+		},
+		"region": "Eastern Asia",
+		"area": {
+			"area": "99678",
+			"earthPercentage": "0.07"
+		},
+		"population": {
+			"2017": "51446000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Seoul"
+		}
+	},
+	"KWT": {
+		"name": "Kuwait",
+		"alpha2": "KW",
+		"alpha3": "KWT",
+		"numeric": "414",
+		"calling": {
+			"callingCode": "965",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Kuwaiti Dinar",
+			"alphabeticCode": "KWD",
+			"numericCode": "414"
+		},
+		"names": {
+			"english": "Kuwait",
+			"french": "Koweït",
+			"local": "Al Kuwayt",
+			"officialName": "State of Kuwait"
+		},
+		"region": "Middle East, Western Asia",
+		"area": {
+			"area": "17818",
+			"earthPercentage": "0.01"
+		},
+		"capital": {
+			"name": "Kuwait (City)",
+			"population": "80000"
+		},
+		"population": {
+			"2013": "3695000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"KGZ": {
+		"name": "Kyrgyzstan",
+		"alpha2": "KG",
+		"alpha3": "KGZ",
+		"numeric": "417",
+		"calling": {
+			"callingCode": "996",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Som",
+			"alphabeticCode": "KGS",
+			"numericCode": "417"
+		},
+		"names": {
+			"english": "Kyrgyzstan",
+			"french": "Kirghizistan",
+			"local": "Kyrgyz Respublikasy",
+			"officialName": "Kyrgyz Republic"
+		},
+		"region": "Central Asia",
+		"area": {
+			"area": "199951",
+			"earthPercentage": "0.13"
+		},
+		"capital": {
+			"name": "Bishkek",
+			"population": "590000"
+		},
+		"population": {
+			"2015": "5895000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"LAO": {
+		"name": "Lao PDR",
+		"alpha2": "LA",
+		"alpha3": "LAO",
+		"numeric": "418",
+		"calling": {
+			"callingCode": "856",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Kip",
+			"alphabeticCode": "LAK",
+			"numericCode": "418"
+		},
+		"names": {
+			"english": "Lao, People's Democratic Republic",
+			"french": "Lao, République Démocratique Populaire",
+			"local": "Lao",
+			"officialName": "Lao People's Democratic Republic"
+		},
+		"region": "South-East Asia",
+		"area": {
+			"area": "236800",
+			"earthPercentage": "0.16"
+		},
+		"population": {
+			"2015": "6492000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Vientiane"
+		}
+	},
+	"LVA": {
+		"name": "Latvia",
+		"alpha2": "LV",
+		"alpha3": "LVA",
+		"numeric": "428",
+		"calling": {
+			"callingCode": "371",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro, since 1 January 2014 replaced Latvian Lats",
+			"alphabeticCode": "EUR",
+			"numericCode": "978"
+		},
+		"names": {
+			"english": "Latvia",
+			"french": "Lettonie",
+			"local": "Latvija",
+			"officialName": "Republic of Latvia"
+		},
+		"region": "Northern Europe",
+		"area": {
+			"area": "64589",
+			"earthPercentage": "0.04"
+		},
+		"capital": {
+			"name": "Riga",
+			"population": "850000"
+		},
+		"population": {
+			"2017": "1953000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"LBN": {
+		"name": "Lebanon",
+		"alpha2": "LB",
+		"alpha3": "LBN",
+		"numeric": "422",
+		"calling": {
+			"callingCode": "961",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Lebanese Pound",
+			"alphabeticCode": "LBP",
+			"numericCode": "422"
+		},
+		"names": {
+			"english": "Lebanon",
+			"french": "Liban",
+			"local": "Lubnan",
+			"officialName": "Lebanese Republic"
+		},
+		"region": "Middle East, Western Asia",
+		"area": {
+			"area": "10400",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Beirut",
+			"population": "480000"
+		},
+		"population": {
+			"2014": "4460000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"LSO": {
+		"name": "Lesotho",
+		"alpha2": "LS",
+		"alpha3": "LSO",
+		"numeric": "426",
+		"calling": {
+			"callingCode": "266",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Loti (plural Maloti). It is equivalent to the South African Rand.",
+			"alphabeticCode": "LSL",
+			"numericCode": "426"
+		},
+		"names": {
+			"english": "Lesotho",
+			"french": "Lesotho",
+			"local": "Lesotho",
+			"officialName": "Kingdom of Lesotho"
+		},
+		"region": "Southern Africa",
+		"area": {
+			"area": "30355",
+			"earthPercentage": "0.02"
+		},
+		"capital": {
+			"name": "Maseru",
+			"population": "14000"
+		},
+		"population": {
+			"2010": "2171000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"LBR": {
+		"name": "Liberia",
+		"alpha2": "LR",
+		"alpha3": "LBR",
+		"numeric": "430",
+		"calling": {
+			"callingCode": "231",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Liberian Dollar",
+			"alphabeticCode": "LRD",
+			"numericCode": "430"
+		},
+		"names": {
+			"english": "Liberia",
+			"french": "Libéria",
+			"local": "Liberia",
+			"officialName": "Republic of Liberia"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "111369",
+			"earthPercentage": "0.07"
+		},
+		"capital": {
+			"name": "Monrovia",
+			"population": "430000"
+		},
+		"population": {
+			"2016": "4300000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"LBY": {
+		"name": "Libya",
+		"alpha2": "LY",
+		"alpha3": "LBY",
+		"numeric": "434",
+		"calling": {
+			"callingCode": "218",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Lybian Dinar",
+			"alphabeticCode": "LYD",
+			"numericCode": "434"
+		},
+		"names": {
+			"english": "Libya",
+			"french": "Libye",
+			"local": "Libiyah",
+			"officialName": "Libya"
+		},
+		"region": "Northern Africa",
+		"area": {
+			"area": "1759540",
+			"earthPercentage": "1.2"
+		},
+		"capital": {
+			"name": "Tripoli",
+			"population": "570000"
+		},
+		"population": {
+			"2015": "6317000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"LIE": {
+		"name": "Liechtenstein",
+		"alpha2": "LI",
+		"alpha3": "LIE",
+		"numeric": "438",
+		"calling": {
+			"callingCode": "423",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Swiss Franc",
+			"alphabeticCode": "CHF",
+			"numericCode": "756"
+		},
+		"names": {
+			"english": "Liechtenstein",
+			"french": "Liechtenstein",
+			"local": "Liechtenstein",
+			"officialName": "Principality of Liechtenstein"
+		},
+		"region": "Western Europe",
+		"area": {
+			"area": "160",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Vaduz",
+			"population": "5000"
+		},
+		"population": {
+			"2015": "37600"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"LTU": {
+		"name": "Lithuania",
+		"alpha2": "LT",
+		"alpha3": "LTU",
+		"numeric": "440",
+		"calling": {
+			"callingCode": "370",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Lithuanian Litas",
+			"alphabeticCode": "LTL",
+			"numericCode": "440"
+		},
+		"names": {
+			"english": "Lithuania",
+			"french": "Lituanie",
+			"local": "Lietuva",
+			"officialName": "Republic of Lithuania"
+		},
+		"region": "Northern Europe",
+		"area": {
+			"area": "65300",
+			"earthPercentage": "0.04"
+		},
+		"capital": {
+			"name": "Vilnius",
+			"population": "600000"
+		},
+		"population": {
+			"2015": "2890000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"LUX": {
+		"name": "Luxembourg",
+		"alpha2": "LU",
+		"alpha3": "LUX",
+		"numeric": "442",
+		"calling": {
+			"callingCode": "352",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Luxembourg Franc",
+			"alphabeticCode": "EUR LUF",
+			"numericCode": "978 442"
+		},
+		"names": {
+			"english": "Luxembourg",
+			"french": "Luxembourg",
+			"local": "Luxembourg, Letzebuerg",
+			"officialName": "Grand Duchy of Luxembourg"
+		},
+		"region": "Western Europe",
+		"area": {
+			"area": "2586",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Luxembourg",
+			"population": "78000"
+		},
+		"population": {
+			"2016": "576200"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MKD": {
+		"name": "Macedonia, Republic of",
+		"alpha2": "MK",
+		"alpha3": "MKD",
+		"numeric": "807",
+		"calling": {
+			"callingCode": "389",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Macedonian Denar",
+			"alphabeticCode": "MKD",
+			"numericCode": "807"
+		},
+		"names": {
+			"english": "Macedonia, Rep. of",
+			"french": "Macédoine, l'ex-République Yougoslave de",
+			"local": "Makedonija",
+			"officialName": "The Former Yugoslav Republic of Macedonia"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "25713",
+			"earthPercentage": "0.02"
+		},
+		"population": {
+			"2014": "2067000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Skopje"
+		}
+	},
+	"MDG": {
+		"name": "Madagascar",
+		"alpha2": "MG",
+		"alpha3": "MDG",
+		"numeric": "450",
+		"calling": {
+			"callingCode": "261",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Malagasy Franc",
+			"alphabeticCode": "MGF",
+			"numericCode": "450"
+		},
+		"names": {
+			"english": "Madagascar",
+			"french": "Madagascar",
+			"local": "Madagascar",
+			"officialName": "Republic of Madagascar"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "587041",
+			"earthPercentage": "0.39"
+		},
+		"capital": {
+			"name": "Antananarivo",
+			"population": "370000"
+		},
+		"population": {
+			"2013": "21842000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MWI": {
+		"name": "Malawi",
+		"alpha2": "MW",
+		"alpha3": "MWI",
+		"numeric": "454",
+		"calling": {
+			"callingCode": "265",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Kwacha",
+			"alphabeticCode": "MWK",
+			"numericCode": "454"
+		},
+		"names": {
+			"english": "Malawi",
+			"french": "Malawi",
+			"local": "Malawi",
+			"officialName": "Republic of Malawi"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "118484",
+			"earthPercentage": "0.08"
+		},
+		"capital": {
+			"name": "Lilongwe",
+			"population": "250000"
+		},
+		"population": {
+			"2014": "15800000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MYS": {
+		"name": "Malaysia",
+		"alpha2": "MY",
+		"alpha3": "MYS",
+		"numeric": "458",
+		"calling": {
+			"callingCode": "60",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Malaysian Ringgit",
+			"alphabeticCode": "MYR",
+			"numericCode": "458"
+		},
+		"names": {
+			"english": "Malaysia",
+			"french": "Malaisie",
+			"local": "Malaysia",
+			"officialName": "Malaysian Federation"
+		},
+		"region": "Southeast Asia",
+		"area": {
+			"area": "329847",
+			"earthPercentage": "0.22"
+		},
+		"capital": {
+			"name": "Kuala Lumpur",
+			"population": "1200000"
+		},
+		"population": {
+			"2016": "31660000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MDV": {
+		"name": "Maldives",
+		"alpha2": "MV",
+		"alpha3": "MDV",
+		"numeric": "462",
+		"calling": {
+			"callingCode": "960",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Rufiyaa",
+			"alphabeticCode": "MVR",
+			"numericCode": "462"
+		},
+		"names": {
+			"english": "Maldives",
+			"french": "Maldives",
+			"local": "Dhivehi Raajje",
+			"officialName": "Republic of Maldives"
+		},
+		"region": "South-Central Asia",
+		"area": {
+			"area": "298",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Male",
+			"population": "30000"
+		},
+		"population": {
+			"2015": "347000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MLI": {
+		"name": "Mali",
+		"alpha2": "ML",
+		"alpha3": "MLI",
+		"numeric": "466",
+		"calling": {
+			"callingCode": "223",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFA Franc BCEAO",
+			"alphabeticCode": "XOF",
+			"numericCode": "952"
+		},
+		"names": {
+			"english": "Mali",
+			"french": "Mali",
+			"local": "Mali",
+			"officialName": "Republic of Mali"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "1240192",
+			"earthPercentage": "0.83"
+		},
+		"capital": {
+			"name": "Bamako",
+			"population": "700000"
+		},
+		"population": {
+			"2012": "16313000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MLT": {
+		"name": "Malta",
+		"alpha2": "MT",
+		"alpha3": "MLT",
+		"numeric": "470",
+		"calling": {
+			"callingCode": "356",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Maltese Lira",
+			"alphabeticCode": "MTL",
+			"numericCode": "470"
+		},
+		"names": {
+			"english": "Malta",
+			"french": "Malte",
+			"local": "Malta",
+			"officialName": "Republic of Malta"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "316",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Valletta",
+			"population": "9300"
+		},
+		"population": {
+			"2014": "429000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MHL": {
+		"name": "Marshall Islands",
+		"alpha2": "MH",
+		"alpha3": "MHL",
+		"numeric": "584",
+		"calling": {
+			"callingCode": "692",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "US Dollar",
+			"alphabeticCode": "USD",
+			"numericCode": "840"
+		},
+		"names": {
+			"english": "Marshall Islands",
+			"french": "Îles Marshall",
+			"local": "Marshall Islands",
+			"officialName": "Republic of the Marshall Islands"
+		},
+		"region": "Micronesia, Oceania",
+		"area": {
+			"area": "181",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Majuro",
+			"population": "27000"
+		},
+		"population": {
+			"2010": "54000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MTQ": {
+		"name": "Martinique",
+		"alpha2": "MQ",
+		"alpha3": "MTQ",
+		"numeric": "474",
+		"calling": {
+			"callingCode": "596",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro",
+			"alphabeticCode": "EUR",
+			"numericCode": "978"
+		},
+		"names": {
+			"english": "Martinique",
+			"french": "Martinique",
+			"local": "Martinique"
+		},
+		"region": "Lesser Antilles, Caribbean",
+		"area": {
+			"area": "1100",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2014": "381000"
+		}
+	},
+	"MRT": {
+		"name": "Mauritania",
+		"alpha2": "MR",
+		"alpha3": "MRT",
+		"numeric": "478",
+		"calling": {
+			"callingCode": "222",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Ouguiya",
+			"alphabeticCode": "MRO",
+			"numericCode": "478"
+		},
+		"names": {
+			"english": "Mauritania",
+			"french": "Mauritanie",
+			"local": "Muritaniyah",
+			"officialName": "Islamic Republic of Mauritania"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "1030000",
+			"earthPercentage": "0.69"
+		},
+		"capital": {
+			"name": "Nouakchott",
+			"population": "135000"
+		},
+		"population": {
+			"2013": "3537000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MUS": {
+		"name": "Mauritius",
+		"alpha2": "MU",
+		"alpha3": "MUS",
+		"numeric": "480",
+		"calling": {
+			"callingCode": "230",
+			"intDialingPrefix": "020"
+		},
+		"currency": {
+			"name": "Mauritius Rupee",
+			"alphabeticCode": "MUR",
+			"numericCode": "480"
+		},
+		"names": {
+			"english": "Mauritius",
+			"french": "Île Maurice",
+			"local": "Mauritius",
+			"officialName": "Republic of Mauritius"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "2040",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Port Louis",
+			"population": "145000"
+		},
+		"population": {
+			"2017": "1264000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MYT": {
+		"name": "Mayotte",
+		"alpha2": "YT",
+		"alpha3": "MYT",
+		"numeric": "175",
+		"calling": {
+			"callingCode": "262",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro",
+			"alphabeticCode": "EUR",
+			"numericCode": "978"
+		},
+		"names": {
+			"english": "Mayotte",
+			"french": "Mayotte",
+			"local": "Mayotte"
+		},
+		"region": "Eastern Africa",
+		"population": {
+			"2012": "212000"
+		}
+	},
+	"MEX": {
+		"name": "Mexico",
+		"alpha2": "MX",
+		"alpha3": "MEX",
+		"numeric": "484",
+		"calling": {
+			"callingCode": "52",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Mexican Peso Mexican Unidad de Inversion (UDI)",
+			"alphabeticCode": "MXN MXV",
+			"numericCode": "484 979"
+		},
+		"names": {
+			"english": "Mexico",
+			"french": "Mexique",
+			"local": "Estados Unidos Mexicanos",
+			"officialName": "United Mexican States"
+		},
+		"region": "North America",
+		"area": {
+			"area": "1964375",
+			"earthPercentage": "1.3"
+		},
+		"capital": {
+			"name": "Mexico City",
+			"population": "8300000"
+		},
+		"population": {
+			"2017": "123500000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"FSM": {
+		"name": "Micronesia, Federated States of",
+		"alpha2": "FM",
+		"alpha3": "FSM",
+		"numeric": "583",
+		"calling": {
+			"callingCode": "691",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "US Dollar",
+			"alphabeticCode": "USD",
+			"numericCode": "840"
+		},
+		"names": {
+			"english": "Micronesia, Federal States of",
+			"french": "États Fédérés de Micronésie",
+			"local": "Micronesia",
+			"officialName": "Federated States of Micronesia"
+		},
+		"region": "Micronesia, Oceania",
+		"area": {
+			"area": "702",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2015": "102289"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Palikir"
+		}
+	},
+	"MDA": {
+		"name": "Moldova",
+		"alpha2": "MD",
+		"alpha3": "MDA",
+		"numeric": "498",
+		"calling": {
+			"callingCode": "373",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Moldovan Leu",
+			"alphabeticCode": "MDL",
+			"numericCode": "498"
+		},
+		"names": {
+			"english": "Moldova, Republic of",
+			"french": "Moldova, République de",
+			"local": "Moldova",
+			"officialName": "Republic of Moldova"
+		},
+		"region": "Eastern Europe",
+		"area": {
+			"area": "33850",
+			"earthPercentage": "0.02"
+		},
+		"capital": {
+			"name": "Chisinau",
+			"population": "670000"
+		},
+		"population": {
+			"2017": "3550000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MCO": {
+		"name": "Monaco",
+		"alpha2": "MC",
+		"alpha3": "MCO",
+		"numeric": "492",
+		"calling": {
+			"callingCode": "377",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro",
+			"alphabeticCode": "EUR",
+			"numericCode": "978"
+		},
+		"names": {
+			"english": "Monaco",
+			"french": "Monaco",
+			"local": "Monaco",
+			"officialName": "Principality of Monaco"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "1.95",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Monaco",
+			"population": "28000"
+		},
+		"population": {
+			"2015": "38400"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MNG": {
+		"name": "Mongolia",
+		"alpha2": "MN",
+		"alpha3": "MNG",
+		"numeric": "496",
+		"calling": {
+			"callingCode": "976",
+			"intDialingPrefix": "001"
+		},
+		"currency": {
+			"name": "Tugrik (Tugrug)",
+			"alphabeticCode": "MNT",
+			"numericCode": "496"
+		},
+		"names": {
+			"english": "Mongolia",
+			"french": "Mongolie",
+			"local": "Mongol Uls",
+			"officialName": "Mongolia"
+		},
+		"region": "Eastern Asia",
+		"area": {
+			"area": "1564100",
+			"earthPercentage": "1.1"
+		},
+		"capital": {
+			"name": "Ulaanbaatar",
+			"population": "520000"
+		},
+		"population": {
+			"2016": "3061000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MNE": {
+		"name": "Montenegro",
+		"alpha2": "ME",
+		"alpha3": "MNE",
+		"numeric": "499",
+		"calling": {
+			"callingCode": "382",
+			"intDialingPrefix": "99"
+		},
+		"currency": {
+			"name": "Euro",
+			"alphabeticCode": "EUR",
+			"numericCode": "978"
+		},
+		"names": {
+			"english": "Montenegro",
+			"french": "Monténégro",
+			"local": "Crna Gora",
+			"officialName": "Republic of Montenegro"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "13812",
+			"earthPercentage": ">0.01"
+		},
+		"capital": {
+			"name": "Podgorica",
+			"population": "1100000"
+		},
+		"population": {
+			"2015": "622000"
+		},
+		"isSovereign": "true"
+	},
+	"MSR": {
+		"name": "Montserrat",
+		"alpha2": "MS",
+		"alpha3": "MSR",
+		"numeric": "500",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "East Caribbean Dollar",
+			"alphabeticCode": "XCD",
+			"numericCode": "951"
+		},
+		"names": {
+			"english": "Montserrat",
+			"french": "Montserrat",
+			"local": "Montserrat"
+		},
+		"region": "Lesser Antilles, Caribbean",
+		"area": {
+			"area": "102",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2011": "4922"
+		}
+	},
+	"MAR": {
+		"name": "Morocco",
+		"alpha2": "MA",
+		"alpha3": "MAR",
+		"numeric": "504",
+		"calling": {
+			"callingCode": "212",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Moroccan Dirham",
+			"alphabeticCode": "MAD",
+			"numericCode": "504"
+		},
+		"names": {
+			"english": "Morocco",
+			"french": "Maroc",
+			"local": "Al Maghrib",
+			"officialName": "Kingdom of Morocco"
+		},
+		"region": "Northern Africa",
+		"area": {
+			"area": "446550",
+			"earthPercentage": "0.30"
+		},
+		"capital": {
+			"name": "Rabat",
+			"population": "1230000"
+		},
+		"population": {
+			"2015": "33656000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MOZ": {
+		"name": "Mozambique",
+		"alpha2": "MZ",
+		"alpha3": "MOZ",
+		"numeric": "508",
+		"calling": {
+			"callingCode": "258",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Metical",
+			"alphabeticCode": "MZM",
+			"numericCode": "508"
+		},
+		"names": {
+			"english": "Mozambique",
+			"french": "Mozambique",
+			"local": "Mocambique",
+			"officialName": "Republic of Mozambique"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "801590",
+			"earthPercentage": "0.54"
+		},
+		"capital": {
+			"name": "Maputo",
+			"population": "900000"
+		},
+		"population": {
+			"2015": "25728000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MMR": {
+		"name": "Myanmar",
+		"alpha2": "MM",
+		"alpha3": "MMR",
+		"numeric": "104",
+		"calling": {
+			"callingCode": "95",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Kyat",
+			"alphabeticCode": "MMK",
+			"numericCode": "104"
+		},
+		"names": {
+			"english": "Myanmar, Burma",
+			"french": "Myanmar, Birmanie",
+			"local": "Myanma Naingngandaw",
+			"officialName": "Republic of the Union of Myanmar"
+		},
+		"region": "Southeast Asia",
+		"area": {
+			"area": "676578",
+			"earthPercentage": "0.45"
+		},
+		"population": {
+			"2014": "51419000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Naypyidaw (formerlyYangon)"
+		}
+	},
+	"NAM": {
+		"name": "Namibia",
+		"alpha2": "NA",
+		"alpha3": "NAM",
+		"numeric": "516",
+		"calling": {
+			"callingCode": "264",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Rand Namibia Dollar",
+			"alphabeticCode": "ZAR NAD",
+			"numericCode": "710 516"
+		},
+		"names": {
+			"english": "Namibia",
+			"french": "Namibie",
+			"local": "Namibia",
+			"officialName": "Republic of Namibia"
+		},
+		"region": "Southern Africa",
+		"area": {
+			"area": "824292",
+			"earthPercentage": "0.55"
+		},
+		"capital": {
+			"name": "Windhoek",
+			"population": "148000"
+		},
+		"population": {
+			"2016": "2300000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"NRU": {
+		"name": "Nauru",
+		"alpha2": "NR",
+		"alpha3": "NRU",
+		"numeric": "520",
+		"calling": {
+			"callingCode": "674",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Australian Dollar",
+			"alphabeticCode": "AUD",
+			"numericCode": "036"
+		},
+		"names": {
+			"english": "Nauru",
+			"french": "Nauru",
+			"local": "Nauru",
+			"officialName": "Republic of Nauru"
+		},
+		"region": "Micronesia, Oceania",
+		"area": {
+			"area": "21",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2015": "11288"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"capital": {
+			"name": "Yaren District (no Capital City)"
+		}
+	},
+	"NPL": {
+		"name": "Nepal",
+		"alpha2": "NP",
+		"alpha3": "NPL",
+		"numeric": "524",
+		"calling": {
+			"callingCode": "977",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Nepalese Rupee",
+			"alphabeticCode": "NPR",
+			"numericCode": "524"
+		},
+		"names": {
+			"english": "Nepal",
+			"french": "Népal",
+			"local": "Nepal",
+			"officialName": "Kingdom of Nepal"
+		},
+		"region": "South-Central Asia",
+		"area": {
+			"area": "147181",
+			"earthPercentage": "0.10"
+		},
+		"capital": {
+			"name": "Kathmandu",
+			"population": "240000"
+		},
+		"population": {
+			"2016": "31000000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"NLD": {
+		"name": "Netherlands",
+		"alpha2": "NL",
+		"alpha3": "NLD",
+		"numeric": "528",
+		"calling": {
+			"callingCode": "31",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Netherlands Guilder",
+			"alphabeticCode": "EUR NLG",
+			"numericCode": "978 528"
+		},
+		"names": {
+			"english": "Netherlands",
+			"french": "Pays-Bas",
+			"local": "Nederland/Holland",
+			"officialName": "Kingdom of the Netherlands"
+		},
+		"region": "Western Europe",
+		"area": {
+			"area": "41543",
+			"earthPercentage": "0.03"
+		},
+		"capital": {
+			"name": "Amsterdam The Hague (seat of gov't)",
+			"population": "730000"
+		},
+		"population": {
+			"2015": "157000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ANT": {
+		"name": "Netherlands Antilles",
+		"alpha2": "AN",
+		"alpha3": "ANT",
+		"numeric": "530",
+		"calling": {
+			"callingCode": "599",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Netherlands Antillan Guilder",
+			"alphabeticCode": "ANG",
+			"numericCode": "532"
+		},
+		"names": {
+			"english": "Netherlands Antilles",
+			"french": "Antilles Néerlandaises",
+			"local": "Nederlandse Antillen"
+		},
+		"region": "Caribbean",
+		"area": {
+			"area": "999",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2014": "24279"
+		}
+	},
+	"NCL": {
+		"name": "New Caledonia",
+		"alpha2": "NC",
+		"alpha3": "NCL",
+		"numeric": "540",
+		"calling": {
+			"callingCode": "687",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFP Franc",
+			"alphabeticCode": "XPF",
+			"numericCode": "953"
+		},
+		"names": {
+			"english": "New Caledonia",
+			"french": "Nouvelle-Calédonie",
+			"local": "Nouvelle-Calédonie"
+		},
+		"region": "Melanesia, Oceania",
+		"area": {
+			"area": "18575",
+			"earthPercentage": "0.01"
+		},
+		"capital": {
+			"name": "Nouméa",
+			"population": "76200"
+		},
+		"population": {
+			"2014": "256000"
+		}
+	},
+	"NZL": {
+		"name": "New Zealand",
+		"alpha2": "NZ",
+		"alpha3": "NZL",
+		"numeric": "554",
+		"calling": {
+			"callingCode": "64",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "New Zealand Dollar",
+			"alphabeticCode": "NZD",
+			"numericCode": "554"
+		},
+		"names": {
+			"english": "New Zealand",
+			"french": "Nouvelle-Zélande",
+			"local": "Aotearoa",
+			"officialName": "New Zealand (Aotearoa)"
+		},
+		"region": "Oceania; Australia",
+		"area": {
+			"area": "270467",
+			"earthPercentage": "0.18"
+		},
+		"capital": {
+			"name": "Wellington",
+			"population": "155000"
+		},
+		"population": {
+			"2016": "4675000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"NIC": {
+		"name": "Nicaragua",
+		"alpha2": "NI",
+		"alpha3": "NIC",
+		"numeric": "558",
+		"calling": {
+			"callingCode": "505",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Cordoba Oro",
+			"alphabeticCode": "NIO",
+			"numericCode": "558"
+		},
+		"names": {
+			"english": "Nicaragua",
+			"french": "Nicaragua",
+			"local": "Nicaragua",
+			"officialName": "Republic of Nicaragua"
+		},
+		"region": "Central America",
+		"area": {
+			"area": "130370",
+			"earthPercentage": "0.09"
+		},
+		"capital": {
+			"name": "Managua",
+			"population": "610000"
+		},
+		"population": {
+			"2010": "6071000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"NER": {
+		"name": "Niger",
+		"alpha2": "NE",
+		"alpha3": "NER",
+		"numeric": "562",
+		"calling": {
+			"callingCode": "227",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFA Franc BCEAO",
+			"alphabeticCode": "XOF",
+			"numericCode": "952"
+		},
+		"names": {
+			"english": "Niger",
+			"french": "Niger",
+			"local": "Niger",
+			"officialName": "Republic of Niger"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "1267000",
+			"earthPercentage": "0.85"
+		},
+		"capital": {
+			"name": "Niamey",
+			"population": "250000"
+		},
+		"population": {
+			"2012": "17138000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"NGA": {
+		"name": "Nigeria",
+		"alpha2": "NG",
+		"alpha3": "NGA",
+		"numeric": "566",
+		"calling": {
+			"callingCode": "234",
+			"intDialingPrefix": "009"
+		},
+		"currency": {
+			"name": "Naira",
+			"alphabeticCode": "NGN",
+			"numericCode": "566"
+		},
+		"names": {
+			"english": "Nigeria",
+			"french": "Nigéria",
+			"local": "Nigeria",
+			"officialName": "Federal Republic of Nigeria"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "923768",
+			"earthPercentage": "0.62"
+		},
+		"capital": {
+			"name": "Abuja",
+			"population": "300000"
+		},
+		"population": {
+			"2017": "191800000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"NIU": {
+		"name": "Niue",
+		"alpha2": "NU",
+		"alpha3": "NIU",
+		"numeric": "570",
+		"calling": {
+			"callingCode": "683",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "New Zealand Dollar",
+			"alphabeticCode": "NZD",
+			"numericCode": "554"
+		},
+		"names": {
+			"english": "Niue",
+			"french": "Nioué",
+			"local": "Niue"
+		},
+		"region": "Polynesia, Oceania",
+		"area": {
+			"area": "260",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Alofi",
+			"population": "?"
+		}
+	},
+	"NFK": {
+		"name": "Norfolk Island",
+		"alpha2": "NF",
+		"alpha3": "NFK",
+		"numeric": "574",
+		"calling": {
+			"callingCode": "672",
+			"intDialingPrefix": "00"
+		},
+		"area": {
+			"area": "36",
+			"earthPercentage": "<0.01"
+		}
+	},
+	"MNP": {
+		"name": "Northern Mariana Islands",
+		"alpha2": "MP",
+		"alpha3": "MNP",
+		"numeric": "580",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "US Dollar",
+			"alphabeticCode": "USD",
+			"numericCode": "840"
+		},
+		"names": {
+			"english": "Northern Mariana Islands",
+			"french": "Îles Mariannes du Nord",
+			"local": "Northern Mariana Islands"
+		},
+		"region": "Micronesia, Oceania",
+		"area": {
+			"area": "477",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2015": "52300"
+		}
+	},
+	"NOR": {
+		"name": "Norway",
+		"alpha2": "NO",
+		"alpha3": "NOR",
+		"numeric": "578",
+		"calling": {
+			"callingCode": "47",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Norwegian Krone",
+			"alphabeticCode": "NOK",
+			"numericCode": "578"
+		},
+		"names": {
+			"english": "Norway",
+			"french": "Norvège",
+			"local": "Norge",
+			"officialName": "Kingdom of Norway"
+		},
+		"region": "Northern Europe",
+		"area": {
+			"area": "323802",
+			"earthPercentage": "0.22"
+		},
+		"capital": {
+			"name": "Oslo",
+			"population": "480000"
+		},
+		"population": {
+			"2017": "5277000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"OMN": {
+		"name": "Oman",
+		"alpha2": "OM",
+		"alpha3": "OMN",
+		"numeric": "512",
+		"calling": {
+			"callingCode": "968",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Rial Omani",
+			"alphabeticCode": "OMR",
+			"numericCode": "512"
+		},
+		"names": {
+			"english": "Oman",
+			"french": "Oman",
+			"local": "Saltanat Uman",
+			"officialName": "Sultanate of Oman"
+		},
+		"region": "Middle East",
+		"area": {
+			"area": "309500",
+			"earthPercentage": "0.21"
+		},
+		"capital": {
+			"name": "Muscat",
+			"population": "5000"
+		},
+		"population": {
+			"2017": "4558500"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"PAK": {
+		"name": "Pakistan",
+		"alpha2": "PK",
+		"alpha3": "PAK",
+		"numeric": "586",
+		"calling": {
+			"callingCode": "92",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Pakistan Rupee",
+			"alphabeticCode": "PKR",
+			"numericCode": "586"
+		},
+		"names": {
+			"english": "Pakistan",
+			"french": "Pakistan",
+			"local": "Pakistan",
+			"officialName": "Islamic Republic of Pakistan"
+		},
+		"region": "South-Central Asia",
+		"area": {
+			"area": "796095",
+			"earthPercentage": "0.53"
+		},
+		"capital": {
+			"name": "Islamabad",
+			"population": "210000"
+		},
+		"population": {
+			"2017": "196700000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"PLW": {
+		"name": "Palau",
+		"alpha2": "PW",
+		"alpha3": "PLW",
+		"numeric": "585",
+		"calling": {
+			"callingCode": "680",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "US Dollar",
+			"alphabeticCode": "USD",
+			"numericCode": "840"
+		},
+		"names": {
+			"english": "Palau",
+			"french": "Palaos",
+			"local": "Belau",
+			"officialName": "Republic of Palau"
+		},
+		"region": "Micronesia, Oceania",
+		"area": {
+			"area": "490",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Ngerulmud",
+			"population": "?"
+		},
+		"population": {
+			"2015": "17661"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"PSE": {
+		"name": "Palestinian Territory",
+		"alpha2": "PS",
+		"alpha3": "PSE",
+		"numeric": "275",
+		"calling": {
+			"callingCode": "970",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Egyptian Pound Israeli New Shekel Jordanian Dinar",
+			"alphabeticCode": "EGP ILS JOD"
+		},
+		"names": {
+			"english": "Palestinian territories",
+			"french": "Autorité Nationale Palestinienne",
+			"local": "Filastin",
+			"officialName": "Gaza Strip and West Bank"
+		},
+		"region": "Middle East, Western Asia",
+		"area": {
+			"area": "6020",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2012": "4293000"
+		},
+		"isSovereign": "true",
+		"capital": {
+			"name": "Jerusalem (claimed)"
+		}
+	},
+	"PAN": {
+		"name": "Panama",
+		"alpha2": "PA",
+		"alpha3": "PAN",
+		"numeric": "591",
+		"calling": {
+			"callingCode": "507",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Balboa US Dollar",
+			"alphabeticCode": "PAB USD",
+			"numericCode": "590 840"
+		},
+		"names": {
+			"english": "Panama",
+			"french": "Panama",
+			"local": "Panama",
+			"officialName": "Republic of Panama"
+		},
+		"region": "Central America",
+		"area": {
+			"area": "74177",
+			"earthPercentage": "0.05"
+		},
+		"capital": {
+			"name": "Panama (City)",
+			"population": "452000"
+		},
+		"population": {
+			"2015": "3975000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"PNG": {
+		"name": "Papua New Guinea",
+		"alpha2": "PG",
+		"alpha3": "PNG",
+		"numeric": "598",
+		"calling": {
+			"callingCode": "675",
+			"intDialingPrefix": "05"
+		},
+		"currency": {
+			"name": "Kina",
+			"alphabeticCode": "PGK",
+			"numericCode": "598"
+		},
+		"names": {
+			"english": "Papua New Guinea",
+			"french": "Papouasie-Nouvelle-Guinée",
+			"local": "Papua Niu Gini",
+			"officialName": "Independent State of Papua New Guinea"
+		},
+		"region": "Maritime Southeast Asia, Melanesia, Oceania",
+		"area": {
+			"area": "462840",
+			"earthPercentage": "0.31"
+		},
+		"capital": {
+			"name": "Port Moresby",
+			"population": "180000"
+		},
+		"population": {
+			"2012": "7270000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"PRY": {
+		"name": "Paraguay",
+		"alpha2": "PY",
+		"alpha3": "PRY",
+		"numeric": "600",
+		"calling": {
+			"callingCode": "595",
+			"intDialingPrefix": "002"
+		},
+		"currency": {
+			"name": "Guarani",
+			"alphabeticCode": "PYG",
+			"numericCode": "600"
+		},
+		"names": {
+			"english": "Paraguay",
+			"french": "Paraguay",
+			"local": "Paraguay",
+			"officialName": "Republic of Paraguay"
+		},
+		"region": "Central South America",
+		"area": {
+			"area": "406752",
+			"earthPercentage": "0.27"
+		},
+		"capital": {
+			"name": "Asunción",
+			"population": "560000"
+		},
+		"population": {
+			"2014": "6818000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"PER": {
+		"name": "Peru",
+		"alpha2": "PE",
+		"alpha3": "PER",
+		"numeric": "604",
+		"calling": {
+			"callingCode": "51",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Nuevo Sol",
+			"alphabeticCode": "PEN",
+			"numericCode": "604"
+		},
+		"names": {
+			"english": "Peru",
+			"french": "Pérou",
+			"local": "Peru",
+			"officialName": "Republic of Peru"
+		},
+		"region": "Western South America",
+		"area": {
+			"area": "1285216",
+			"earthPercentage": "0.86"
+		},
+		"capital": {
+			"name": "Lima",
+			"population": "6420000"
+		},
+		"population": {
+			"2015": "31152000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"PHL": {
+		"name": "Philippines",
+		"alpha2": "PH",
+		"alpha3": "PHL",
+		"numeric": "608",
+		"calling": {
+			"callingCode": "63",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Philippine Peso",
+			"alphabeticCode": "PHP",
+			"numericCode": "608"
+		},
+		"names": {
+			"english": "Philippines",
+			"french": "Philippines",
+			"local": "Pilipinas",
+			"officialName": "Republic of the Philippines"
+		},
+		"region": "Southeast Asia",
+		"area": {
+			"area": "300000",
+			"earthPercentage": "0.20"
+		},
+		"capital": {
+			"name": "Manila",
+			"population": "1800000"
+		},
+		"population": {
+			"2015": "100981000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"PCN": {
+		"name": "Pitcairn",
+		"alpha2": "PN",
+		"alpha3": "PCN",
+		"numeric": "612",
+		"calling": {
+			"callingCode": "870",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "New Zealand Dollar",
+			"alphabeticCode": "NZD",
+			"numericCode": "554"
+		},
+		"names": {
+			"english": "Pitcairn Island",
+			"french": "Pitcairn",
+			"local": "Pitcairn Island"
+		},
+		"region": "Polynesia, Oceania",
+		"area": {
+			"area": "5",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Adamstown",
+			"population": "60"
+		}
+	},
+	"POL": {
+		"name": "Poland",
+		"alpha2": "PL",
+		"alpha3": "POL",
+		"numeric": "616",
+		"calling": {
+			"callingCode": "48",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Zloty",
+			"alphabeticCode": "PLN",
+			"numericCode": "985"
+		},
+		"names": {
+			"english": "Poland",
+			"french": "Pologne",
+			"local": "Polska",
+			"officialName": "Republic of Poland"
+		},
+		"region": "Eastern Europe",
+		"area": {
+			"area": "312685",
+			"earthPercentage": "0.21"
+		},
+		"capital": {
+			"name": "Warsaw",
+			"population": "1660000"
+		},
+		"population": {
+			"2015": "38500000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"PRT": {
+		"name": "Portugal",
+		"alpha2": "PT",
+		"alpha3": "PRT",
+		"numeric": "620",
+		"calling": {
+			"callingCode": "351",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Portugese Escudo",
+			"alphabeticCode": "EUR PTE",
+			"numericCode": "978 620"
+		},
+		"names": {
+			"english": "Portugal",
+			"french": "Portugal",
+			"local": "Portugal",
+			"officialName": "Portuguese Republic"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "92090",
+			"earthPercentage": "0.06"
+		},
+		"capital": {
+			"name": "Lisbon",
+			"population": "670000"
+		},
+		"population": {
+			"2015": "10341000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"PRI": {
+		"name": "Puerto Rico",
+		"alpha2": "PR",
+		"alpha3": "PRI",
+		"numeric": "630",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "US Dollar",
+			"alphabeticCode": "USD",
+			"numericCode": "840"
+		},
+		"names": {
+			"english": "Puerto Rico",
+			"french": "Porto Rico",
+			"local": "Puerto Rico"
+		},
+		"region": "Greater Antilles, Caribbean",
+		"area": {
+			"area": "8870",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2016": "3411000"
+		}
+	},
+	"QAT": {
+		"name": "Qatar",
+		"alpha2": "QA",
+		"alpha3": "QAT",
+		"numeric": "634",
+		"calling": {
+			"callingCode": "974",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Qatari Rial",
+			"alphabeticCode": "QAR",
+			"numericCode": "634"
+		},
+		"names": {
+			"english": "Qatar",
+			"french": "Qatar",
+			"local": "Dawlat Qatar",
+			"officialName": "State of Qatar"
+		},
+		"region": "Arabian Peninsula, Middle East",
+		"area": {
+			"area": "11586",
+			"earthPercentage": ">0.01"
+		},
+		"capital": {
+			"name": "Doha (Al-Dawhah)",
+			"population": "220000"
+		},
+		"population": {
+			"2016": "2597000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"REU": {
+		"name": "Réunion",
+		"alpha2": "RE",
+		"alpha3": "REU",
+		"numeric": "638",
+		"calling": {
+			"callingCode": "262",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro",
+			"alphabeticCode": "EUR",
+			"numericCode": "978"
+		},
+		"names": {
+			"english": "Reunion Island",
+			"french": "Ile de la Réunion",
+			"local": "Ile de la Réunion"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "2510",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2009": "816000"
+		}
+	},
+	"ROU": {
+		"name": "Romania",
+		"alpha2": "RO",
+		"alpha3": "ROU",
+		"numeric": "642",
+		"currency": {
+			"name": "Leu",
+			"alphabeticCode": "ROL",
+			"numericCode": "642"
+		},
+		"names": {
+			"english": "Romania",
+			"french": "Roumanie",
+			"local": "Romania"
+		},
+		"region": "Eastern Europe",
+		"area": {
+			"area": "238391",
+			"earthPercentage": "0.16"
+		},
+		"capital": {
+			"name": "Bucharest (Bucuresti)",
+			"population": "2100000"
+		},
+		"population": {
+			"2015": "19870000"
+		}
+	},
+	"RUS": {
+		"name": "Russian Federation",
+		"alpha2": "RU",
+		"alpha3": "RUS",
+		"numeric": "643",
+		"calling": {
+			"callingCode": "7",
+			"intDialingPrefix": "810"
+		},
+		"currency": {
+			"name": "Russian Ruble Russian Ruble",
+			"alphabeticCode": "RUR RUB",
+			"numericCode": "810 643"
+		},
+		"names": {
+			"english": "Russian Federation",
+			"french": "Russie, Fédération de",
+			"local": "Rossiya",
+			"officialName": "Russian Federation"
+		},
+		"region": "Eastern Europe - Northern Asia",
+		"area": {
+			"area": "3960000",
+			"earthPercentage": "2.6"
+		},
+		"population": {
+			"2015": "34000000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Moscow"
+		}
+	},
+	"RWA": {
+		"name": "Rwanda",
+		"alpha2": "RW",
+		"alpha3": "RWA",
+		"numeric": "646",
+		"calling": {
+			"callingCode": "250",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Rwanda Franc",
+			"alphabeticCode": "RWF",
+			"numericCode": "646"
+		},
+		"names": {
+			"english": "Rwanda",
+			"french": "Rwanda",
+			"local": "Rwanda",
+			"officialName": "Rwandese Republic"
+		},
+		"region": "Eastern Africa, African Great Lakes",
+		"area": {
+			"area": "26338",
+			"earthPercentage": "0.02"
+		},
+		"capital": {
+			"name": "Kigali",
+			"population": "118000"
+		},
+		"population": {
+			"2016": "11533000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"BLM": {
+		"name": "Saint-Barthélemy",
+		"alpha2": "BL",
+		"alpha3": "BLM",
+		"numeric": "652"
+	},
+	"SHN": {
+		"name": "Saint Helena",
+		"alpha2": "SH",
+		"alpha3": "SHN",
+		"numeric": "654",
+		"calling": {
+			"callingCode": "290",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Saint Helena Pound",
+			"alphabeticCode": "SHP",
+			"numericCode": "654"
+		},
+		"area": {
+			"area": "122",
+			"earthPercentage": "<0.01"
+		}
+	},
+	"KNA": {
+		"name": "Saint Kitts and Nevis",
+		"alpha2": "KN",
+		"alpha3": "KNA",
+		"numeric": "659",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "East Caribbean Dollar",
+			"alphabeticCode": "XCD",
+			"numericCode": "951"
+		},
+		"names": {
+			"english": "Saint Kitts and Nevis",
+			"french": "Saint-Kitts-et-Nevis",
+			"officialName": "Federation of Saint Kitts and Nevis"
+		},
+		"region": "Lesser Antilles, Caribbean",
+		"area": {
+			"area": "261",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Basseterre",
+			"population": "15000"
+		},
+		"population": {
+			"2015": "51000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"LCA": {
+		"name": "Saint Lucia",
+		"alpha2": "LC",
+		"alpha3": "LCA",
+		"numeric": "662",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "East Caribbean Dollar",
+			"alphabeticCode": "XCD",
+			"numericCode": "951"
+		},
+		"names": {
+			"english": "Saint Lucia",
+			"french": "Sainte-Lucie",
+			"local": "Saint Lucia",
+			"officialName": "Saint Lucia"
+		},
+		"region": "Lesser Antilles, Caribbean",
+		"area": {
+			"area": "539",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Castries",
+			"population": "2000"
+		},
+		"population": {
+			"2012": "172000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"MAF": {
+		"name": "Saint-Martin (French part)",
+		"alpha2": "MF",
+		"alpha3": "MAF",
+		"numeric": "663",
+		"population": {
+			"2012": "36000"
+		}
+	},
+	"SPM": {
+		"name": "Saint Pierre and Miquelon",
+		"alpha2": "PM",
+		"alpha3": "SPM",
+		"numeric": "666",
+		"calling": {
+			"callingCode": "508",
+			"intDialingPrefix": "00"
+		},
+		"area": {
+			"area": "242",
+			"earthPercentage": "<0.01"
+		}
+	},
+	"VCT": {
+		"name": "Saint Vincent and Grenadines",
+		"alpha2": "VC",
+		"alpha3": "VCT",
+		"numeric": "670",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "East Caribbean Dollar",
+			"alphabeticCode": "XCD",
+			"numericCode": "951"
+		},
+		"names": {
+			"english": "Saint Vincent and the Grenadines",
+			"french": "Saint-Vincent-et-les Grenadines",
+			"officialName": "Saint Vincent and Grenadines"
+		},
+		"region": "Lesser Antilles, Caribbean",
+		"area": {
+			"area": "389",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2015": "110000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Kingstown"
+		}
+	},
+	"WSM": {
+		"name": "Samoa",
+		"alpha2": "WS",
+		"alpha3": "WSM",
+		"numeric": "882",
+		"calling": {
+			"callingCode": "685",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Tala",
+			"alphabeticCode": "WST",
+			"numericCode": "882"
+		},
+		"names": {
+			"english": "Samoa",
+			"french": "Samoa",
+			"local": "Samoa",
+			"officialName": "Independent State of Samoa"
+		},
+		"region": "Polynesia, Oceania",
+		"area": {
+			"area": "2831",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Apia",
+			"population": "32000"
+		},
+		"population": {
+			"2015": "193483"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SMR": {
+		"name": "San Marino",
+		"alpha2": "SM",
+		"alpha3": "SMR",
+		"numeric": "674",
+		"calling": {
+			"callingCode": "378",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro",
+			"alphabeticCode": "EUR",
+			"numericCode": "978"
+		},
+		"names": {
+			"english": "San Marino",
+			"french": "Saint-Marin",
+			"local": "San Marino",
+			"officialName": "Republic of San Marino"
+		},
+		"region": "Southern Europe within Italy",
+		"area": {
+			"area": "61",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "San Marino",
+			"population": "2800"
+		},
+		"population": {
+			"2016": "33100"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"STP": {
+		"name": "Sao Tome and Principe",
+		"alpha2": "ST",
+		"alpha3": "STP",
+		"numeric": "678",
+		"calling": {
+			"callingCode": "239",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Dobra",
+			"alphabeticCode": "STD",
+			"numericCode": "678"
+		},
+		"names": {
+			"english": "Sao Tome and Principe",
+			"french": "Sao Tomé-et-Principe",
+			"local": "Sao Tome e Principe",
+			"officialName": "Democratic Republic of Sao Tome and Principe"
+		},
+		"region": "Central Africa",
+		"area": {
+			"area": "964",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2016": "178700"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "São Tomé"
+		}
+	},
+	"SAU": {
+		"name": "Saudi Arabia",
+		"alpha2": "SA",
+		"alpha3": "SAU",
+		"numeric": "682",
+		"calling": {
+			"callingCode": "966",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Saudi Riyal",
+			"alphabeticCode": "SAR",
+			"numericCode": "682"
+		},
+		"names": {
+			"english": "Saudi Arabia",
+			"french": "Arabie Saoudite",
+			"local": "Al Arabiyah as Suudiyah",
+			"officialName": "Kingdom of Saudi Arabia"
+		},
+		"region": "Arabian Peninsula, Middle East",
+		"area": {
+			"area": "2000000",
+			"earthPercentage": "1.4"
+		},
+		"capital": {
+			"name": "Riyadh",
+			"population": "680000"
+		},
+		"population": {
+			"2016": "31770000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SEN": {
+		"name": "Senegal",
+		"alpha2": "SN",
+		"alpha3": "SEN",
+		"numeric": "686",
+		"calling": {
+			"callingCode": "221",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFA Franc BCEAO",
+			"alphabeticCode": "XOF",
+			"numericCode": "952"
+		},
+		"names": {
+			"english": "Senegal",
+			"french": "Sénégal",
+			"local": "Senegal",
+			"officialName": "Republic of Senegal"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "196722",
+			"earthPercentage": "0.13"
+		},
+		"capital": {
+			"name": "Dakar",
+			"population": "165000"
+		},
+		"population": {
+			"2016": "14800000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SRB": {
+		"name": "Serbia",
+		"alpha2": "RS",
+		"alpha3": "SRB",
+		"numeric": "688",
+		"calling": {
+			"callingCode": "381",
+			"intDialingPrefix": "99"
+		},
+		"currency": {
+			"name": "Serbian Dinar",
+			"alphabeticCode": "CSD",
+			"numericCode": "891"
+		},
+		"names": {
+			"english": "Serbia",
+			"french": "Serbie",
+			"local": "Srbija",
+			"officialName": "Republic of Serbia"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "77474",
+			"earthPercentage": "0.05"
+		},
+		"capital": {
+			"name": "Belgrade",
+			"population": "1100000"
+		},
+		"population": {
+			"2016": "7076000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SYC": {
+		"name": "Seychelles",
+		"alpha2": "SC",
+		"alpha3": "SYC",
+		"numeric": "690",
+		"calling": {
+			"callingCode": "248",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Seychelles Rupee",
+			"alphabeticCode": "SCR",
+			"numericCode": "690"
+		},
+		"names": {
+			"english": "Seychelles",
+			"french": "Seychelles",
+			"local": "Seychelles",
+			"officialName": "Republic of Seychelles"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "455",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Victoria",
+			"population": "25000"
+		},
+		"population": {
+			"2015": "92000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SLE": {
+		"name": "Sierra Leone",
+		"alpha2": "SL",
+		"alpha3": "SLE",
+		"numeric": "694",
+		"calling": {
+			"callingCode": "232",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Leone",
+			"alphabeticCode": "SLL",
+			"numericCode": "694"
+		},
+		"names": {
+			"english": "Sierra Leone",
+			"french": "Sierra Leone",
+			"local": "Sierra Leone",
+			"officialName": "Republic of Sierra Leone"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "71740",
+			"earthPercentage": "0.05"
+		},
+		"capital": {
+			"name": "Freetown",
+			"population": "48000"
+		},
+		"population": {
+			"2015": "7075000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SGP": {
+		"name": "Singapore",
+		"alpha2": "SG",
+		"alpha3": "SGP",
+		"numeric": "702",
+		"calling": {
+			"callingCode": "65",
+			"intDialingPrefix": "001"
+		},
+		"currency": {
+			"name": "Singapore Dollar",
+			"alphabeticCode": "SGD",
+			"numericCode": "702"
+		},
+		"names": {
+			"english": "Singapore",
+			"french": "Singapour",
+			"local": "Singapore",
+			"officialName": "Republic of Singapore"
+		},
+		"region": "Southeast Asia",
+		"area": {
+			"area": "718",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Singapore",
+			"population": "3000000"
+		},
+		"population": {
+			"2015": "5535000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SVK": {
+		"name": "Slovakia",
+		"alpha2": "SK",
+		"alpha3": "SVK",
+		"numeric": "703",
+		"calling": {
+			"callingCode": "421",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro since 1. 1. 2009 replaced Slovak Koruna",
+			"alphabeticCode": "EUR SKK",
+			"numericCode": "978 703"
+		},
+		"names": {
+			"english": "Slovakia (Slovak Republic)",
+			"french": "Slovaquie",
+			"local": "Slovensko",
+			"officialName": "Slovak Republic"
+		},
+		"region": "Eastern Europe",
+		"area": {
+			"area": "49035",
+			"earthPercentage": "0.03"
+		},
+		"capital": {
+			"name": "Bratislava",
+			"population": "450000"
+		},
+		"population": {
+			"2015": "5421000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SVN": {
+		"name": "Slovenia",
+		"alpha2": "SI",
+		"alpha3": "SVN",
+		"numeric": "705",
+		"calling": {
+			"callingCode": "386",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro since 1. 1. 2007 replaced Slovenian Tolar",
+			"alphabeticCode": "EUR SIT",
+			"numericCode": "978 705"
+		},
+		"names": {
+			"english": "Slovenia",
+			"french": "Slovénie",
+			"local": "Slovenija",
+			"officialName": "Republic of Slovenia"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "20273",
+			"earthPercentage": "0.01"
+		},
+		"capital": {
+			"name": "Ljubljana",
+			"population": "280000"
+		},
+		"population": {
+			"2016": "2064241"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SLB": {
+		"name": "Solomon Islands",
+		"alpha2": "SB",
+		"alpha3": "SLB",
+		"numeric": "090",
+		"calling": {
+			"callingCode": "677",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Solomon Islands Dollar",
+			"alphabeticCode": "SBD",
+			"numericCode": "090"
+		},
+		"names": {
+			"english": "Solomon Islands",
+			"french": "Salomon, Îles",
+			"local": "Solomon Islands",
+			"officialName": "Solomon Islands"
+		},
+		"region": "Melanesia, Oceania",
+		"area": {
+			"area": "28896",
+			"earthPercentage": "0.02"
+		},
+		"capital": {
+			"name": "Honiara",
+			"population": "30000"
+		},
+		"population": {
+			"2015": "642000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SOM": {
+		"name": "Somalia",
+		"alpha2": "SO",
+		"alpha3": "SOM",
+		"numeric": "706",
+		"calling": {
+			"callingCode": "252",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Somali Shilling",
+			"alphabeticCode": "SOS",
+			"numericCode": "706"
+		},
+		"names": {
+			"english": "Somalia",
+			"french": "Somalie",
+			"local": "Somalia",
+			"officialName": "Federal Republic of Somalia"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "637657",
+			"earthPercentage": "0.43"
+		},
+		"capital": {
+			"name": "Mogadishu",
+			"population": "260000"
+		},
+		"population": {
+			"2014": "12316000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ZAF": {
+		"name": "South Africa",
+		"alpha2": "ZA",
+		"alpha3": "ZAF",
+		"numeric": "710",
+		"calling": {
+			"callingCode": "27",
+			"intDialingPrefix": "09"
+		},
+		"currency": {
+			"name": "Rand",
+			"alphabeticCode": "ZAR",
+			"numericCode": "710"
+		},
+		"names": {
+			"english": "South Africa",
+			"french": "Afrique du Sud",
+			"local": "South Africa",
+			"officialName": "Republic of South Africa"
+		},
+		"region": "Southern Africa",
+		"area": {
+			"area": "1221037",
+			"earthPercentage": "0.82"
+		},
+		"capital": {
+			"name": "Pretoria (administrative) Cape Town (legislative) Bloemfontein (judiciary)",
+			"population": "1600000"
+		},
+		"population": {
+			"2016": "55653000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SGS": {
+		"name": "South Georgia and the South Sandwich Islands",
+		"alpha2": "GS",
+		"alpha3": "SGS",
+		"numeric": "239"
+	},
+	"SSD": {
+		"name": "South Sudan",
+		"alpha2": "SS",
+		"alpha3": "SSD",
+		"numeric": "728",
+		"currency": {
+			"name": "South Sudanese pound since 18. July 2011",
+			"alphabeticCode": "SSP",
+			"numericCode": "728"
+		},
+		"names": {
+			"english": "South Sudan",
+			"french": "Soudan du Sud",
+			"local": "South Sudan",
+			"officialName": "Republic of South Sudan"
+		},
+		"region": "East-Central Africa",
+		"capital": {
+			"name": "Juba",
+			"population": "250000"
+		},
+		"population": {
+			"2008": "8260490"
+		},
+		"isSovereign": "true"
+	},
+	"ESP": {
+		"name": "Spain",
+		"alpha2": "ES",
+		"alpha3": "ESP",
+		"numeric": "724",
+		"calling": {
+			"callingCode": "34",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Euro replaced Spanish Peseta",
+			"alphabeticCode": "EUR ESP",
+			"numericCode": "978 724"
+		},
+		"names": {
+			"english": "Spain",
+			"french": "Espagne",
+			"local": "España",
+			"officialName": "Kingdom of Spain"
+		},
+		"region": "Southern Europe",
+		"area": {
+			"area": "505992",
+			"earthPercentage": "0.34"
+		},
+		"capital": {
+			"name": "Madrid",
+			"population": "3000000"
+		},
+		"population": {
+			"2017": "46528900"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"LKA": {
+		"name": "Sri Lanka",
+		"alpha2": "LK",
+		"alpha3": "LKA",
+		"numeric": "144",
+		"calling": {
+			"callingCode": "94",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Sri Lanka Rupee",
+			"alphabeticCode": "LKR",
+			"numericCode": "144"
+		},
+		"names": {
+			"english": "Sri Lanka",
+			"french": "Sri Lanka",
+			"local": "Sri Lanka",
+			"officialName": "Democratic Socialist Republic of Sri Lanka"
+		},
+		"region": "South-Central Asia",
+		"area": {
+			"area": "65610",
+			"earthPercentage": "0.04"
+		},
+		"capital": {
+			"name": "Sri Jayewardenepura-Kotte; see: Colombo",
+			"population": "620000"
+		},
+		"population": {
+			"2016": "21203000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SDN": {
+		"name": "Sudan",
+		"alpha2": "SD",
+		"alpha3": "SDN",
+		"numeric": "736",
+		"calling": {
+			"callingCode": "249",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Sudanese Dinar [obsolete] since 10. Jan. 2007 Sudanese Pound",
+			"alphabeticCode": "SDD SDG",
+			"numericCode": "736 938"
+		},
+		"names": {
+			"english": "Sudan",
+			"french": "Soudan",
+			"local": "As-Sudan",
+			"officialName": "Republic of the Sudan"
+		},
+		"region": "Northern Africa",
+		"area": {
+			"area": "1886068",
+			"earthPercentage": "1.3"
+		},
+		"capital": {
+			"name": "Khartoum",
+			"population": "930000"
+		},
+		"population": {
+			"2015": "38435000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SUR": {
+		"name": "Suriname",
+		"alpha2": "SR",
+		"alpha3": "SUR",
+		"numeric": "740",
+		"calling": {
+			"callingCode": "597",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Suriname Guilder",
+			"alphabeticCode": "SRG",
+			"numericCode": "740"
+		},
+		"names": {
+			"english": "Suriname",
+			"french": "Suriname",
+			"local": "Suriname",
+			"officialName": "Republic of Suriname"
+		},
+		"region": "North-Eastern South America",
+		"area": {
+			"area": "163820",
+			"earthPercentage": "0.11"
+		},
+		"capital": {
+			"name": "Paramaribo",
+			"population": "111000"
+		},
+		"population": {
+			"2012": "540000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SJM": {
+		"name": "Svalbard and Jan Mayen Islands",
+		"alpha2": "SJ",
+		"alpha3": "SJM",
+		"numeric": "744",
+		"calling": {
+			"callingCode": "47",
+			"intDialingPrefix": "00"
+		},
+		"area": {
+			"area": "62422",
+			"earthPercentage": "0.04"
+		}
+	},
+	"SWZ": {
+		"name": "Swaziland",
+		"alpha2": "SZ",
+		"alpha3": "SWZ",
+		"numeric": "748",
+		"calling": {
+			"callingCode": "268",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Lilangeni",
+			"alphabeticCode": "SZL",
+			"numericCode": "748"
+		},
+		"names": {
+			"english": "Swaziland",
+			"french": "Swaziland",
+			"local": "Swaziland",
+			"officialName": "Kingdom of Swaziland"
+		},
+		"region": "Southern Africa",
+		"area": {
+			"area": "17364",
+			"earthPercentage": "0.01"
+		},
+		"capital": {
+			"name": "Mbabane (administrative) Lobamba (legislative)",
+			"population": "41000"
+		},
+		"population": {
+			"2015": "1400000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SWE": {
+		"name": "Sweden",
+		"alpha2": "SE",
+		"alpha3": "SWE",
+		"numeric": "752",
+		"calling": {
+			"callingCode": "46",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Swedish Krona",
+			"alphabeticCode": "SEK",
+			"numericCode": "752"
+		},
+		"names": {
+			"english": "Sweden",
+			"french": "Suède",
+			"local": "Sverige",
+			"officialName": "Kingdom of Sweden"
+		},
+		"region": "Northern Europe",
+		"area": {
+			"area": "450295",
+			"earthPercentage": "0.30"
+		},
+		"capital": {
+			"name": "Stockholm",
+			"population": "720000"
+		},
+		"population": {
+			"2015": "9753627"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"CHE": {
+		"name": "Switzerland",
+		"alpha2": "CH",
+		"alpha3": "CHE",
+		"numeric": "756",
+		"calling": {
+			"callingCode": "41",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Swiss Franc",
+			"alphabeticCode": "CHF",
+			"numericCode": "756"
+		},
+		"names": {
+			"english": "Switzerland",
+			"french": "Suisse",
+			"local": "Schweiz (German), Suisse (French), Svizzera (Italian)",
+			"officialName": "Swiss Confederation"
+		},
+		"region": "Western Europe",
+		"area": {
+			"area": "41285",
+			"earthPercentage": "0.03"
+		},
+		"capital": {
+			"name": "Bern",
+			"population": "130000"
+		},
+		"population": {
+			"2015": "8327600"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"SYR": {
+		"name": "Syrian Arab Republic (Syria)",
+		"alpha2": "SY",
+		"alpha3": "SYR",
+		"numeric": "760",
+		"calling": {
+			"callingCode": "963",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Syrian Pound",
+			"alphabeticCode": "SYP",
+			"numericCode": "760"
+		},
+		"names": {
+			"english": "Syria, Syrian Arab Republic",
+			"french": "Syrienne, République Arabe",
+			"local": "Suriyah",
+			"officialName": "Syrian Arab Republic"
+		},
+		"region": "Middle East, Western Asia",
+		"area": {
+			"area": "185180",
+			"earthPercentage": "0.12"
+		},
+		"population": {
+			"2015": "24044000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Damascus"
+		}
+	},
+	"TWN": {
+		"name": "Taiwan, Republic of China",
+		"alpha2": "TW",
+		"alpha3": "TWN",
+		"numeric": "158",
+		"calling": {
+			"callingCode": "886",
+			"intDialingPrefix": "002"
+		},
+		"currency": {
+			"name": "New Taiwan Dollar",
+			"alphabeticCode": "TWD",
+			"numericCode": "901"
+		},
+		"names": {
+			"english": "Taiwan (Republic of China)",
+			"french": "Taïwan, Province de Chine",
+			"local": "T'ai-wan",
+			"officialName": "Taiwan, Republic of China"
+		},
+		"region": "Eastern Asia",
+		"area": {
+			"area": "36188",
+			"earthPercentage": "0.02"
+		},
+		"population": {
+			"2016": "23526000"
+		},
+		"isSovereign": "true",
+		"capital": {
+			"name": "Taipei"
+		}
+	},
+	"TJK": {
+		"name": "Tajikistan",
+		"alpha2": "TJ",
+		"alpha3": "TJK",
+		"numeric": "762",
+		"calling": {
+			"callingCode": "992",
+			"intDialingPrefix": "810"
+		},
+		"currency": {
+			"name": "Somoni",
+			"alphabeticCode": "TJS",
+			"numericCode": "972"
+		},
+		"names": {
+			"english": "Tajikistan",
+			"french": "Tadjikistan",
+			"local": "Jumhurii Tojikiston",
+			"officialName": "Republic of Tajikistan"
+		},
+		"region": "Central Asia",
+		"area": {
+			"area": "143100",
+			"earthPercentage": "0.10"
+		},
+		"capital": {
+			"name": "Dushanbe",
+			"population": "530000"
+		},
+		"population": {
+			"2015": "8352000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"TZA": {
+		"name": "Tanzania, United Republic of",
+		"alpha2": "TZ",
+		"alpha3": "TZA",
+		"numeric": "834",
+		"calling": {
+			"callingCode": "255",
+			"intDialingPrefix": "000"
+		},
+		"currency": {
+			"name": "Tanzanian Shilling",
+			"alphabeticCode": "TZS",
+			"numericCode": "834"
+		},
+		"names": {
+			"english": "Tanzania; officially the United Republic of Tanzania",
+			"french": "Tanzanie, République-Unie de",
+			"local": "Jamhuri ya Muungano wa Tanzania",
+			"officialName": "United Republic of Tanzania"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "945087",
+			"earthPercentage": "0.63"
+		},
+		"population": {
+			"2016": "50143000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Dar es Salaam Dodoma (legislative)"
+		}
+	},
+	"THA": {
+		"name": "Thailand",
+		"alpha2": "TH",
+		"alpha3": "THA",
+		"numeric": "764",
+		"calling": {
+			"callingCode": "66",
+			"intDialingPrefix": "001"
+		},
+		"currency": {
+			"name": "Thai Baht",
+			"alphabeticCode": "THB",
+			"numericCode": "764"
+		},
+		"names": {
+			"english": "Thailand",
+			"french": "Thaïlande",
+			"local": "Prathet Thai",
+			"officialName": "Kingdom of Thailand"
+		},
+		"region": "South-East Asia",
+		"area": {
+			"area": "513120",
+			"earthPercentage": "0.34"
+		},
+		"capital": {
+			"name": "Bangkok",
+			"population": "5900000"
+		},
+		"population": {
+			"2015": "67959000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"TLS": {
+		"name": "Timor-Leste",
+		"alpha2": "TL",
+		"alpha3": "TLS",
+		"numeric": "626",
+		"calling": {
+			"callingCode": "670",
+			"intDialingPrefix": "None"
+		},
+		"currency": {
+			"name": "US Dollar",
+			"alphabeticCode": "USD",
+			"numericCode": "840"
+		},
+		"names": {
+			"english": "Timor-Leste (East Timor)",
+			"french": "Timor-Leste (Timor Oriental)",
+			"local": "Timor",
+			"officialName": "Democratic Republic of Timor-Leste"
+		},
+		"region": "Maritime South-East Asia",
+		"area": {
+			"area": "14874",
+			"earthPercentage": ">0.01"
+		},
+		"population": {
+			"2015": "1183000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"capital": {
+			"name": "Dili"
+		}
+	},
+	"TGO": {
+		"name": "Togo",
+		"alpha2": "TG",
+		"alpha3": "TGO",
+		"numeric": "768",
+		"calling": {
+			"callingCode": "228",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "CFA Franc BCEAO",
+			"alphabeticCode": "XOF",
+			"numericCode": "952"
+		},
+		"names": {
+			"english": "Togo",
+			"french": "Togo",
+			"local": "Republique Togolaise",
+			"officialName": "Togolese Republic"
+		},
+		"region": "West Africa",
+		"area": {
+			"area": "56785",
+			"earthPercentage": "0.04"
+		},
+		"capital": {
+			"name": "Lomé",
+			"population": "160000"
+		},
+		"population": {
+			"2016": "7143000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"TKL": {
+		"name": "Tokelau",
+		"alpha2": "TK",
+		"alpha3": "TKL",
+		"numeric": "772",
+		"calling": {
+			"callingCode": "690",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "New Zealand Dollar",
+			"alphabeticCode": "NZD",
+			"numericCode": "554"
+		},
+		"names": {
+			"english": "Tokelau",
+			"french": "Tokelau",
+			"local": "Tokelau"
+		},
+		"region": "Oceania/Australia",
+		"area": {
+			"area": "12",
+			"earthPercentage": "<0.01"
+		}
+	},
+	"TON": {
+		"name": "Tonga",
+		"alpha2": "TO",
+		"alpha3": "TON",
+		"numeric": "776",
+		"calling": {
+			"callingCode": "676",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Paʻanga",
+			"alphabeticCode": "TOP",
+			"numericCode": "776"
+		},
+		"names": {
+			"english": "Tonga",
+			"french": "Tonga",
+			"local": "Tonga",
+			"officialName": "Kingdom of Tonga"
+		},
+		"region": "Polynesia, Oceania",
+		"area": {
+			"area": "747",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Nuku'alofa",
+			"population": "19000"
+		},
+		"population": {
+			"2011": "103000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true"
+	},
+	"TTO": {
+		"name": "Trinidad and Tobago",
+		"alpha2": "TT",
+		"alpha3": "TTO",
+		"numeric": "780",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "Trinidad and Tobago Dollar",
+			"alphabeticCode": "TTD",
+			"numericCode": "780"
+		},
+		"names": {
+			"english": "Trinidad and Tobago",
+			"french": "Trinité-et-Tobago",
+			"local": "Trinidad, Tobago",
+			"officialName": "Republic of Trinidad and Tobago"
+		},
+		"region": "Northern South America, Caribbean",
+		"area": {
+			"area": "5130",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Port-of-Spain",
+			"population": "45000"
+		},
+		"population": {
+			"2015": "1310000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"TUN": {
+		"name": "Tunisia",
+		"alpha2": "TN",
+		"alpha3": "TUN",
+		"numeric": "788",
+		"calling": {
+			"callingCode": "216",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Tunisian Dinar",
+			"alphabeticCode": "TND",
+			"numericCode": "788"
+		},
+		"names": {
+			"english": "Tunisia",
+			"french": "Tunisie",
+			"local": "Tunis",
+			"officialName": "Republic of Tunisia"
+		},
+		"region": "Northern Africa",
+		"area": {
+			"area": "163610",
+			"earthPercentage": "0.11"
+		},
+		"capital": {
+			"name": "Tunis",
+			"population": "620000"
+		},
+		"population": {
+			"2016": "11299400"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"TUR": {
+		"name": "Turkey",
+		"alpha2": "TR",
+		"alpha3": "TUR",
+		"numeric": "792",
+		"calling": {
+			"callingCode": "90",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Yeni Türk Liras (YTL) on 1 January 2005 New Turkish Lira replaced Turkish Lira (TRL)",
+			"alphabeticCode": "TRY",
+			"numericCode": "949"
+		},
+		"names": {
+			"english": "Turkey",
+			"french": "Turquie",
+			"local": "Turkiye",
+			"officialName": "Republic of Turkey"
+		},
+		"region": "Southeastern Europe, Western Asia",
+		"area": {
+			"area": "783562",
+			"earthPercentage": "0.53"
+		},
+		"capital": {
+			"name": "Ankara",
+			"population": "2900000"
+		},
+		"population": {
+			"2015": "78741000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"TKM": {
+		"name": "Turkmenistan",
+		"alpha2": "TM",
+		"alpha3": "TKM",
+		"numeric": "795",
+		"calling": {
+			"callingCode": "993",
+			"intDialingPrefix": "810"
+		},
+		"currency": {
+			"name": "Manat",
+			"alphabeticCode": "TMM",
+			"numericCode": "795"
+		},
+		"names": {
+			"english": "Turkmenistan",
+			"french": "Turkménistan",
+			"local": "Turkmenistan",
+			"officialName": "Turkmenistan"
+		},
+		"region": "Central Asia",
+		"area": {
+			"area": "488100",
+			"earthPercentage": "0.33"
+		},
+		"capital": {
+			"name": "Ashgabat",
+			"population": "410000"
+		},
+		"population": {
+			"2016": "5400000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"TCA": {
+		"name": "Turks and Caicos Islands",
+		"alpha2": "TC",
+		"alpha3": "TCA",
+		"numeric": "796",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "US Dollar",
+			"alphabeticCode": "USD",
+			"numericCode": "840"
+		},
+		"names": {
+			"english": "Turks and Caicos Islands",
+			"french": "Turks et Caïques, Îles",
+			"local": "Turks and Caicos Islands"
+		},
+		"region": "Caribbean, parts of the Bahamas island chain.",
+		"area": {
+			"area": "948",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2010": "34000"
+		}
+	},
+	"TUV": {
+		"name": "Tuvalu",
+		"alpha2": "TV",
+		"alpha3": "TUV",
+		"numeric": "798",
+		"calling": {
+			"callingCode": "688",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Australian Dollar",
+			"alphabeticCode": "AUD",
+			"numericCode": "036"
+		},
+		"names": {
+			"english": "Tuvalu",
+			"french": "Tuvalu",
+			"local": "Tuvalu",
+			"officialName": "Tuvalu"
+		},
+		"region": "Polynesia, Oceania",
+		"area": {
+			"area": "26",
+			"earthPercentage": "<0.01"
+		},
+		"capital": {
+			"name": "Funafuti",
+			"population": "4600"
+		},
+		"population": {
+			"2012": "10000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true"
+	},
+	"UGA": {
+		"name": "Uganda",
+		"alpha2": "UG",
+		"alpha3": "UGA",
+		"numeric": "800",
+		"calling": {
+			"callingCode": "256",
+			"intDialingPrefix": "000"
+		},
+		"currency": {
+			"name": "Uganda Shilling",
+			"alphabeticCode": "UGX",
+			"numericCode": "800"
+		},
+		"names": {
+			"english": "Uganda",
+			"french": "Ouganda",
+			"local": "Uganda",
+			"officialName": "Republic of Uganda"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "241551",
+			"earthPercentage": "0.16"
+		},
+		"capital": {
+			"name": "Kampala",
+			"population": "330000"
+		},
+		"population": {
+			"2014": "34600000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"UKR": {
+		"name": "Ukraine",
+		"alpha2": "UA",
+		"alpha3": "UKR",
+		"numeric": "804",
+		"calling": {
+			"callingCode": "380",
+			"intDialingPrefix": "810"
+		},
+		"currency": {
+			"name": "Hryvnia",
+			"alphabeticCode": "UAH",
+			"numericCode": "980"
+		},
+		"names": {
+			"english": "Ukraine",
+			"french": "Ukraine",
+			"local": "Ukrayina",
+			"officialName": "Ukraine"
+		},
+		"region": "Eastern Europe",
+		"area": {
+			"area": "603500",
+			"earthPercentage": "0.41"
+		},
+		"capital": {
+			"name": "Kiev",
+			"population": "2650000"
+		},
+		"population": {
+			"2017": "42440000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ARE": {
+		"name": "United Arab Emirates",
+		"alpha2": "AE",
+		"alpha3": "ARE",
+		"numeric": "784",
+		"calling": {
+			"callingCode": "971",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "UAE Dirham",
+			"alphabeticCode": "AED",
+			"numericCode": "784"
+		},
+		"names": {
+			"english": "United Arab Emirates",
+			"french": "Émirats Arabes Unis",
+			"local": "Al Imarat al Arabiyah al Muttahidah",
+			"officialName": "United Arab Emirates"
+		},
+		"region": "Arabian Peninsula, Middle East",
+		"area": {
+			"area": "83600",
+			"earthPercentage": "0.06"
+		},
+		"capital": {
+			"name": "Abu Dhabi",
+			"population": "260000"
+		},
+		"population": {
+			"2010": "8264070"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"GBR": {
+		"name": "United Kingdom",
+		"alpha2": "GB",
+		"alpha3": "GBR",
+		"numeric": "826",
+		"calling": {
+			"callingCode": "44",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Pound Sterling",
+			"alphabeticCode": "GBP",
+			"numericCode": "826"
+		},
+		"names": {
+			"english": "United Kingdom",
+			"french": "Royaume-Uni",
+			"local": "United Kingdom",
+			"officialName": "United Kingdom of Great Britain and Northern Ireland"
+		},
+		"region": "Northern Europe",
+		"area": {
+			"area": "242500 229848 130279 77933 20779",
+			"earthPercentage": "0.16"
+		},
+		"capital": {
+			"name": "London",
+			"population": "7000000"
+		},
+		"population": {
+			"2016": "66000000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"USA": {
+		"name": "United States of America",
+		"alpha2": "US",
+		"alpha3": "USA",
+		"numeric": "840",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "US Dollar r (Same day) US Dollar r (Next day)",
+			"alphabeticCode": "USS USN",
+			"numericCode": "998 997"
+		},
+		"names": {
+			"english": "United States",
+			"french": "États-Unis",
+			"local": "United States",
+			"officialName": "United States of America"
+		},
+		"region": "North America",
+		"area": {
+			"area": "9833516 8081867",
+			"earthPercentage": "6.5"
+		},
+		"population": {
+			"2017": "326412000"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Washington D.C."
+		}
+	},
+	"UMI": {
+		"name": "US Minor Outlying Islands",
+		"alpha2": "UM",
+		"alpha3": "UMI",
+		"numeric": "581"
+	},
+	"URY": {
+		"name": "Uruguay",
+		"alpha2": "UY",
+		"alpha3": "URY",
+		"numeric": "858",
+		"calling": {
+			"callingCode": "598",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Peso Uruguayo",
+			"alphabeticCode": "UYU",
+			"numericCode": "858"
+		},
+		"names": {
+			"english": "Uruguay",
+			"french": "Uruguay",
+			"local": "Republica Oriental del Uruguay",
+			"officialName": "Oriental Republic of Uruguay"
+		},
+		"region": "Central East South America",
+		"area": {
+			"area": "176215",
+			"earthPercentage": "0.12"
+		},
+		"capital": {
+			"name": "Montevideo",
+			"population": "1370000"
+		},
+		"population": {
+			"2011": "3251000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"UZB": {
+		"name": "Uzbekistan",
+		"alpha2": "UZ",
+		"alpha3": "UZB",
+		"numeric": "860",
+		"calling": {
+			"callingCode": "998",
+			"intDialingPrefix": "810"
+		},
+		"currency": {
+			"name": "Uzbekistan Sum",
+			"alphabeticCode": "UZS",
+			"numericCode": "860"
+		},
+		"names": {
+			"english": "Uzbekistan",
+			"french": "Ouzbékistan",
+			"local": "Uzbekiston Respublikasi",
+			"officialName": "Republic of Uzbekistan"
+		},
+		"region": "Central Asia",
+		"area": {
+			"area": "447400",
+			"earthPercentage": "0.30"
+		},
+		"capital": {
+			"name": "Tashkent",
+			"population": "2100000"
+		},
+		"population": {
+			"2015": "31000000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"VUT": {
+		"name": "Vanuatu",
+		"alpha2": "VU",
+		"alpha3": "VUT",
+		"numeric": "548",
+		"calling": {
+			"callingCode": "678",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Vatu",
+			"alphabeticCode": "VUV",
+			"numericCode": "548"
+		},
+		"names": {
+			"english": "Vanuatu",
+			"french": "Vanuatu",
+			"local": "Vanuatu",
+			"officialName": "Republic of Vanuatu"
+		},
+		"region": "Melanesia, Oceania",
+		"area": {
+			"area": "12189",
+			"earthPercentage": ">0.01"
+		},
+		"capital": {
+			"name": "Port-Vila",
+			"population": "19000"
+		},
+		"population": {
+			"2015": "278000"
+		},
+		"isIsland": "true",
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"VEN": {
+		"name": "Venezuela (Bolivarian Republic)",
+		"alpha2": "VE",
+		"alpha3": "VEN",
+		"numeric": "862",
+		"calling": {
+			"callingCode": "58",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Venezuelan Bolívar (Bolívar fuerte venezolano) (since 1 January 2008; replaced at 1 bolívar fuerte for 1000 old bolívares)",
+			"alphabeticCode": "VEF VEB",
+			"numericCode": "937 862"
+		},
+		"names": {
+			"english": "Venezuela",
+			"french": "Venezuela",
+			"local": "Venezuela",
+			"officialName": "Republic of Venezuela"
+		},
+		"region": "Northern South America",
+		"area": {
+			"area": "912050",
+			"earthPercentage": "0.61"
+		},
+		"population": {
+			"2015": "31108083"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Caracas"
+		}
+	},
+	"VNM": {
+		"name": "Viet Nam",
+		"alpha2": "VN",
+		"alpha3": "VNM",
+		"numeric": "704",
+		"calling": {
+			"callingCode": "84",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Vietnamese Dong",
+			"alphabeticCode": "VND",
+			"numericCode": "704"
+		},
+		"names": {
+			"english": "Vietnam",
+			"french": "Viêt Nam",
+			"local": "Viet Nam",
+			"officialName": "Socialist Republic of Vietnam"
+		},
+		"region": "South-East Asia",
+		"area": {
+			"area": "331689",
+			"earthPercentage": "0.22"
+		},
+		"capital": {
+			"name": "Hanoi",
+			"population": "1100000"
+		},
+		"population": {
+			"2016": "92695000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"VIR": {
+		"name": "Virgin Islands, US",
+		"alpha2": "VI",
+		"alpha3": "VIR",
+		"numeric": "850",
+		"calling": {
+			"callingCode": "1",
+			"intDialingPrefix": "011"
+		},
+		"currency": {
+			"name": "US Dollar",
+			"alphabeticCode": "USD",
+			"numericCode": "840"
+		},
+		"names": {
+			"english": "Virgin Islands (U.S.)",
+			"french": "Îles Vierges des États-Unis",
+			"local": "Virgin Islands"
+		},
+		"region": "Lesser Antilles, Caribbean",
+		"area": {
+			"area": "347",
+			"earthPercentage": "<0.01"
+		},
+		"population": {
+			"2010": "106000"
+		}
+	},
+	"WLF": {
+		"name": "Wallis and Futuna Islands",
+		"alpha2": "WF",
+		"alpha3": "WLF",
+		"numeric": "876",
+		"calling": {
+			"callingCode": "681",
+			"intDialingPrefix": "19"
+		},
+		"currency": {
+			"name": "CFP Franc",
+			"alphabeticCode": "XPF",
+			"numericCode": "953"
+		},
+		"names": {
+			"english": "Wallis and Futuna Islands",
+			"french": "Wallis et Futuna",
+			"local": "Wallis et Futuna"
+		},
+		"region": "Polynesia, Oceania",
+		"area": {
+			"area": "142",
+			"earthPercentage": "<0.01"
+		}
+	},
+	"ESH": {
+		"name": "Western Sahara",
+		"alpha2": "EH",
+		"alpha3": "ESH",
+		"numeric": "732",
+		"currency": {
+			"name": "Moroccan Dirham",
+			"alphabeticCode": "MAD",
+			"numericCode": "504"
+		},
+		"names": {
+			"english": "Western Sahara",
+			"french": "Sahara Occidental",
+			"local": "Aṣ-Ṣaḥrā’ al-Gharbīyah"
+		},
+		"region": "Northern Africa",
+		"area": {
+			"area": "266000",
+			"earthPercentage": "0.18"
+		},
+		"capital": {
+			"name": "El Aaiún (Laayoune, Al 'Ayun)",
+			"population": "256200"
+		},
+		"population": {
+			"2016": "587000"
+		}
+	},
+	"YEM": {
+		"name": "Yemen",
+		"alpha2": "YE",
+		"alpha3": "YEM",
+		"numeric": "887",
+		"calling": {
+			"callingCode": "967",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Yemeni Rial",
+			"alphabeticCode": "YER",
+			"numericCode": "886"
+		},
+		"names": {
+			"english": "Yemen",
+			"french": "Yémen",
+			"local": "Al Yaman",
+			"officialName": "Republic of Yemen"
+		},
+		"region": "Arabian Peninsula, Middle East",
+		"area": {
+			"area": "527968",
+			"earthPercentage": "0.35"
+		},
+		"capital": {
+			"name": "Sanaa",
+			"population": "950000"
+		},
+		"population": {
+			"2014": "26000000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ZMB": {
+		"name": "Zambia",
+		"alpha2": "ZM",
+		"alpha3": "ZMB",
+		"numeric": "894",
+		"calling": {
+			"callingCode": "260",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Kwacha",
+			"alphabeticCode": "ZMK",
+			"numericCode": "894"
+		},
+		"names": {
+			"english": "Zambia",
+			"french": "Zambie",
+			"local": "Zambia",
+			"officialName": "Republic of Zambia"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "752618",
+			"earthPercentage": "0.51"
+		},
+		"capital": {
+			"name": "Lusaka",
+			"population": "1000000"
+		},
+		"population": {
+			"2016": "15933883"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ZWE": {
+		"name": "Zimbabwe",
+		"alpha2": "ZW",
+		"alpha3": "ZWE",
+		"numeric": "716",
+		"calling": {
+			"callingCode": "263",
+			"intDialingPrefix": "00"
+		},
+		"currency": {
+			"name": "Zimbabwe Dollar",
+			"alphabeticCode": "ZWD",
+			"numericCode": "716"
+		},
+		"names": {
+			"english": "Zimbabwe",
+			"french": "Zimbabwe",
+			"local": "Zimbabwe",
+			"officialName": "Republic of Zimbabwe"
+		},
+		"region": "Eastern Africa",
+		"area": {
+			"area": "390757",
+			"earthPercentage": "0.26"
+		},
+		"capital": {
+			"name": "Harare",
+			"population": "1200000"
+		},
+		"population": {
+			"2016": "14240000"
+		},
+		"isSovereign": "true",
+		"isUN": "true"
+	},
+	"ROM": {
+		"calling": {
+			"callingCode": "40",
+			"intDialingPrefix": "00"
+		},
+		"names": {
+			"officialName": "Romania"
+		},
+		"isSovereign": "true",
+		"isUN": "true",
+		"capital": {
+			"name": "Bucharest"
+		}
+	},
+	"VA": {
+		"currency": {
+			"name": "Euro replaced Lira",
+			"alphabeticCode": "EUR ITL",
+			"numericCode": "978 380"
+		},
+		"names": {
+			"english": "Holy See",
+			"french": "Saint-Siège (État de la Cité du Vatican)",
+			"local": "Status Civitatis Vaticanæ"
+		},
+		"region": "Southern Europe within Italy"
+	},
+	"TIBET": {
+		"names": {
+			"english": "Tibet",
+			"french": "Tibet",
+			"local": "Bod",
+			"officialName": "(Xizang - Under Sovereignty of China)"
+		},
+		"region": "South-Central Asia",
+		"isSovereign": "true",
+		"capital": {
+			"name": "Lhasa"
+		}
+	},
+	"TDC": {
+		"area": {
+			"area": "98",
+			"earthPercentage": "<0.01"
+		}
+	},
+	"ACI": {
+		"area": {
+			"area": "88",
+			"earthPercentage": "<0.01"
+		}
+	}
+}
