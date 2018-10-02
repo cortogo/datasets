@@ -1,0 +1,2660 @@
+{
+	"abk": {
+		"english": ["Abkhazian"],
+		"french": ["abkhaze"],
+		"alpha3": "abk",
+		"alpha2": "ab"
+	},
+	"ace": {
+		"english": ["Achinese (Acehnese)"],
+		"french": ["aceh"],
+		"alpha3": "ace",
+		"alpha2": ""
+	},
+	"ach": {
+		"english": ["Acoli"],
+		"french": ["acoli"],
+		"alpha3": "ach",
+		"alpha2": ""
+	},
+	"ada": {
+		"english": ["Adangme"],
+		"french": ["adangme"],
+		"alpha3": "ada",
+		"alpha2": ""
+	},
+	"ady": {
+		"english": ["Adyghe", "Adygei"],
+		"french": ["adyghé", "adygh"],
+		"alpha3": "ady",
+		"alpha2": ""
+	},
+	"aar": {
+		"english": ["Afar"],
+		"french": ["afar"],
+		"alpha3": "aar",
+		"alpha2": "aa"
+	},
+	"afh": {
+		"english": ["Afrihili"],
+		"french": ["afrihili"],
+		"alpha3": "afh",
+		"alpha2": ""
+	},
+	"afr": {
+		"english": ["Afrikaans"],
+		"french": ["afrikaans"],
+		"alpha3": "afr",
+		"alpha2": "af"
+	},
+	"afa": {
+		"english": ["Afro-Asiatic languages"],
+		"french": ["afro-asiatiques langues"],
+		"alpha3": "afa",
+		"alpha2": ""
+	},
+	"aka": {
+		"english": ["Akan"],
+		"french": ["akan"],
+		"alpha3": "aka",
+		"alpha2": "ak"
+	},
+	"akk": {
+		"english": ["Akkadian"],
+		"french": ["akkadien"],
+		"alpha3": "akk",
+		"alpha2": ""
+	},
+	"ale": {
+		"english": ["Aleut"],
+		"french": ["aléoute"],
+		"alpha3": "ale",
+		"alpha2": ""
+	},
+	"alg": {
+		"english": ["Algonquian languages"],
+		"french": ["algonquines langues"],
+		"alpha3": "alg",
+		"alpha2": ""
+	},
+	"amh": {
+		"english": ["Amharic"],
+		"french": ["amharique"],
+		"alpha3": "amh",
+		"alpha2": "am"
+	},
+	"apa": {
+		"english": ["Apache languages"],
+		"french": ["apache"],
+		"alpha3": "apa",
+		"alpha2": ""
+	},
+	"ara": {
+		"english": ["Arabic"],
+		"french": ["arabe"],
+		"alpha3": "ara",
+		"alpha2": "ar"
+	},
+	"arg": {
+		"english": ["Aragonese"],
+		"french": ["aragonais"],
+		"alpha3": "arg",
+		"alpha2": "an"
+	},
+	"arc": {
+		"english": ["Aramaic"],
+		"french": ["araméen"],
+		"alpha3": "arc",
+		"alpha2": ""
+	},
+	"arp": {
+		"english": ["Arapaho"],
+		"french": ["arapaho"],
+		"alpha3": "arp",
+		"alpha2": ""
+	},
+	"arn": {
+		"english": ["Araucanian"],
+		"french": ["araucan"],
+		"alpha3": "arn",
+		"alpha2": ""
+	},
+	"arw": {
+		"english": ["Arawak"],
+		"french": ["arawak"],
+		"alpha3": "arw",
+		"alpha2": ""
+	},
+	"asm": {
+		"english": ["Assamese"],
+		"french": ["assamais"],
+		"alpha3": "asm",
+		"alpha2": "as"
+	},
+	"ast": {
+		"english": ["Asturian", "Bable"],
+		"french": ["asturien", "bable"],
+		"alpha3": "ast",
+		"alpha2": ""
+	},
+	"ath": {
+		"english": ["Athapascan languages"],
+		"french": ["athapascanes langues"],
+		"alpha3": "ath",
+		"alpha2": ""
+	},
+	"aus": {
+		"english": ["Australian languages"],
+		"french": ["australiennes langues"],
+		"alpha3": "aus",
+		"alpha2": ""
+	},
+	"map": {
+		"english": ["Austronesian (Other)"],
+		"french": ["malayo-polynésiennes autres langues"],
+		"alpha3": "map",
+		"alpha2": ""
+	},
+	"ava": {
+		"english": ["Avaric"],
+		"french": ["avar"],
+		"alpha3": "ava",
+		"alpha2": "av"
+	},
+	"ave": {
+		"english": ["Avestan"],
+		"french": ["avestique"],
+		"alpha3": "ave",
+		"alpha2": "ae"
+	},
+	"awa": {
+		"english": ["Awadhi"],
+		"french": ["awadhi"],
+		"alpha3": "awa",
+		"alpha2": ""
+	},
+	"aym": {
+		"english": ["Aymara"],
+		"french": ["aymara"],
+		"alpha3": "aym",
+		"alpha2": "ay"
+	},
+	"aze": {
+		"english": ["Azerbaijani"],
+		"french": ["azéri"],
+		"alpha3": "aze",
+		"alpha2": "az"
+	},
+	"ban": {
+		"english": ["Balinese"],
+		"french": ["balinais"],
+		"alpha3": "ban",
+		"alpha2": ""
+	},
+	"bal": {
+		"english": ["Baluchi"],
+		"french": ["baloutchi"],
+		"alpha3": "bal",
+		"alpha2": ""
+	},
+	"bam": {
+		"english": ["Bambara"],
+		"french": ["bambara"],
+		"alpha3": "bam",
+		"alpha2": "bm"
+	},
+	"bai": {
+		"english": ["Bamileke languages"],
+		"french": ["bamilékés langues"],
+		"alpha3": "bai",
+		"alpha2": ""
+	},
+	"bad": {
+		"english": ["Banda"],
+		"french": ["banda"],
+		"alpha3": "bad",
+		"alpha2": ""
+	},
+	"bnt": {
+		"english": ["Bantu (Other)"],
+		"french": ["bantoues autres langues"],
+		"alpha3": "bnt",
+		"alpha2": ""
+	},
+	"bas": {
+		"english": ["Basa"],
+		"french": ["basa"],
+		"alpha3": "bas",
+		"alpha2": ""
+	},
+	"bak": {
+		"english": ["Bashkir"],
+		"french": ["bachkir"],
+		"alpha3": "bak",
+		"alpha2": "ba"
+	},
+	"btk": {
+		"english": ["Batak (Indonesia)"],
+		"french": ["batak (Indonésie)"],
+		"alpha3": "btk",
+		"alpha2": ""
+	},
+	"bej": {
+		"english": ["Beja"],
+		"french": ["bedja"],
+		"alpha3": "bej",
+		"alpha2": ""
+	},
+	"bel": {
+		"english": ["Belarusian"],
+		"french": ["biélorusse"],
+		"alpha3": "bel",
+		"alpha2": "be"
+	},
+	"bem": {
+		"english": ["Bemba"],
+		"french": ["bemba"],
+		"alpha3": "bem",
+		"alpha2": ""
+	},
+	"ben": {
+		"english": ["Bengali"],
+		"french": ["bengali"],
+		"alpha3": "ben",
+		"alpha2": "bn"
+	},
+	"ber": {
+		"english": ["Berber (Other)"],
+		"french": ["berbères autres langues"],
+		"alpha3": "ber",
+		"alpha2": ""
+	},
+	"bho": {
+		"english": ["Bhojpuri"],
+		"french": ["bhojpuri"],
+		"alpha3": "bho",
+		"alpha2": ""
+	},
+	"bih": {
+		"english": ["Bihari"],
+		"french": ["bihari"],
+		"alpha3": "bih",
+		"alpha2": "bh"
+	},
+	"bik": {
+		"english": ["Bikol"],
+		"french": ["bikol"],
+		"alpha3": "bik",
+		"alpha2": ""
+	},
+	"bin": {
+		"english": ["Bini"],
+		"french": ["bini"],
+		"alpha3": "bin",
+		"alpha2": ""
+	},
+	"bis": {
+		"english": ["Bislama"],
+		"french": ["bichlamar"],
+		"alpha3": "bis",
+		"alpha2": "bi"
+	},
+	"byn": {
+		"english": ["Blin", "Bilin"],
+		"french": ["blin", "bilen"],
+		"alpha3": "byn",
+		"alpha2": ""
+	},
+	"nob": {
+		"english": ["Bokmål Norwegian", "Norwegian Bokmål"],
+		"french": ["bokmål norvégien", "bokmål norvégien"],
+		"alpha3": "nob",
+		"alpha2": "nb"
+	},
+	"bos": {
+		"english": ["Bosnian"],
+		"french": ["bosniaque"],
+		"alpha3": "bos",
+		"alpha2": "bs"
+	},
+	"bra": {
+		"english": ["Braj"],
+		"french": ["braj"],
+		"alpha3": "bra",
+		"alpha2": ""
+	},
+	"bre": {
+		"english": ["Breton"],
+		"french": ["breton"],
+		"alpha3": "bre",
+		"alpha2": "br"
+	},
+	"bug": {
+		"english": ["Buginese"],
+		"french": ["bugi"],
+		"alpha3": "bug",
+		"alpha2": ""
+	},
+	"bul": {
+		"english": ["Bulgarian"],
+		"french": ["bulgare"],
+		"alpha3": "bul",
+		"alpha2": "bg"
+	},
+	"bua": {
+		"english": ["Buriat"],
+		"french": ["bouriate"],
+		"alpha3": "bua",
+		"alpha2": ""
+	},
+	"cad": {
+		"english": ["Caddo"],
+		"french": ["caddo"],
+		"alpha3": "cad",
+		"alpha2": ""
+	},
+	"car": {
+		"english": ["Carib"],
+		"french": ["caribe"],
+		"alpha3": "car",
+		"alpha2": ""
+	},
+	"spa": {
+		"english": ["Spanish", "Castilian"],
+		"french": ["espagnol", "castillan"],
+		"alpha3": "spa",
+		"alpha2": "es"
+	},
+	"cat": {
+		"english": ["Valencian", "Catalan"],
+		"french": ["valencien", "catalan"],
+		"alpha3": "cat",
+		"alpha2": "ca"
+	},
+	"ceb": {
+		"english": ["Cebuano"],
+		"french": ["cebuano"],
+		"alpha3": "ceb",
+		"alpha2": ""
+	},
+	"cel": {
+		"english": ["Celtic (Other)"],
+		"french": ["celtiques autres langues"],
+		"alpha3": "cel",
+		"alpha2": ""
+	},
+	"cai": {
+		"english": ["Central American Indian (Other)"],
+		"french": ["indiennes d'Amérique centrale autres langues"],
+		"alpha3": "cai",
+		"alpha2": ""
+	},
+	"chg": {
+		"english": ["Chagatai"],
+		"french": ["djaghataï"],
+		"alpha3": "chg",
+		"alpha2": ""
+	},
+	"cmc": {
+		"english": ["Chamic languages"],
+		"french": ["chames langues"],
+		"alpha3": "cmc",
+		"alpha2": ""
+	},
+	"cha": {
+		"english": ["Chamorro"],
+		"french": ["chamorro"],
+		"alpha3": "cha",
+		"alpha2": "ch"
+	},
+	"che": {
+		"english": ["Chechen"],
+		"french": ["tchétchène"],
+		"alpha3": "che",
+		"alpha2": "ce"
+	},
+	"chr": {
+		"english": ["Cherokee"],
+		"french": ["cherokee"],
+		"alpha3": "chr",
+		"alpha2": ""
+	},
+	"chy": {
+		"english": ["Cheyenne"],
+		"french": ["cheyenne"],
+		"alpha3": "chy",
+		"alpha2": ""
+	},
+	"chb": {
+		"english": ["Chibcha"],
+		"french": ["chibcha"],
+		"alpha3": "chb",
+		"alpha2": ""
+	},
+	"nya": {
+		"english": ["Nyanja", "Chichewa", "Chewa"],
+		"french": ["nyanja", "chichewa", "chewa"],
+		"alpha3": "nya",
+		"alpha2": "ny"
+	},
+	"chn": {
+		"english": ["Chinook jargon"],
+		"french": ["chinook jargon"],
+		"alpha3": "chn",
+		"alpha2": ""
+	},
+	"chp": {
+		"english": ["Chipewyan"],
+		"french": ["chipewyan"],
+		"alpha3": "chp",
+		"alpha2": ""
+	},
+	"cho": {
+		"english": ["Choctaw"],
+		"french": ["choctaw"],
+		"alpha3": "cho",
+		"alpha2": ""
+	},
+	"zha": {
+		"english": ["Zhuang", "Chuang"],
+		"french": ["zhuang", "chuang"],
+		"alpha3": "zha",
+		"alpha2": "za"
+	},
+	"chk": {
+		"english": ["Chuukese"],
+		"french": ["chuuk"],
+		"alpha3": "chk",
+		"alpha2": ""
+	},
+	"chv": {
+		"english": ["Chuvash"],
+		"french": ["tchouvache"],
+		"alpha3": "chv",
+		"alpha2": "cv"
+	},
+	"nwc": {
+		"english": ["Old Newari", "Classical Newari", "Classical Nepal Bhasa"],
+		"french": ["newari classique"],
+		"alpha3": "nwc",
+		"alpha2": ""
+	},
+	"cop": {
+		"english": ["Coptic"],
+		"french": ["copte"],
+		"alpha3": "cop",
+		"alpha2": ""
+	},
+	"cor": {
+		"english": ["Cornish"],
+		"french": ["cornique"],
+		"alpha3": "cor",
+		"alpha2": "kw"
+	},
+	"cos": {
+		"english": ["Corsican"],
+		"french": ["corse"],
+		"alpha3": "cos",
+		"alpha2": "co"
+	},
+	"cre": {
+		"english": ["Cree"],
+		"french": ["cree"],
+		"alpha3": "cre",
+		"alpha2": "cr"
+	},
+	"mus": {
+		"english": ["Creek"],
+		"french": ["muskogee"],
+		"alpha3": "mus",
+		"alpha2": ""
+	},
+	"crp": {
+		"english": ["Creoles and pidgins (Other)"],
+		"french": ["créoles et pidgins divers"],
+		"alpha3": "crp",
+		"alpha2": ""
+	},
+	"cpe": {
+		"english": ["Creoles and pidgins English-based (Other)"],
+		"french": ["créoles et pidgins anglais autres"],
+		"alpha3": "cpe",
+		"alpha2": ""
+	},
+	"cpf": {
+		"english": ["Creoles and pidgins French-based (Other)"],
+		"french": ["créoles et pidgins français autres"],
+		"alpha3": "cpf",
+		"alpha2": ""
+	},
+	"cpp": {
+		"english": ["Creoles and pidgins Portuguese-based (Other)"],
+		"french": ["créoles et pidgins portugais autres"],
+		"alpha3": "cpp",
+		"alpha2": ""
+	},
+	"crh": {
+		"english": ["Crimean Tatar", "Crimean Turkish"],
+		"french": ["tatar de Crimé"],
+		"alpha3": "crh",
+		"alpha2": ""
+	},
+	"cus": {
+		"english": ["Cushitic (Other)"],
+		"french": ["couchitiques autres langues"],
+		"alpha3": "cus",
+		"alpha2": ""
+	},
+	"dak": {
+		"english": ["Dakota"],
+		"french": ["dakota"],
+		"alpha3": "dak",
+		"alpha2": ""
+	},
+	"dan": {
+		"english": ["Danish"],
+		"french": ["danois"],
+		"alpha3": "dan",
+		"alpha2": "da"
+	},
+	"dar": {
+		"english": ["Dargwa"],
+		"french": ["dargwa"],
+		"alpha3": "dar",
+		"alpha2": ""
+	},
+	"day": {
+		"english": ["Dayak"],
+		"french": ["dayak"],
+		"alpha3": "day",
+		"alpha2": ""
+	},
+	"del": {
+		"english": ["Delaware"],
+		"french": ["delaware"],
+		"alpha3": "del",
+		"alpha2": ""
+	},
+	"din": {
+		"english": ["Dinka"],
+		"french": ["dinka"],
+		"alpha3": "din",
+		"alpha2": ""
+	},
+	"div": {
+		"english": ["Divehi"],
+		"french": ["maldivien"],
+		"alpha3": "div",
+		"alpha2": "dv"
+	},
+	"doi": {
+		"english": ["Dogri"],
+		"french": ["dogri"],
+		"alpha3": "doi",
+		"alpha2": ""
+	},
+	"dgr": {
+		"english": ["Dogrib"],
+		"french": ["dogrib"],
+		"alpha3": "dgr",
+		"alpha2": ""
+	},
+	"dra": {
+		"english": ["Dravidian (Other)"],
+		"french": ["dravidiennes autres langues"],
+		"alpha3": "dra",
+		"alpha2": ""
+	},
+	"dua": {
+		"english": ["Duala"],
+		"french": ["douala"],
+		"alpha3": "dua",
+		"alpha2": ""
+	},
+	"dum": {
+		"english": ["Dutch Middle (ca. 1050-1350)"],
+		"french": ["néerlandais moyen (ca. 1050-1350)"],
+		"alpha3": "dum",
+		"alpha2": ""
+	},
+	"dyu": {
+		"english": ["Dyula"],
+		"french": ["dioula"],
+		"alpha3": "dyu",
+		"alpha2": ""
+	},
+	"dzo": {
+		"english": ["Dzongkha"],
+		"french": ["dzongkha"],
+		"alpha3": "dzo",
+		"alpha2": "dz"
+	},
+	"efi": {
+		"english": ["Efik"],
+		"french": ["efik"],
+		"alpha3": "efi",
+		"alpha2": ""
+	},
+	"egy": {
+		"english": ["Egyptian (Ancient)"],
+		"french": ["égyptien"],
+		"alpha3": "egy",
+		"alpha2": ""
+	},
+	"eka": {
+		"english": ["Ekajuk"],
+		"french": ["ekajuk"],
+		"alpha3": "eka",
+		"alpha2": ""
+	},
+	"elx": {
+		"english": ["Elamite"],
+		"french": ["élamite"],
+		"alpha3": "elx",
+		"alpha2": ""
+	},
+	"eng": {
+		"english": ["English"],
+		"french": ["anglais"],
+		"alpha3": "eng",
+		"alpha2": "en"
+	},
+	"enm": {
+		"english": ["English Middle (1100-1500)"],
+		"french": ["anglais moyen (1100-1500)"],
+		"alpha3": "enm",
+		"alpha2": ""
+	},
+	"ang": {
+		"english": ["English Old (ca.450-1100)"],
+		"french": ["anglo-saxon (ca.450-1100)"],
+		"alpha3": "ang",
+		"alpha2": ""
+	},
+	"myv": {
+		"english": ["Erzya"],
+		"french": ["erza"],
+		"alpha3": "myv",
+		"alpha2": ""
+	},
+	"epo": {
+		"english": ["Esperanto"],
+		"french": ["espéranto"],
+		"alpha3": "epo",
+		"alpha2": "eo"
+	},
+	"est": {
+		"english": ["Estonian"],
+		"french": ["estonien"],
+		"alpha3": "est",
+		"alpha2": "et"
+	},
+	"ewe": {
+		"english": ["Ewe"],
+		"french": ["éwé"],
+		"alpha3": "ewe",
+		"alpha2": "ee"
+	},
+	"ewo": {
+		"english": ["Ewondo"],
+		"french": ["éwondo"],
+		"alpha3": "ewo",
+		"alpha2": ""
+	},
+	"fan": {
+		"english": ["Fang"],
+		"french": ["fang"],
+		"alpha3": "fan",
+		"alpha2": ""
+	},
+	"fat": {
+		"english": ["Fanti"],
+		"french": ["fanti"],
+		"alpha3": "fat",
+		"alpha2": ""
+	},
+	"fao": {
+		"english": ["Faroese"],
+		"french": ["féroïen"],
+		"alpha3": "fao",
+		"alpha2": "fo"
+	},
+	"fij": {
+		"english": ["Fijian"],
+		"french": ["fidjien"],
+		"alpha3": "fij",
+		"alpha2": "fj"
+	},
+	"fil": {
+		"english": ["Pilipino", "Filipino"],
+		"french": ["pilipino", "filipino"],
+		"alpha3": "fil",
+		"alpha2": ""
+	},
+	"fin": {
+		"english": ["Finnish"],
+		"french": ["finnois"],
+		"alpha3": "fin",
+		"alpha2": "fi"
+	},
+	"fiu": {
+		"english": ["Finno-Ugrian (Other)"],
+		"french": ["finno-ougriennes autres langues"],
+		"alpha3": "fiu",
+		"alpha2": ""
+	},
+	"fon": {
+		"english": ["Fon"],
+		"french": ["fon"],
+		"alpha3": "fon",
+		"alpha2": ""
+	},
+	"frm": {
+		"english": ["French Middle (ca.1400-1600)"],
+		"french": ["français moyen (1400-1600)"],
+		"alpha3": "frm",
+		"alpha2": ""
+	},
+	"fro": {
+		"english": ["French Old (842-ca.1400)"],
+		"french": ["français ancien (842-ca.1400)"],
+		"alpha3": "fro",
+		"alpha2": ""
+	},
+	"fry": {
+		"english": ["Frisian"],
+		"french": ["frison"],
+		"alpha3": "fry",
+		"alpha2": "fy"
+	},
+	"fur": {
+		"english": ["Friulian"],
+		"french": ["frioulan"],
+		"alpha3": "fur",
+		"alpha2": ""
+	},
+	"ful": {
+		"english": ["Fulah"],
+		"french": ["peul"],
+		"alpha3": "ful",
+		"alpha2": "ff"
+	},
+	"gaa": {
+		"english": ["Ga"],
+		"french": ["ga"],
+		"alpha3": "gaa",
+		"alpha2": ""
+	},
+	"gla": {
+		"english": ["Scottish Gaelic", "Gaelic"],
+		"french": ["gaélique écossais", "gaélique"],
+		"alpha3": "gla",
+		"alpha2": "gd"
+	},
+	"glg": {
+		"english": ["Gallegan"],
+		"french": ["galicien"],
+		"alpha3": "glg",
+		"alpha2": "gl"
+	},
+	"lug": {
+		"english": ["Ganda"],
+		"french": ["ganda"],
+		"alpha3": "lug",
+		"alpha2": "lg"
+	},
+	"gay": {
+		"english": ["Gayo"],
+		"french": ["gayo"],
+		"alpha3": "gay",
+		"alpha2": ""
+	},
+	"gba": {
+		"english": ["Gbaya"],
+		"french": ["gbaya"],
+		"alpha3": "gba",
+		"alpha2": ""
+	},
+	"gez": {
+		"english": ["Geez"],
+		"french": ["guèze"],
+		"alpha3": "gez",
+		"alpha2": ""
+	},
+	"nds": {
+		"english": ["Saxon Low", "German Low", "Low Saxon", "Low German"],
+		"french": ["saxon bas", "allemand bas", "bas saxon", "bas allemand"],
+		"alpha3": "nds",
+		"alpha2": ""
+	},
+	"gmh": {
+		"english": ["German Middle High (ca.1050-1500)"],
+		"french": ["allemand moyen haut (ca. 1050-1500)"],
+		"alpha3": "gmh",
+		"alpha2": ""
+	},
+	"goh": {
+		"english": ["German Old High (ca.750-1050)"],
+		"french": ["allemand vieux haut (ca. 750-1050)"],
+		"alpha3": "goh",
+		"alpha2": ""
+	},
+	"gem": {
+		"english": ["Germanic (Other)"],
+		"french": ["germaniques autres langues"],
+		"alpha3": "gem",
+		"alpha2": ""
+	},
+	"kik": {
+		"english": ["Kikuyu", "Gikuyu"],
+		"french": ["kikuyu"],
+		"alpha3": "kik",
+		"alpha2": "ki"
+	},
+	"gil": {
+		"english": ["Gilbertese"],
+		"french": ["kiribati"],
+		"alpha3": "gil",
+		"alpha2": ""
+	},
+	"gon": {
+		"english": ["Gondi"],
+		"french": ["gond"],
+		"alpha3": "gon",
+		"alpha2": ""
+	},
+	"gor": {
+		"english": ["Gorontalo"],
+		"french": ["gorontalo"],
+		"alpha3": "gor",
+		"alpha2": ""
+	},
+	"got": {
+		"english": ["Gothic"],
+		"french": ["gothique"],
+		"alpha3": "got",
+		"alpha2": ""
+	},
+	"grb": {
+		"english": ["Grebo"],
+		"french": ["grebo"],
+		"alpha3": "grb",
+		"alpha2": ""
+	},
+	"grc": {
+		"english": ["Greek Ancient (to 1453)"],
+		"french": ["grec ancien (jusqu'à 1453)"],
+		"alpha3": "grc",
+		"alpha2": ""
+	},
+	"kal": {
+		"english": ["Kalaallisut", "Greenlandic"],
+		"french": ["groenlandais"],
+		"alpha3": "kal",
+		"alpha2": "kl"
+	},
+	"grn": {
+		"english": ["Guarani"],
+		"french": ["guarani"],
+		"alpha3": "grn",
+		"alpha2": "gn"
+	},
+	"guj": {
+		"english": ["Gujarati"],
+		"french": ["goudjrati"],
+		"alpha3": "guj",
+		"alpha2": "gu"
+	},
+	"gwi": {
+		"english": ["Gwich’in"],
+		"french": ["gwich’in"],
+		"alpha3": "gwi",
+		"alpha2": ""
+	},
+	"hai": {
+		"english": ["Haida"],
+		"french": ["haida"],
+		"alpha3": "hai",
+		"alpha2": ""
+	},
+	"hat": {
+		"english": ["Haitian Creole", "Haitian"],
+		"french": ["créole haïtien", "haïtien"],
+		"alpha3": "hat",
+		"alpha2": "ht"
+	},
+	"hau": {
+		"english": ["Hausa"],
+		"french": ["haoussa"],
+		"alpha3": "hau",
+		"alpha2": "ha"
+	},
+	"haw": {
+		"english": ["Hawaiian"],
+		"french": ["hawaïen"],
+		"alpha3": "haw",
+		"alpha2": ""
+	},
+	"heb": {
+		"english": ["Hebrew"],
+		"french": ["hébreu"],
+		"alpha3": "heb",
+		"alpha2": "he"
+	},
+	"her": {
+		"english": ["Herero"],
+		"french": ["herero"],
+		"alpha3": "her",
+		"alpha2": "hz"
+	},
+	"hil": {
+		"english": ["Hiligaynon"],
+		"french": ["hiligaynon"],
+		"alpha3": "hil",
+		"alpha2": ""
+	},
+	"him": {
+		"english": ["Himachali"],
+		"french": ["himachali"],
+		"alpha3": "him",
+		"alpha2": ""
+	},
+	"hin": {
+		"english": ["Hindi"],
+		"french": ["hindi"],
+		"alpha3": "hin",
+		"alpha2": "hi"
+	},
+	"hmo": {
+		"english": ["Hiri Motu"],
+		"french": ["hiri motu"],
+		"alpha3": "hmo",
+		"alpha2": "ho"
+	},
+	"hit": {
+		"english": ["Hittite"],
+		"french": ["hittite"],
+		"alpha3": "hit",
+		"alpha2": ""
+	},
+	"hmn": {
+		"english": ["Hmong"],
+		"french": ["hmong"],
+		"alpha3": "hmn",
+		"alpha2": ""
+	},
+	"hun": {
+		"english": ["Hungarian"],
+		"french": ["hongrois"],
+		"alpha3": "hun",
+		"alpha2": "hu"
+	},
+	"hup": {
+		"english": ["Hupa"],
+		"french": ["hupa"],
+		"alpha3": "hup",
+		"alpha2": ""
+	},
+	"iba": {
+		"english": ["Iban"],
+		"french": ["iban"],
+		"alpha3": "iba",
+		"alpha2": ""
+	},
+	"ido": {
+		"english": ["Ido"],
+		"french": ["ido"],
+		"alpha3": "ido",
+		"alpha2": "io"
+	},
+	"ibo": {
+		"english": ["Igbo"],
+		"french": ["igbo"],
+		"alpha3": "ibo",
+		"alpha2": "ig"
+	},
+	"ijo": {
+		"english": ["Ijo"],
+		"french": ["ijo"],
+		"alpha3": "ijo",
+		"alpha2": ""
+	},
+	"ilo": {
+		"english": ["Iloko"],
+		"french": ["ilocano"],
+		"alpha3": "ilo",
+		"alpha2": ""
+	},
+	"smn": {
+		"english": ["Inari Sami"],
+		"french": ["sami d'Inari"],
+		"alpha3": "smn",
+		"alpha2": ""
+	},
+	"inc": {
+		"english": ["Indic (Other)"],
+		"french": ["indo-aryennes autres langues"],
+		"alpha3": "inc",
+		"alpha2": ""
+	},
+	"ine": {
+		"english": ["Indo-European (Other)"],
+		"french": ["indo-européennes autres langues"],
+		"alpha3": "ine",
+		"alpha2": ""
+	},
+	"ind": {
+		"english": ["Indonesian"],
+		"french": ["indonésien"],
+		"alpha3": "ind",
+		"alpha2": "id"
+	},
+	"inh": {
+		"english": ["Ingush"],
+		"french": ["ingouche"],
+		"alpha3": "inh",
+		"alpha2": ""
+	},
+	"ina": {
+		"english": ["Interlingua (International Auxiliary Language Association)"],
+		"french": ["interlingua (langue auxiliaire internationale)"],
+		"alpha3": "ina",
+		"alpha2": "ia"
+	},
+	"ile": {
+		"english": ["Interlingue"],
+		"french": ["interlingue"],
+		"alpha3": "ile",
+		"alpha2": "ie"
+	},
+	"iku": {
+		"english": ["Inuktitut"],
+		"french": ["inuktitut"],
+		"alpha3": "iku",
+		"alpha2": "iu"
+	},
+	"ipk": {
+		"english": ["Inupiaq"],
+		"french": ["inupiaq"],
+		"alpha3": "ipk",
+		"alpha2": "ik"
+	},
+	"ira": {
+		"english": ["Iranian (Other)"],
+		"french": ["iraniennes autres langues"],
+		"alpha3": "ira",
+		"alpha2": ""
+	},
+	"gle": {
+		"english": ["Irish"],
+		"french": ["irlandais"],
+		"alpha3": "gle",
+		"alpha2": "ga"
+	},
+	"mga": {
+		"english": ["Irish Middle (900-1200)"],
+		"french": ["irlandais moyen (900-1200)"],
+		"alpha3": "mga",
+		"alpha2": ""
+	},
+	"sga": {
+		"english": ["Irish Old (to 900)"],
+		"french": ["irlandais ancien (jusqu'à 900)"],
+		"alpha3": "sga",
+		"alpha2": ""
+	},
+	"iro": {
+		"english": ["Iroquoian languages"],
+		"french": ["iroquoises langues (famille)"],
+		"alpha3": "iro",
+		"alpha2": ""
+	},
+	"ita": {
+		"english": ["Italian"],
+		"french": ["italien"],
+		"alpha3": "ita",
+		"alpha2": "it"
+	},
+	"jpn": {
+		"english": ["Japanese"],
+		"french": ["japonais"],
+		"alpha3": "jpn",
+		"alpha2": "ja"
+	},
+	"jav": {
+		"english": ["Javanese"],
+		"french": ["javanais"],
+		"alpha3": "jav",
+		"alpha2": "jv"
+	},
+	"jrb": {
+		"english": ["Judeo-Arabic"],
+		"french": ["judéo-arabe"],
+		"alpha3": "jrb",
+		"alpha2": ""
+	},
+	"jpr": {
+		"english": ["Judeo-Persian"],
+		"french": ["judéo-persan"],
+		"alpha3": "jpr",
+		"alpha2": ""
+	},
+	"kbd": {
+		"english": ["Kabardian"],
+		"french": ["kabardien"],
+		"alpha3": "kbd",
+		"alpha2": ""
+	},
+	"kab": {
+		"english": ["Kabyle"],
+		"french": ["kabyle"],
+		"alpha3": "kab",
+		"alpha2": ""
+	},
+	"kac": {
+		"english": ["Kachin"],
+		"french": ["kachin"],
+		"alpha3": "kac",
+		"alpha2": ""
+	},
+	"xal": {
+		"english": ["Kalmyk"],
+		"french": ["kalmouk"],
+		"alpha3": "xal",
+		"alpha2": ""
+	},
+	"kam": {
+		"english": ["Kamba"],
+		"french": ["kamba"],
+		"alpha3": "kam",
+		"alpha2": ""
+	},
+	"kan": {
+		"english": ["Kannada"],
+		"french": ["kannada"],
+		"alpha3": "kan",
+		"alpha2": "kn"
+	},
+	"kau": {
+		"english": ["Kanuri"],
+		"french": ["kanouri"],
+		"alpha3": "kau",
+		"alpha2": "kr"
+	},
+	"krc": {
+		"english": ["Karachay-Balkar"],
+		"french": ["karatchaï balkar"],
+		"alpha3": "krc",
+		"alpha2": ""
+	},
+	"kaa": {
+		"english": ["Kara-Kalpak"],
+		"french": ["karakalpak"],
+		"alpha3": "kaa",
+		"alpha2": ""
+	},
+	"kar": {
+		"english": ["Karen"],
+		"french": ["karen"],
+		"alpha3": "kar",
+		"alpha2": ""
+	},
+	"kas": {
+		"english": ["Kashmiri"],
+		"french": ["kashmiri"],
+		"alpha3": "kas",
+		"alpha2": "ks"
+	},
+	"csb": {
+		"english": ["Kashubian"],
+		"french": ["kachoube"],
+		"alpha3": "csb",
+		"alpha2": ""
+	},
+	"kaw": {
+		"english": ["Kawi"],
+		"french": ["kawi"],
+		"alpha3": "kaw",
+		"alpha2": ""
+	},
+	"kaz": {
+		"english": ["Kazakh"],
+		"french": ["kazakh"],
+		"alpha3": "kaz",
+		"alpha2": "kk"
+	},
+	"kha": {
+		"english": ["Khasi"],
+		"french": ["khasi"],
+		"alpha3": "kha",
+		"alpha2": ""
+	},
+	"khm": {
+		"english": ["Khmer"],
+		"french": ["khmer"],
+		"alpha3": "khm",
+		"alpha2": "km"
+	},
+	"khi": {
+		"english": ["Khoisan (Other)"],
+		"french": ["khoisan autres langues"],
+		"alpha3": "khi",
+		"alpha2": ""
+	},
+	"kho": {
+		"english": ["Khotanese"],
+		"french": ["khotanais"],
+		"alpha3": "kho",
+		"alpha2": ""
+	},
+	"kmb": {
+		"english": ["Kimbundu"],
+		"french": ["kimbundu"],
+		"alpha3": "kmb",
+		"alpha2": ""
+	},
+	"kin": {
+		"english": ["Kinyarwanda"],
+		"french": ["rwanda"],
+		"alpha3": "kin",
+		"alpha2": "rw"
+	},
+	"kir": {
+		"english": ["Kirghiz"],
+		"french": ["kirghize"],
+		"alpha3": "kir",
+		"alpha2": "ky"
+	},
+	"tlh": {
+		"english": ["Klingon", "tlhIngan-Hol"],
+		"french": ["klingon"],
+		"alpha3": "tlh",
+		"alpha2": ""
+	},
+	"kom": {
+		"english": ["Komi"],
+		"french": ["komi"],
+		"alpha3": "kom",
+		"alpha2": "kv"
+	},
+	"kon": {
+		"english": ["Kongo"],
+		"french": ["kongo"],
+		"alpha3": "kon",
+		"alpha2": "kg"
+	},
+	"kok": {
+		"english": ["Konkani"],
+		"french": ["konkani"],
+		"alpha3": "kok",
+		"alpha2": ""
+	},
+	"kor": {
+		"english": ["Korean"],
+		"french": ["coréen"],
+		"alpha3": "kor",
+		"alpha2": "ko"
+	},
+	"kos": {
+		"english": ["Kosraean"],
+		"french": ["kosrae"],
+		"alpha3": "kos",
+		"alpha2": ""
+	},
+	"kpe": {
+		"english": ["Kpelle"],
+		"french": ["kpellé"],
+		"alpha3": "kpe",
+		"alpha2": ""
+	},
+	"kri": {
+		"english": ["Krio"],
+		"french": ["krio"],
+		"alpha3": "kri",
+		"alpha2": ""
+	},
+	"kro": {
+		"english": ["Kru"],
+		"french": ["krou"],
+		"alpha3": "kro",
+		"alpha2": ""
+	},
+	"kum": {
+		"english": ["Kumyk"],
+		"french": ["koumyk"],
+		"alpha3": "kum",
+		"alpha2": ""
+	},
+	"kur": {
+		"english": ["Kurdish"],
+		"french": ["kurde"],
+		"alpha3": "kur",
+		"alpha2": "ku"
+	},
+	"kru": {
+		"english": ["Kurukh"],
+		"french": ["kurukh"],
+		"alpha3": "kru",
+		"alpha2": ""
+	},
+	"kut": {
+		"english": ["Kutenai"],
+		"french": ["kutenai"],
+		"alpha3": "kut",
+		"alpha2": ""
+	},
+	"kua": {
+		"english": ["Kwanyama Kuanyama"],
+		"french": ["kwanyama", "kuanyama"],
+		"alpha3": "kua",
+		"alpha2": "kj"
+	},
+	"lad": {
+		"english": ["Ladino"],
+		"french": ["judéo-espagnol"],
+		"alpha3": "lad",
+		"alpha2": ""
+	},
+	"lah": {
+		"english": ["Lahnda"],
+		"french": ["lahnda"],
+		"alpha3": "lah",
+		"alpha2": ""
+	},
+	"lam": {
+		"english": ["Lamba"],
+		"french": ["lamba"],
+		"alpha3": "lam",
+		"alpha2": ""
+	},
+	"lao": {
+		"english": ["Lao"],
+		"french": ["lao"],
+		"alpha3": "lao",
+		"alpha2": "lo"
+	},
+	"lat": {
+		"english": ["Latin"],
+		"french": ["latin"],
+		"alpha3": "lat",
+		"alpha2": "la"
+	},
+	"lav": {
+		"english": ["Latvian"],
+		"french": ["letton"],
+		"alpha3": "lav",
+		"alpha2": "lv"
+	},
+	"lez": {
+		"english": ["Lezghian"],
+		"french": ["lezghien"],
+		"alpha3": "lez",
+		"alpha2": ""
+	},
+	"lim": {
+		"english": ["Limburgan", "Limburger", "Limburgish"],
+		"french": ["limbourgeois"],
+		"alpha3": "lim",
+		"alpha2": "li"
+	},
+	"lin": {
+		"english": ["Lingala"],
+		"french": ["lingala"],
+		"alpha3": "lin",
+		"alpha2": "ln"
+	},
+	"lit": {
+		"english": ["Lithuanian"],
+		"french": ["lituanien"],
+		"alpha3": "lit",
+		"alpha2": "lt"
+	},
+	"jbo": {
+		"english": ["Lojban"],
+		"french": ["lojban"],
+		"alpha3": "jbo",
+		"alpha2": ""
+	},
+	"dsb": {
+		"english": ["Lower Sorbian"],
+		"french": ["bas-sorabe"],
+		"alpha3": "dsb",
+		"alpha2": ""
+	},
+	"loz": {
+		"english": ["Lozi"],
+		"french": ["lozi"],
+		"alpha3": "loz",
+		"alpha2": ""
+	},
+	"lub": {
+		"english": ["Luba-Katanga"],
+		"french": ["luba-katanga"],
+		"alpha3": "lub",
+		"alpha2": "lu"
+	},
+	"lua": {
+		"english": ["Luba-Lulua"],
+		"french": ["luba-lulua"],
+		"alpha3": "lua",
+		"alpha2": ""
+	},
+	"lui": {
+		"english": ["Luiseno"],
+		"french": ["luiseno"],
+		"alpha3": "lui",
+		"alpha2": ""
+	},
+	"smj": {
+		"english": ["Lule Sami"],
+		"french": ["sami de Lule"],
+		"alpha3": "smj",
+		"alpha2": ""
+	},
+	"lun": {
+		"english": ["Lunda"],
+		"french": ["lunda"],
+		"alpha3": "lun",
+		"alpha2": ""
+	},
+	"luo": {
+		"english": ["Luo (Kenya and Tanzania)"],
+		"french": ["luo (Kenya et Tanzanie)"],
+		"alpha3": "luo",
+		"alpha2": ""
+	},
+	"lus": {
+		"english": ["Lushai"],
+		"french": ["lushai"],
+		"alpha3": "lus",
+		"alpha2": ""
+	},
+	"ltz": {
+		"english": ["Luxembourgish", "Letzeburgesch"],
+		"french": ["luxembourgeois"],
+		"alpha3": "ltz",
+		"alpha2": "lb"
+	},
+	"mad": {
+		"english": ["Madurese"],
+		"french": ["madourais"],
+		"alpha3": "mad",
+		"alpha2": ""
+	},
+	"mag": {
+		"english": ["Magahi"],
+		"french": ["magahi"],
+		"alpha3": "mag",
+		"alpha2": ""
+	},
+	"mai": {
+		"english": ["Maithili"],
+		"french": ["maithili"],
+		"alpha3": "mai",
+		"alpha2": ""
+	},
+	"mak": {
+		"english": ["Makasar"],
+		"french": ["makassar"],
+		"alpha3": "mak",
+		"alpha2": ""
+	},
+	"mlg": {
+		"english": ["Malagasy"],
+		"french": ["malgache"],
+		"alpha3": "mlg",
+		"alpha2": "mg"
+	},
+	"mal": {
+		"english": ["Malayalam"],
+		"french": ["malayalam"],
+		"alpha3": "mal",
+		"alpha2": "ml"
+	},
+	"mlt": {
+		"english": ["Maltese"],
+		"french": ["maltais"],
+		"alpha3": "mlt",
+		"alpha2": "mt"
+	},
+	"mnc": {
+		"english": ["Manchu"],
+		"french": ["mandchou"],
+		"alpha3": "mnc",
+		"alpha2": ""
+	},
+	"mdr": {
+		"english": ["Mandar"],
+		"french": ["mandar"],
+		"alpha3": "mdr",
+		"alpha2": ""
+	},
+	"man": {
+		"english": ["Mandingo"],
+		"french": ["mandingue"],
+		"alpha3": "man",
+		"alpha2": ""
+	},
+	"mni": {
+		"english": ["Manipuri"],
+		"french": ["manipuri"],
+		"alpha3": "mni",
+		"alpha2": ""
+	},
+	"mno": {
+		"english": ["Manobo languages"],
+		"french": ["manobo langues"],
+		"alpha3": "mno",
+		"alpha2": ""
+	},
+	"glv": {
+		"english": ["Manx"],
+		"french": ["manx", "mannois"],
+		"alpha3": "glv",
+		"alpha2": "gv"
+	},
+	"mar": {
+		"english": ["Marathi"],
+		"french": ["marathe"],
+		"alpha3": "mar",
+		"alpha2": "mr"
+	},
+	"chm": {
+		"english": ["Mari"],
+		"french": ["mari"],
+		"alpha3": "chm",
+		"alpha2": ""
+	},
+	"mah": {
+		"english": ["Marshallese"],
+		"french": ["marshall"],
+		"alpha3": "mah",
+		"alpha2": "mh"
+	},
+	"mwr": {
+		"english": ["Marwari"],
+		"french": ["marvari"],
+		"alpha3": "mwr",
+		"alpha2": ""
+	},
+	"mas": {
+		"english": ["Masai"],
+		"french": ["massaï"],
+		"alpha3": "mas",
+		"alpha2": ""
+	},
+	"myn": {
+		"english": ["Mayan languages"],
+		"french": ["maya langues"],
+		"alpha3": "myn",
+		"alpha2": ""
+	},
+	"men": {
+		"english": ["Mende"],
+		"french": ["mendé"],
+		"alpha3": "men",
+		"alpha2": ""
+	},
+	"mic": {
+		"english": ["Micmac", "Mi'kmaq"],
+		"french": ["mi'kmaq", "micmac"],
+		"alpha3": "mic",
+		"alpha2": ""
+	},
+	"min": {
+		"english": ["Minangkabau"],
+		"french": ["minangkabau"],
+		"alpha3": "min",
+		"alpha2": ""
+	},
+	"mwl": {
+		"english": ["Mirandese"],
+		"french": ["mirandais"],
+		"alpha3": "mwl",
+		"alpha2": ""
+	},
+	"moh": {
+		"english": ["Mohawk"],
+		"french": ["mohawk"],
+		"alpha3": "moh",
+		"alpha2": ""
+	},
+	"mdf": {
+		"english": ["Moksha"],
+		"french": ["moksa"],
+		"alpha3": "mdf",
+		"alpha2": ""
+	},
+	"mol": {
+		"english": ["Moldavian"],
+		"french": ["moldave"],
+		"alpha3": "mol",
+		"alpha2": "mo"
+	},
+	"mkh": {
+		"english": ["Mon-Khmer (Other)"],
+		"french": ["môn-khmer autres langues"],
+		"alpha3": "mkh",
+		"alpha2": ""
+	},
+	"lol": {
+		"english": ["Mongo"],
+		"french": ["mongo"],
+		"alpha3": "lol",
+		"alpha2": ""
+	},
+	"mon": {
+		"english": ["Mongolian"],
+		"french": ["mongol"],
+		"alpha3": "mon",
+		"alpha2": "mn"
+	},
+	"mos": {
+		"english": ["Mossi"],
+		"french": ["moré"],
+		"alpha3": "mos",
+		"alpha2": ""
+	},
+	"mul": {
+		"english": ["Multiple languages"],
+		"french": ["multilingue"],
+		"alpha3": "mul",
+		"alpha2": ""
+	},
+	"mun": {
+		"english": ["Munda languages"],
+		"french": ["mounda langues"],
+		"alpha3": "mun",
+		"alpha2": ""
+	},
+	"nah": {
+		"english": ["Nahuatl"],
+		"french": ["nahuatl"],
+		"alpha3": "nah",
+		"alpha2": ""
+	},
+	"nau": {
+		"english": ["Nauru"],
+		"french": ["nauruan"],
+		"alpha3": "nau",
+		"alpha2": "na"
+	},
+	"nav": {
+		"english": ["Navajo", "Navaho"],
+		"french": ["navaho"],
+		"alpha3": "nav",
+		"alpha2": "nv"
+	},
+	"nde": {
+		"english": ["North Ndebele"],
+		"french": ["ndébélé du Nord"],
+		"alpha3": "nde",
+		"alpha2": "nd"
+	},
+	"nbl": {
+		"english": ["South Ndebele"],
+		"french": ["ndébélé du Sud"],
+		"alpha3": "nbl",
+		"alpha2": "nr"
+	},
+	"ndo": {
+		"english": ["Ndonga"],
+		"french": ["ndonga"],
+		"alpha3": "ndo",
+		"alpha2": "ng"
+	},
+	"nap": {
+		"english": ["Neapolitan"],
+		"french": ["napolitain"],
+		"alpha3": "nap",
+		"alpha2": ""
+	},
+	"new": {
+		"english": ["Nepal Bhasa", "Newari"],
+		"french": ["nepal bhasa", "newari"],
+		"alpha3": "new",
+		"alpha2": ""
+	},
+	"nep": {
+		"english": ["Nepali"],
+		"french": ["népalais"],
+		"alpha3": "nep",
+		"alpha2": "ne"
+	},
+	"nia": {
+		"english": ["Nias"],
+		"french": ["nias"],
+		"alpha3": "nia",
+		"alpha2": ""
+	},
+	"nic": {
+		"english": ["Niger-Kordofanian (Other)"],
+		"french": ["nigéro-congolaises autres langues"],
+		"alpha3": "nic",
+		"alpha2": ""
+	},
+	"ssa": {
+		"english": ["Nilo-Saharan (Other)"],
+		"french": ["nilo-sahariennes autres langues"],
+		"alpha3": "ssa",
+		"alpha2": ""
+	},
+	"niu": {
+		"english": ["Niuean"],
+		"french": ["niué"],
+		"alpha3": "niu",
+		"alpha2": ""
+	},
+	"nog": {
+		"english": ["Nogai"],
+		"french": ["nogaï", "nogay"],
+		"alpha3": "nog",
+		"alpha2": ""
+	},
+	"non": {
+		"english": ["Norse Old"],
+		"french": ["norrois vieux"],
+		"alpha3": "non",
+		"alpha2": ""
+	},
+	"nai": {
+		"english": ["North American Indian (Other)"],
+		"french": ["indiennes d'Amérique du Nord autres langues"],
+		"alpha3": "nai",
+		"alpha2": ""
+	},
+	"sme": {
+		"english": ["Northern Sami"],
+		"french": ["sami du Nord"],
+		"alpha3": "sme",
+		"alpha2": "se"
+	},
+	"nso": {
+		"english": ["Sotho Northern", "Pedi", "Sepedi"],
+		"french": ["sotho du Nord", "pedi", "sepedi"],
+		"alpha3": "nso",
+		"alpha2": ""
+	},
+	"nor": {
+		"english": ["Norwegian"],
+		"french": ["norvégien"],
+		"alpha3": "nor",
+		"alpha2": "no"
+	},
+	"nub": {
+		"english": ["Nubian languages"],
+		"french": ["nubiennes langues"],
+		"alpha3": "nub",
+		"alpha2": ""
+	},
+	"nym": {
+		"english": ["Nyamwezi"],
+		"french": ["nyamwezi"],
+		"alpha3": "nym",
+		"alpha2": ""
+	},
+	"nyn": {
+		"english": ["Nyankole"],
+		"french": ["nyankolé"],
+		"alpha3": "nyn",
+		"alpha2": ""
+	},
+	"nno": {
+		"english": ["Nynorsk Norwegian", "Norwegian Nynorsk"],
+		"french": ["nynorsk norvégien", "norvégien nynorsk"],
+		"alpha3": "nno",
+		"alpha2": "nn"
+	},
+	"nyo": {
+		"english": ["Nyoro"],
+		"french": ["nyoro"],
+		"alpha3": "nyo",
+		"alpha2": ""
+	},
+	"nzi": {
+		"english": ["Nzima"],
+		"french": ["nzema"],
+		"alpha3": "nzi",
+		"alpha2": ""
+	},
+	"oci": {
+		"english": ["Provençal", "Occitan (post 1500)"],
+		"french": ["provençal", "occitan (après 1500)"],
+		"alpha3": "oci",
+		"alpha2": "oc"
+	},
+	"oji": {
+		"english": ["Ojibwa"],
+		"french": ["ojibwa"],
+		"alpha3": "oji",
+		"alpha2": "oj"
+	},
+	"chu": {
+		"english": ["Old Slavonic", "Church Slavonic", "Old Bulgarian", "Church Slavic", "Old Church Slavonic"],
+		"french": ["vieux slave", "slavon liturgique", "vieux bulgare", "slavon d'église"],
+		"alpha3": "chu",
+		"alpha2": "cu"
+	},
+	"ori": {
+		"english": ["Oriya"],
+		"french": ["oriya"],
+		"alpha3": "ori",
+		"alpha2": "or"
+	},
+	"orm": {
+		"english": ["Oromo"],
+		"french": ["galla"],
+		"alpha3": "orm",
+		"alpha2": "om"
+	},
+	"osa": {
+		"english": ["Osage"],
+		"french": ["osage"],
+		"alpha3": "osa",
+		"alpha2": ""
+	},
+	"oss": {
+		"english": ["Ossetic", "Ossetian"],
+		"french": ["ossète"],
+		"alpha3": "oss",
+		"alpha2": "os"
+	},
+	"oto": {
+		"english": ["Otomian languages"],
+		"french": ["otomangue langues"],
+		"alpha3": "oto",
+		"alpha2": ""
+	},
+	"pal": {
+		"english": ["Pahlavi"],
+		"french": ["pahlavi"],
+		"alpha3": "pal",
+		"alpha2": ""
+	},
+	"pau": {
+		"english": ["Palauan"],
+		"french": ["palau"],
+		"alpha3": "pau",
+		"alpha2": ""
+	},
+	"pli": {
+		"english": ["Pali"],
+		"french": ["pali"],
+		"alpha3": "pli",
+		"alpha2": "pi"
+	},
+	"pam": {
+		"english": ["Pampanga"],
+		"french": ["pampangan"],
+		"alpha3": "pam",
+		"alpha2": ""
+	},
+	"pag": {
+		"english": ["Pangasinan"],
+		"french": ["pangasinan"],
+		"alpha3": "pag",
+		"alpha2": ""
+	},
+	"pan": {
+		"english": ["Punjabi", "Panjabi"],
+		"french": ["pendjabi"],
+		"alpha3": "pan",
+		"alpha2": "pa"
+	},
+	"pap": {
+		"english": ["Papiamento"],
+		"french": ["papiamento"],
+		"alpha3": "pap",
+		"alpha2": ""
+	},
+	"paa": {
+		"english": ["Papuan (Other)"],
+		"french": ["papoues autres langues"],
+		"alpha3": "paa",
+		"alpha2": ""
+	},
+	"peo": {
+		"english": ["Persian Old (ca.600-400 B.C.)"],
+		"french": ["perse vieux (ca. 600-400 av. J.-C.)"],
+		"alpha3": "peo",
+		"alpha2": ""
+	},
+	"phn": {
+		"english": ["Phoenician"],
+		"french": ["phénicien"],
+		"alpha3": "phn",
+		"alpha2": ""
+	},
+	"pon": {
+		"english": ["Pohnpeian"],
+		"french": ["pohnpei"],
+		"alpha3": "pon",
+		"alpha2": ""
+	},
+	"pol": {
+		"english": ["Polish"],
+		"french": ["polonais"],
+		"alpha3": "pol",
+		"alpha2": "pl"
+	},
+	"por": {
+		"english": ["Portuguese"],
+		"french": ["portugais"],
+		"alpha3": "por",
+		"alpha2": "pt"
+	},
+	"pra": {
+		"english": ["Prakrit languages"],
+		"french": ["prâkrit"],
+		"alpha3": "pra",
+		"alpha2": ""
+	},
+	"pro": {
+		"english": ["Provençal Old (to 1500)"],
+		"french": ["provençal ancien (jusqu'à 1500)"],
+		"alpha3": "pro",
+		"alpha2": ""
+	},
+	"pus": {
+		"english": ["Pushto"],
+		"french": ["pachto"],
+		"alpha3": "pus",
+		"alpha2": "ps"
+	},
+	"que": {
+		"english": ["Quechua"],
+		"french": ["quechua"],
+		"alpha3": "que",
+		"alpha2": "qu"
+	},
+	"roh": {
+		"english": ["Raeto-Romance"],
+		"french": ["rhéto-roman"],
+		"alpha3": "roh",
+		"alpha2": "rm"
+	},
+	"raj": {
+		"english": ["Rajasthani"],
+		"french": ["rajasthani"],
+		"alpha3": "raj",
+		"alpha2": ""
+	},
+	"rap": {
+		"english": ["Rapanui"],
+		"french": ["rapanui"],
+		"alpha3": "rap",
+		"alpha2": ""
+	},
+	"rar": {
+		"english": ["Rarotongan"],
+		"french": ["rarotonga"],
+		"alpha3": "rar",
+		"alpha2": ""
+	},
+	"roa": {
+		"english": ["Romance (Other)"],
+		"french": ["romanes autres langues"],
+		"alpha3": "roa",
+		"alpha2": ""
+	},
+	"rom": {
+		"english": ["Romany"],
+		"french": ["tsigane"],
+		"alpha3": "rom",
+		"alpha2": ""
+	},
+	"run": {
+		"english": ["Rundi"],
+		"french": ["rundi"],
+		"alpha3": "run",
+		"alpha2": "rn"
+	},
+	"rus": {
+		"english": ["Russian"],
+		"french": ["russe"],
+		"alpha3": "rus",
+		"alpha2": "ru"
+	},
+	"sal": {
+		"english": ["Salishan languages"],
+		"french": ["salish langues"],
+		"alpha3": "sal",
+		"alpha2": ""
+	},
+	"sam": {
+		"english": ["Samaritan Aramaic"],
+		"french": ["samaritain"],
+		"alpha3": "sam",
+		"alpha2": ""
+	},
+	"smi": {
+		"english": ["Sami languages (Other)"],
+		"french": ["sami autres langues"],
+		"alpha3": "smi",
+		"alpha2": ""
+	},
+	"smo": {
+		"english": ["Samoan"],
+		"french": ["samoan"],
+		"alpha3": "smo",
+		"alpha2": "sm"
+	},
+	"sad": {
+		"english": ["Sandawe"],
+		"french": ["sandawe"],
+		"alpha3": "sad",
+		"alpha2": ""
+	},
+	"sag": {
+		"english": ["Sango"],
+		"french": ["sango"],
+		"alpha3": "sag",
+		"alpha2": "sg"
+	},
+	"san": {
+		"english": ["Sanskrit"],
+		"french": ["sanskrit"],
+		"alpha3": "san",
+		"alpha2": "sa"
+	},
+	"sat": {
+		"english": ["Santali"],
+		"french": ["santal"],
+		"alpha3": "sat",
+		"alpha2": ""
+	},
+	"srd": {
+		"english": ["Sardinian"],
+		"french": ["sarde"],
+		"alpha3": "srd",
+		"alpha2": "sc"
+	},
+	"sas": {
+		"english": ["Sasak"],
+		"french": ["sasak"],
+		"alpha3": "sas",
+		"alpha2": ""
+	},
+	"sco": {
+		"english": ["Scots"],
+		"french": ["écossais"],
+		"alpha3": "sco",
+		"alpha2": ""
+	},
+	"sel": {
+		"english": ["Selkup"],
+		"french": ["selkoupe"],
+		"alpha3": "sel",
+		"alpha2": ""
+	},
+	"sem": {
+		"english": ["Semitic (Other)"],
+		"french": ["sémitiques autres langues"],
+		"alpha3": "sem",
+		"alpha2": ""
+	},
+	"srr": {
+		"english": ["Serer"],
+		"french": ["sérère"],
+		"alpha3": "srr",
+		"alpha2": ""
+	},
+	"shn": {
+		"english": ["Shan"],
+		"french": ["chan"],
+		"alpha3": "shn",
+		"alpha2": ""
+	},
+	"sna": {
+		"english": ["Shona"],
+		"french": ["shona"],
+		"alpha3": "sna",
+		"alpha2": "sn"
+	},
+	"iii": {
+		"english": ["Sichuan Yi"],
+		"french": ["yi de Sichuan"],
+		"alpha3": "iii",
+		"alpha2": "ii"
+	},
+	"scn": {
+		"english": ["Sicilian"],
+		"french": ["sicilien"],
+		"alpha3": "scn",
+		"alpha2": ""
+	},
+	"sid": {
+		"english": ["Sidamo"],
+		"french": ["sidamo"],
+		"alpha3": "sid",
+		"alpha2": ""
+	},
+	"sgn": {
+		"english": ["Sign languages"],
+		"french": ["langues des signes"],
+		"alpha3": "sgn",
+		"alpha2": ""
+	},
+	"bla": {
+		"english": ["Siksika"],
+		"french": ["blackfoot"],
+		"alpha3": "bla",
+		"alpha2": ""
+	},
+	"snd": {
+		"english": ["Sindhi"],
+		"french": ["sindhi"],
+		"alpha3": "snd",
+		"alpha2": "sd"
+	},
+	"sin": {
+		"english": ["Sinhalese", "Sinhala"],
+		"french": ["singhalais"],
+		"alpha3": "sin",
+		"alpha2": "si"
+	},
+	"sit": {
+		"english": ["Sino-Tibetan (Other)"],
+		"french": ["sino-tibétaines autres langues"],
+		"alpha3": "sit",
+		"alpha2": ""
+	},
+	"sio": {
+		"english": ["Siouan languages"],
+		"french": ["sioux langues"],
+		"alpha3": "sio",
+		"alpha2": ""
+	},
+	"sms": {
+		"english": ["Skolt Sami"],
+		"french": ["sami skolt"],
+		"alpha3": "sms",
+		"alpha2": ""
+	},
+	"den": {
+		"english": ["Slave (Athapascan)"],
+		"french": ["esclave (athapascan)"],
+		"alpha3": "den",
+		"alpha2": ""
+	},
+	"sla": {
+		"english": ["Slavic (Other)"],
+		"french": ["slaves autres langues"],
+		"alpha3": "sla",
+		"alpha2": ""
+	},
+	"slv": {
+		"english": ["Slovenian"],
+		"french": ["slovène"],
+		"alpha3": "slv",
+		"alpha2": "sl"
+	},
+	"sog": {
+		"english": ["Sogdian"],
+		"french": ["sogdien"],
+		"alpha3": "sog",
+		"alpha2": ""
+	},
+	"som": {
+		"english": ["Somali"],
+		"french": ["somali"],
+		"alpha3": "som",
+		"alpha2": "so"
+	},
+	"son": {
+		"english": ["Songhai"],
+		"french": ["songhai"],
+		"alpha3": "son",
+		"alpha2": ""
+	},
+	"snk": {
+		"english": ["Soninke"],
+		"french": ["soninké"],
+		"alpha3": "snk",
+		"alpha2": ""
+	},
+	"wen": {
+		"english": ["Sorbian languages"],
+		"french": ["sorabes langues"],
+		"alpha3": "wen",
+		"alpha2": ""
+	},
+	"sot": {
+		"english": ["Sotho Southern"],
+		"french": ["sotho du Sud"],
+		"alpha3": "sot",
+		"alpha2": "st"
+	},
+	"sai": {
+		"english": ["South American Indian (Other)"],
+		"french": ["indiennes d'Amérique du Sud autres langues"],
+		"alpha3": "sai",
+		"alpha2": ""
+	},
+	"sma": {
+		"english": ["Southern Sami"],
+		"french": ["sami du Sud"],
+		"alpha3": "sma",
+		"alpha2": ""
+	},
+	"suk": {
+		"english": ["Sukuma"],
+		"french": ["sukuma"],
+		"alpha3": "suk",
+		"alpha2": ""
+	},
+	"sux": {
+		"english": ["Sumerian"],
+		"french": ["sumérien"],
+		"alpha3": "sux",
+		"alpha2": ""
+	},
+	"sun": {
+		"english": ["Sundanese"],
+		"french": ["soundanais"],
+		"alpha3": "sun",
+		"alpha2": "su"
+	},
+	"sus": {
+		"english": ["Susu"],
+		"french": ["soussou"],
+		"alpha3": "sus",
+		"alpha2": ""
+	},
+	"swa": {
+		"english": ["Swahili"],
+		"french": ["swahili"],
+		"alpha3": "swa",
+		"alpha2": "sw"
+	},
+	"ssw": {
+		"english": ["Swati"],
+		"french": ["swati"],
+		"alpha3": "ssw",
+		"alpha2": "ss"
+	},
+	"swe": {
+		"english": ["Swedish"],
+		"french": ["suédois"],
+		"alpha3": "swe",
+		"alpha2": "sv"
+	},
+	"syr": {
+		"english": ["Syriac"],
+		"french": ["syriaque"],
+		"alpha3": "syr",
+		"alpha2": ""
+	},
+	"tgl": {
+		"english": ["Tagalog"],
+		"french": ["tagalog"],
+		"alpha3": "tgl",
+		"alpha2": "tl"
+	},
+	"tah": {
+		"english": ["Tahitian"],
+		"french": ["tahitien"],
+		"alpha3": "tah",
+		"alpha2": "ty"
+	},
+	"tai": {
+		"english": ["Tai (Other)"],
+		"french": ["thaïes autres langues"],
+		"alpha3": "tai",
+		"alpha2": ""
+	},
+	"tgk": {
+		"english": ["Tajik"],
+		"french": ["tadjik"],
+		"alpha3": "tgk",
+		"alpha2": "tg"
+	},
+	"tmh": {
+		"english": ["Tamashek"],
+		"french": ["tamacheq"],
+		"alpha3": "tmh",
+		"alpha2": ""
+	},
+	"tam": {
+		"english": ["Tamil"],
+		"french": ["tamoul"],
+		"alpha3": "tam",
+		"alpha2": "ta"
+	},
+	"tat": {
+		"english": ["Tatar"],
+		"french": ["tatar"],
+		"alpha3": "tat",
+		"alpha2": "tt"
+	},
+	"tel": {
+		"english": ["Telugu"],
+		"french": ["télougou"],
+		"alpha3": "tel",
+		"alpha2": "te"
+	},
+	"ter": {
+		"english": ["Tereno"],
+		"french": ["tereno"],
+		"alpha3": "ter",
+		"alpha2": ""
+	},
+	"tet": {
+		"english": ["Tetum"],
+		"french": ["tetum"],
+		"alpha3": "tet",
+		"alpha2": ""
+	},
+	"tha": {
+		"english": ["Thai"],
+		"french": ["thaï"],
+		"alpha3": "tha",
+		"alpha2": "th"
+	},
+	"tig": {
+		"english": ["Tigre"],
+		"french": ["tigré"],
+		"alpha3": "tig",
+		"alpha2": ""
+	},
+	"tir": {
+		"english": ["Tigrinya"],
+		"french": ["tigrigna"],
+		"alpha3": "tir",
+		"alpha2": "ti"
+	},
+	"tem": {
+		"english": ["Timne"],
+		"french": ["temne"],
+		"alpha3": "tem",
+		"alpha2": ""
+	},
+	"tiv": {
+		"english": ["Tiv"],
+		"french": ["tiv"],
+		"alpha3": "tiv",
+		"alpha2": ""
+	},
+	"tli": {
+		"english": ["Tlingit"],
+		"french": ["tlingit"],
+		"alpha3": "tli",
+		"alpha2": ""
+	},
+	"tpi": {
+		"english": ["Tok Pisin"],
+		"french": ["tok pisin"],
+		"alpha3": "tpi",
+		"alpha2": ""
+	},
+	"tkl": {
+		"english": ["Tokelau"],
+		"french": ["tokelau"],
+		"alpha3": "tkl",
+		"alpha2": ""
+	},
+	"tog": {
+		"english": ["Tonga (Nyasa)"],
+		"french": ["tonga (Nyasa)"],
+		"alpha3": "tog",
+		"alpha2": ""
+	},
+	"ton": {
+		"english": ["Tonga (Tongan", "Tonga Islands)"],
+		"french": ["tongan (Îles Tonga)"],
+		"alpha3": "ton",
+		"alpha2": "to"
+	},
+	"tsi": {
+		"english": ["Tsimshian"],
+		"french": ["tsimshian"],
+		"alpha3": "tsi",
+		"alpha2": ""
+	},
+	"tso": {
+		"english": ["Tsonga"],
+		"french": ["tsonga"],
+		"alpha3": "tso",
+		"alpha2": "ts"
+	},
+	"tsn": {
+		"english": ["Tswana"],
+		"french": ["tswana"],
+		"alpha3": "tsn",
+		"alpha2": "tn"
+	},
+	"tum": {
+		"english": ["Tumbuka"],
+		"french": ["tumbuka"],
+		"alpha3": "tum",
+		"alpha2": ""
+	},
+	"tup": {
+		"english": ["Tupi languages"],
+		"french": ["tupi langues"],
+		"alpha3": "tup",
+		"alpha2": ""
+	},
+	"tur": {
+		"english": ["Turkish"],
+		"french": ["turc"],
+		"alpha3": "tur",
+		"alpha2": "tr"
+	},
+	"ota": {
+		"english": ["Turkish Ottoman (1500-1928)"],
+		"french": ["turc ottoman (1500-1928)"],
+		"alpha3": "ota",
+		"alpha2": ""
+	},
+	"tuk": {
+		"english": ["Turkmen"],
+		"french": ["turkmène"],
+		"alpha3": "tuk",
+		"alpha2": "tk"
+	},
+	"tvl": {
+		"english": ["Tuvalu"],
+		"french": ["tuvalu"],
+		"alpha3": "tvl",
+		"alpha2": ""
+	},
+	"tyv": {
+		"english": ["Tuvinian"],
+		"french": ["touva"],
+		"alpha3": "tyv",
+		"alpha2": ""
+	},
+	"twi": {
+		"english": ["Twi"],
+		"french": ["twi"],
+		"alpha3": "twi",
+		"alpha2": "tw"
+	},
+	"udm": {
+		"english": ["Udmurt"],
+		"french": ["oudmourte"],
+		"alpha3": "udm",
+		"alpha2": ""
+	},
+	"uga": {
+		"english": ["Ugaritic"],
+		"french": ["ougaritique"],
+		"alpha3": "uga",
+		"alpha2": ""
+	},
+	"uig": {
+		"english": ["Uyghur", "Uighur"],
+		"french": ["ouïgour"],
+		"alpha3": "uig",
+		"alpha2": "ug"
+	},
+	"ukr": {
+		"english": ["Ukrainian"],
+		"french": ["ukrainien"],
+		"alpha3": "ukr",
+		"alpha2": "uk"
+	},
+	"umb": {
+		"english": ["Umbundu"],
+		"french": ["umbundu"],
+		"alpha3": "umb",
+		"alpha2": ""
+	},
+	"hsb": {
+		"english": ["Upper Sorbian"],
+		"french": ["haut-sorabe"],
+		"alpha3": "hsb",
+		"alpha2": ""
+	},
+	"urd": {
+		"english": ["Urdu"],
+		"french": ["ourdou"],
+		"alpha3": "urd",
+		"alpha2": "ur"
+	},
+	"uzb": {
+		"english": ["Uzbek"],
+		"french": ["ouszbek"],
+		"alpha3": "uzb",
+		"alpha2": "uz"
+	},
+	"vai": {
+		"english": ["Vai"],
+		"french": ["vaï"],
+		"alpha3": "vai",
+		"alpha2": ""
+	},
+	"ven": {
+		"english": ["Venda"],
+		"french": ["venda"],
+		"alpha3": "ven",
+		"alpha2": "ve"
+	},
+	"vie": {
+		"english": ["Vietnamese"],
+		"french": ["vietnamien"],
+		"alpha3": "vie",
+		"alpha2": "vi"
+	},
+	"vol": {
+		"english": ["Volapük"],
+		"french": ["volapük"],
+		"alpha3": "vol",
+		"alpha2": "vo"
+	},
+	"vot": {
+		"english": ["Votic"],
+		"french": ["vote"],
+		"alpha3": "vot",
+		"alpha2": ""
+	},
+	"wak": {
+		"english": ["Wakashan languages"],
+		"french": ["wakashennes langues"],
+		"alpha3": "wak",
+		"alpha2": ""
+	},
+	"wal": {
+		"english": ["Walamo"],
+		"french": ["walamo"],
+		"alpha3": "wal",
+		"alpha2": ""
+	},
+	"wln": {
+		"english": ["Walloon"],
+		"french": ["wallon"],
+		"alpha3": "wln",
+		"alpha2": "wa"
+	},
+	"war": {
+		"english": ["Waray"],
+		"french": ["waray"],
+		"alpha3": "war",
+		"alpha2": ""
+	},
+	"was": {
+		"english": ["Washo"],
+		"french": ["washo"],
+		"alpha3": "was",
+		"alpha2": ""
+	},
+	"wol": {
+		"english": ["Wolof"],
+		"french": ["wolof"],
+		"alpha3": "wol",
+		"alpha2": "wo"
+	},
+	"xho": {
+		"english": ["Xhosa"],
+		"french": ["xhosa"],
+		"alpha3": "xho",
+		"alpha2": "xh"
+	},
+	"sah": {
+		"english": ["Yakut"],
+		"french": ["iakoute"],
+		"alpha3": "sah",
+		"alpha2": ""
+	},
+	"yao": {
+		"english": ["Yao"],
+		"french": ["yao"],
+		"alpha3": "yao",
+		"alpha2": ""
+	},
+	"yap": {
+		"english": ["Yapese"],
+		"french": ["yapois"],
+		"alpha3": "yap",
+		"alpha2": ""
+	},
+	"yid": {
+		"english": ["Yiddish"],
+		"french": ["yiddish"],
+		"alpha3": "yid",
+		"alpha2": "yi"
+	},
+	"yor": {
+		"english": ["Yoruba"],
+		"french": ["yoruba"],
+		"alpha3": "yor",
+		"alpha2": "yo"
+	},
+	"ypk": {
+		"english": ["Yupik languages"],
+		"french": ["yupik langues"],
+		"alpha3": "ypk",
+		"alpha2": ""
+	},
+	"znd": {
+		"english": ["Zande"],
+		"french": ["zandé"],
+		"alpha3": "znd",
+		"alpha2": ""
+	},
+	"zap": {
+		"english": ["Zapotec"],
+		"french": ["zapotèque"],
+		"alpha3": "zap",
+		"alpha2": ""
+	},
+	"zen": {
+		"english": ["Zenaga"],
+		"french": ["zenaga"],
+		"alpha3": "zen",
+		"alpha2": ""
+	},
+	"zul": {
+		"english": ["Zulu"],
+		"french": ["zoulou"],
+		"alpha3": "zul",
+		"alpha2": "zu"
+	},
+	"zun": {
+		"english": ["Zuni"],
+		"french": ["zuni"],
+		"alpha3": "zun",
+		"alpha2": ""
+	}
+}
