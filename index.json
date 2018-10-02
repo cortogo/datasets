@@ -1,0 +1,157 @@
+[
+    {
+        "displayname": "World airports",
+        "filename": "airports",
+        "keymap": {
+            "airportCode": {
+                "airportName": "Airport name",
+                "country": "Country",
+                "code": "Airport code"
+            }
+        }
+    },
+    {
+        "displayname": "World countries",
+        "filename": "countries",
+        "keymap": {
+            "alpha3Code": {
+                "name": "Country name",
+                "alpha2": "Alpha 2 code",
+                "alpha3": "Alpha 3 code",
+                "numeric": "Numeric code",
+                "calling": {
+                    "callingCode": "Calling code",
+                    "intDialingPrefix": "International dialing prefix"
+                },
+                "currency": {
+                    "name": "Currency name",
+                    "alphabeticCode": "Alpha code",
+                    "numericCode": "Numeric code"
+                },
+                "names": {
+                    "english": "English name",
+                    "french": "French name",
+                    "local": "Local name",
+                    "officialName": "Official name"
+                },
+                "region": "Region",
+                "area": {
+                    "area": "Territory area",
+                    "earthPercentage": "Territory area as percentage of earth"
+                },
+                "capital": {
+                    "name": "Capital name",
+                    "population": "Capital population"
+                },
+                "population": {
+                    "2013": "Population",
+                    "2014": "Population",
+                    "2015": "Population",
+                    "2016": "Population",
+                    "2017": "Population"
+                },
+                "isSovereign": "Is sovereign country",
+                "isUN": "Is UN member"
+            }
+        }
+    },
+    {
+        "displayname": "World languages",
+        "filename": "languages",
+        "keymap": {
+            "alpha3Code": {
+                "english": "English name",
+                "french": "French name",
+                "alpha3": "Alpha 3 code",
+                "alpha2": "Alpha 2 code"
+            }
+        }
+    },
+    {
+        "displayname": "London bus routes",
+        "filename": "londonbusroutes",
+        "keymap": {
+            "regular": {
+                "number": {
+                    "number": "Route number",
+                    "start": "Location 1",
+                    "end": "Location 2",
+                    "operator": "Operator",
+                    "twentyFourHour": "24 hour operation"
+                }
+            },
+            "night": {
+                "number": {
+                    "number": "Route number",
+                    "start": "Location 1",
+                    "end": "Location 2",
+                    "operator": "Operator",
+                    "twentyFourHour": "24 hour operation"
+                }
+            },
+            "school": {
+                "number": {
+                    "number": "Route number",
+                    "start": "Location 1",
+                    "end": "Location 2",
+                    "operator": "Operator",
+                    "twentyFourHour": "24 hour operation"
+                }
+            },
+            "mobility": {
+                "number": {
+                    "number": "Route number",
+                    "start": "Location 1",
+                    "end": "Location 2",
+                    "operator": "Operator",
+                    "twentyFourHour": "24 hour operation"
+                }
+            }
+        }
+    },
+    {
+        "displayname": "World sea ports",
+        "filename": "seaports",
+        "keymap": {
+            "portCode": {
+                "code": "Port code",
+                "name": "Port name",
+                "country": "Country"
+            }
+        }
+    },
+    {
+        "displayname": "UK train carriers",
+        "filename": "uktraincarriers",
+        "keymap": {
+            "atocCode": {
+                "name": "Carrier name",
+                "business": "Business code",
+                "sector": "Sector code",
+                "atoc": "ATOC code"
+            }
+        }
+    },
+    {
+        "displayname": "UK train stations",
+        "filename": "uktrainstations",
+        "keymap": [
+            {
+                "name": "Station name",
+                "code": "Station code"
+            }
+        ]
+    },
+    {
+        "displayname": "US states",
+        "filename": "usstates",
+        "keymap": {
+            "stateName": {
+                "capital": "Capital name",
+                "name": "State name",
+                "isState": "Is a state",
+                "isTerritory": "Is a territory"
+            }
+        }
+    }
+]
