@@ -1,0 +1,414 @@
+{
+	"tweet": {
+		"value": "tweet",
+		"type": "web"
+	},
+	"share": {
+		"value": "share",
+		"type": "web"
+	},
+	"www": {
+		"value": "www",
+		"type": "web"
+	},
+	"min": {
+		"value": "min",
+		"type": "other"
+	},
+	"max": {
+		"value": "max",
+		"type": "other"
+	},
+	"non": {
+		"value": "non",
+		"type": "other"
+	},
+	"oui": {
+		"value": "oui",
+		"type": "other"
+	},
+	"subscribe": {
+		"value": "subscribe",
+		"type": "web"
+	},
+	"unsubscribe": {
+		"value": "unsubscribe",
+		"type": "web"
+	},
+	"email": {
+		"value": "email",
+		"type": "web"
+	},
+	"website": {
+		"value": "website",
+		"type": "web"
+	},
+	"link": {
+		"value": "link",
+		"type": "web"
+	},
+	"hashtag": {
+		"value": "hashtag",
+		"type": "web"
+	},
+	"mom": {
+		"value": "mom",
+		"type": "family"
+	},
+	"mum": {
+		"value": "mum",
+		"type": "family"
+	},
+	"mother": {
+		"value": "mother",
+		"type": "family"
+	},
+	"dad": {
+		"value": "dad",
+		"type": "family"
+	},
+	"papa": {
+		"value": "papa",
+		"type": "family"
+	},
+	"father": {
+		"value": "father",
+		"type": "family"
+	},
+	"3gp": {
+		"value": "3gp",
+		"type": "file"
+	},
+	"mp4": {
+		"value": "mp4",
+		"type": "file"
+	},
+	"mp3": {
+		"value": "mp3",
+		"type": "file"
+	},
+	"retweet": {
+		"value": "retweet",
+		"type": "web"
+	},
+	"jan": {
+		"value": "jan",
+		"type": "month"
+	},
+	"feb": {
+		"value": "feb",
+		"type": "month"
+	},
+	"mar": {
+		"value": "mar",
+		"type": "month"
+	},
+	"apr": {
+		"value": "apr",
+		"type": "month"
+	},
+	"may": {
+		"value": "may",
+		"type": "month"
+	},
+	"jun": {
+		"value": "jun",
+		"type": "month"
+	},
+	"jul": {
+		"value": "jul",
+		"type": "month"
+	},
+	"aug": {
+		"value": "aug",
+		"type": "month"
+	},
+	"sep": {
+		"value": "sep",
+		"type": "month"
+	},
+	"oct": {
+		"value": "oct",
+		"type": "month"
+	},
+	"nov": {
+		"value": "nov",
+		"type": "month"
+	},
+	"dec": {
+		"value": "dec",
+		"type": "month"
+	},
+	"january": {
+		"value": "january",
+		"type": "month"
+	},
+	"february": {
+		"value": "february",
+		"type": "month"
+	},
+	"march": {
+		"value": "march",
+		"type": "month"
+	},
+	"april": {
+		"value": "april",
+		"type": "month"
+	},
+	"may": {
+		"value": "may",
+		"type": "month"
+	},
+	"june": {
+		"value": "june",
+		"type": "month"
+	},
+	"july": {
+		"value": "july",
+		"type": "month"
+	},
+	"august": {
+		"value": "august",
+		"type": "month"
+	},
+	"september": {
+		"value": "september",
+		"type": "month"
+	},
+	"october": {
+		"value": "october",
+		"type": "month"
+	},
+	"november": {
+		"value": "november",
+		"type": "month"
+	},
+	"december": {
+		"value": "december",
+		"type": "month"
+	},
+	"comment": {
+		"value": "comment",
+		"type": "web"
+	},
+	"uncomment": {
+		"value": "uncomment",
+		"type": "web"
+	},
+	"like": {
+		"value": "like",
+		"type": "web"
+	},
+	"day": {
+		"value": "day",
+		"type": "time"
+	},
+	"week": {
+		"value": "week",
+		"type": "time"
+	},
+	"month": {
+		"value": "month",
+		"type": "time"
+	},
+	"year": {
+		"value": "year",
+		"type": "time"
+	},
+	"decade": {
+		"value": "decade",
+		"type": "time"
+	},
+	"century": {
+		"value": "century",
+		"type": "time"
+	},
+	"hour": {
+		"value": "hour",
+		"type": "time"
+	},
+	"minute": {
+		"value": "minute",
+		"type": "time"
+	},
+	"second": {
+		"value": "second",
+		"type": "time"
+	},
+	"night": {
+		"value": "night",
+		"type": "time"
+	},
+	"weekend": {
+		"value": "weekend",
+		"type": "time"
+	},
+	"weekday": {
+		"value": "weekday",
+		"type": "time"
+	},
+	"weeknight": {
+		"value": "weeknight",
+		"type": "time"
+	},
+	"fortnight": {
+		"value": "fortnight",
+		"type": "time"
+	},
+	"morning": {
+		"value": "morning",
+		"type": "time"
+	},
+	"afternoon": {
+		"value": "afternoon",
+		"type": "time"
+	},
+	"evening": {
+		"value": "evening",
+		"type": "time"
+	},
+	"dusk": {
+		"value": "dusk",
+		"type": "time"
+	},
+	"dawn": {
+		"value": "dawn",
+		"type": "time"
+	},
+	"one": {
+		"value": "one",
+		"type": "number"
+	},
+	"two": {
+		"value": "two",
+		"type": "number"
+	},
+	"three": {
+		"value": "three",
+		"type": "number"
+	},
+	"four": {
+		"value": "four",
+		"type": "number"
+	},
+	"five": {
+		"value": "five",
+		"type": "number"
+	},
+	"six": {
+		"value": "six",
+		"type": "number"
+	},
+	"seven": {
+		"value": "seven",
+		"type": "number"
+	},
+	"eight": {
+		"value": "eight",
+		"type": "number"
+	},
+	"nine": {
+		"value": "nine",
+		"type": "number"
+	},
+	"ten": {
+		"value": "ten",
+		"type": "number"
+	},
+	"eleven": {
+		"value": "eleven",
+		"type": "number"
+	},
+	"twelve": {
+		"value": "twelve",
+		"type": "number"
+	},
+	"thirteen": {
+		"value": "thirteen",
+		"type": "number"
+	},
+	"fourteen": {
+		"value": "fourteen",
+		"type": "number"
+	},
+	"fifteen": {
+		"value": "fifteen",
+		"type": "number"
+	},
+	"sixteen": {
+		"value": "sixteen",
+		"type": "number"
+	},
+	"seventeen": {
+		"value": "seventeen",
+		"type": "number"
+	},
+	"eighteen": {
+		"value": "eighteen",
+		"type": "number"
+	},
+	"nineteen": {
+		"value": "nineteen",
+		"type": "number"
+	},
+	"twenty": {
+		"value": "twenty",
+		"type": "number"
+	},
+	"zero": {
+		"value": "zero",
+		"type": "number"
+	},
+	"thirty": {
+		"value": "thirty",
+		"type": "number"
+	},
+	"forty": {
+		"value": "forty",
+		"type": "number"
+	},
+	"fifty": {
+		"value": "fifty",
+		"type": "number"
+	},
+	"sixty": {
+		"value": "sixty",
+		"type": "number"
+	},
+	"seventy": {
+		"value": "seventy",
+		"type": "number"
+	},
+	"eighty": {
+		"value": "eighty",
+		"type": "number"
+	},
+	"ninety": {
+		"value": "ninety",
+		"type": "number"
+	},
+	"hundred": {
+		"value": "hundred",
+		"type": "number"
+	},
+	"thousand": {
+		"value": "thousand",
+		"type": "number"
+	},
+	"million": {
+		"value": "million",
+		"type": "number"
+	},
+	"billion": {
+		"value": "billion",
+		"type": "number"
+	},
+	"trillion": {
+		"value": "trillion",
+		"type": "number"
+	},
+	"quadrillion": {
+		"value": "quadrillion",
+		"type": "number"
+	}
+}
