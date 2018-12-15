@@ -1,0 +1,26 @@
+{
+	"name": "cortogo-datasets",
+	"version": "0.0.1",
+	"description": "Various datasets",
+	"author": "Cortogo <contact@cortogo.com>",
+	"bugs": {
+		"url": "https://github.com/cortogo/datasets",
+		"email": "contact@ristika.com"
+	},
+	"homepage": "https://github.com/cortogo/datasets",
+	"license": "ISC",
+	"scripts": {
+		"prettier": "prettier --write *.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cortogo/datasets.git"
+	},
+	"devDependencies": {
+		"prettier": "^1.15.3"
+	},
+	"dependencies": {
+		"lodash": "^4.17.11",
+		"request": "^2.88.0"
+	}
+}
