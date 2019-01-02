@@ -49,19 +49,21 @@ const getDataset = name => {
 	});
 };
 
-const convertDatasetToArray = (
+const convertDatasetToArray = (jsonFile, selectedValue, selectedValueFormats) =>
+	Object.values(jsonFile).map(value =>
+		getProcessedString(value, selectedValue, selectedValueFormats)
+	);
+
+const convertDatasetToArrayString = (
 	jsonFile,
 	selectedValue,
 	selectedValueFormats
-) => {
-	return JSON.stringify(
-		Object.values(jsonFile).map(value =>
-			getProcessedString(value, selectedValue, selectedValueFormats)
-		),
+) =>
+	convertDatasetToArray(
+		JSON.stringify(jsonFile, selectedValue, selectedValueFormats),
 		null,
 		2
 	);
-};
 
 const convertDatasetToLookup = (
 	jsonFile,
@@ -85,8 +87,27 @@ const convertDatasetToLookup = (
 			);
 		}
 	});
-	return JSON.stringify(lookup, null, 2);
+	return lookup;
 };
+
+const convertDatasetToLookupString = (
+	jsonFile,
+	selectedValue,
+	selectedValueFormats,
+	selectedKey,
+	selectedKeyFormats
+) =>
+	JSON.stringify(
+		convertDatasetToLookup(
+			jsonFile,
+			selectedValue,
+			selectedValueFormats,
+			selectedKey,
+			selectedKeyFormats
+		),
+		null,
+		2
+	);
 
 const lookupFormatOptions = {
 	original: { display: 'Original', processor: val => val },
@@ -107,6 +128,10 @@ const lookupFormatOptions = {
 	onlyalphanumeric: {
 		display: 'Only alpha numeric',
 		processor: val => val.replace(/[^a-zA-Z0-9]/g, '')
+	},
+	booleantrue: {
+		display: 'Boolean true',
+		processor: () => true
 	}
 };
 
@@ -114,6 +139,8 @@ module.exports = {
 	getDatasetIndex,
 	getDataset,
 	convertDatasetToArray,
+	convertDatasetToArrayString,
 	convertDatasetToLookup,
+	convertDatasetToLookupString,
 	lookupFormatOptions
 };
