@@ -90,7 +90,8 @@ const datasetIndex = [
 					english: 'English name',
 					french: 'French name',
 					local: 'Local name',
-					officialName: 'Official name'
+					officialName: 'Official name',
+					other: 'Array of alternative names'
 				},
 				region: 'Region',
 				area: {

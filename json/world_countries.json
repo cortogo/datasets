@@ -17,7 +17,8 @@
 			"english": "Afghanistan",
 			"french": "Afghanistan",
 			"local": "Afghanestan",
-			"officialName": "Islamic State of Afghanistan"
+			"officialName": "Islamic State of Afghanistan",
+			"other": ["Afghan"]
 		},
 		"region": "South-Central Asia",
 		"area": {
@@ -121,7 +122,8 @@
 		"names": {
 			"english": "American Samoa",
 			"french": "Samoa Américaines",
-			"local": "American Samoa"
+			"local": "American Samoa",
+			"other": ["Samoa"]
 		},
 		"region": "Polynesia, Oceania",
 		"area": {
@@ -252,7 +254,8 @@
 			"english": "Antigua and Barbuda",
 			"french": "Antigua-et-Barbuda",
 			"local": "Antigua and Barbuda",
-			"officialName": "Antigua and Barbuda"
+			"officialName": "Antigua and Barbuda",
+			"other": ["Antigua", "Barbuda"]
 		},
 		"region": "Leeward Islands, Caribbean",
 		"area": {
@@ -385,7 +388,8 @@
 			"english": "Australia",
 			"french": "Australie",
 			"local": "Australia",
-			"officialName": "Commonwealth of Australia"
+			"officialName": "Commonwealth of Australia",
+			"other": ["Oz"]
 		},
 		"region": "Australia/Oceania",
 		"area": {
@@ -870,7 +874,8 @@
 			"english": "Bosnia and Herzegovina",
 			"french": "Bosnie-Herzégovine",
 			"local": "Bosna i Hercegovina",
-			"officialName": ""
+			"officialName": "",
+			"other": ["Bosnia", "Herzegovina"]
 		},
 		"region": "Southern Europe",
 		"area": {
@@ -925,7 +930,10 @@
 		"name": "Bouvet Island",
 		"alpha2": "BV",
 		"alpha3": "BVT",
-		"numeric": "074"
+		"numeric": "074",
+		"names": {
+			"other": ["Bouvet"]
+		}
 	},
 	"BRA": {
 		"name": "Brazil",
@@ -978,7 +986,8 @@
 		},
 		"names": {
 			"english": "Virgin Islands (British)",
-			"french": "Îles Vierges Britanniques"
+			"french": "Îles Vierges Britanniques",
+			"other": ["BVI"]
 		},
 		"region": "Lesser Antilles, Caribbean",
 		"area": {
@@ -1013,7 +1022,8 @@
 			"english": "Brunei Darussalam",
 			"french": "Brunéi Darussalam",
 			"local": "Negara Brunei Darussalam",
-			"officialName": "Negara Brunei Darussalam"
+			"officialName": "Negara Brunei Darussalam",
+			"other": ["Brunei"]
 		},
 		"region": "Southeast Asia",
 		"area": {
@@ -1293,7 +1303,8 @@
 		"names": {
 			"english": "Cayman Islands",
 			"french": "Caïmanes, Îles",
-			"local": "Cayman Islands"
+			"local": "Cayman Islands",
+			"other": ["Cayman"]
 		},
 		"region": "Greater Antilles, Caribbean",
 		"area": {
@@ -1322,7 +1333,8 @@
 			"english": "Central African Republic",
 			"french": "Centrafricaine, République",
 			"local": "Republique Centrafricaine",
-			"officialName": "Central African Republic"
+			"officialName": "Central African Republic",
+			"other": ["CAR"]
 		},
 		"region": "Central Africa",
 		"area": {
@@ -1625,7 +1637,8 @@
 			"english": "Congo, Republic of (Brazzaville)",
 			"french": "République du Congo",
 			"local": "République du Congo",
-			"officialName": "Republic of the Congo"
+			"officialName": "Republic of the Congo",
+			"other": ["Congo"]
 		},
 		"region": "Central Africa",
 		"area": {
@@ -1660,7 +1673,8 @@
 			"english": "Democratic Republic of the Congo (Kinshasa)",
 			"french": "Congo, La République Démocratique du",
 			"local": "République Démocratique du Congo",
-			"officialName": "Democratic Republic of the Congo"
+			"officialName": "Democratic Republic of the Congo",
+			"other": ["Congo"]
 		},
 		"region": "Central Africa",
 		"area": {
@@ -1899,7 +1913,8 @@
 			"english": "Czech Republic",
 			"french": "République Tchèque",
 			"local": "Ceska Republika",
-			"officialName": "Czech Republic"
+			"officialName": "Czech Republic",
+			"other": ["Czech"]
 		},
 		"region": "Eastern Europe",
 		"area": {
@@ -2146,7 +2161,8 @@
 			"english": "El Salvador",
 			"french": "El Salvador",
 			"local": "El Salvador",
-			"officialName": "Republic of El Salvador"
+			"officialName": "Republic of El Salvador",
+			"other": ["Salvador"]
 		},
 		"region": "Central America",
 		"area": {
@@ -2181,7 +2197,8 @@
 			"english": "Equatorial Guinea",
 			"french": "Guinée Équatoriale",
 			"local": "Guinea Ecuatorial",
-			"officialName": "Republic of Equatorial Guinea"
+			"officialName": "Republic of Equatorial Guinea",
+			"other": ["Guinea"]
 		},
 		"region": "Central Africa",
 		"area": {
@@ -2320,7 +2337,8 @@
 		"names": {
 			"english": "Falkland Islands",
 			"french": "Falkland, Îles (Malvinas)",
-			"local": "Islas Malvinas"
+			"local": "Islas Malvinas",
+			"other": ["Falklands", "The Falklands"]
 		},
 		"region": "Southern South America",
 		"area": {
@@ -2345,7 +2363,8 @@
 		"names": {
 			"english": "Faroe Islands",
 			"french": "Îles Féroé",
-			"local": "Foroyar"
+			"local": "Foroyar",
+			"other": ["Faroe"]
 		},
 		"region": "Northern Europe",
 		"area": {
@@ -2479,7 +2498,8 @@
 		"names": {
 			"english": "French Guiana",
 			"french": "Guyane Française",
-			"local": "Guyane"
+			"local": "Guyane",
+			"other": ["Guiana"]
 		},
 		"region": "Northern South America",
 		"area": {
@@ -2507,7 +2527,8 @@
 		"names": {
 			"english": "French Polynesia",
 			"french": "Polynésie Française",
-			"local": "Polynésie Française"
+			"local": "Polynésie Française",
+			"other": ["Polynesia"]
 		},
 		"region": "Polynesia, Oceania",
 		"area": {
@@ -2996,7 +3017,8 @@
 			"english": "Guinea-Bissau",
 			"french": "Guinée-Bissau",
 			"local": "Guine-Bissau",
-			"officialName": "Republic of Guinea-Bissau"
+			"officialName": "Republic of Guinea-Bissau",
+			"other": ["Guinea Bissau"]
 		},
 		"region": "West Africa",
 		"area": {
@@ -3108,7 +3130,8 @@
 			"english": "Vatican City State (Holy See)",
 			"french": "Saint-Siège (État de la Cité du Vatican)",
 			"local": "Status Civitatis Vaticanæ",
-			"officialName": "Holy See"
+			"officialName": "Holy See",
+			"other": ["Vatican", "The Vatican"]
 		},
 		"region": "Southern Europe within Italy",
 		"area": {
@@ -3318,7 +3341,8 @@
 			"english": "Iran (Islamic Republic of)",
 			"french": "République Islamique d' Iran",
 			"local": "Iran",
-			"officialName": "Islamic Republic of Iran"
+			"officialName": "Islamic Republic of Iran",
+			"other": ["Iran", "Persia"]
 		},
 		"region": "South-Central Asia",
 		"area": {
@@ -3724,7 +3748,8 @@
 			"english": "Korea, Democratic People's Rep. (North Korea)",
 			"french": "Corée, République Populaire Démocratique de",
 			"local": "Choson",
-			"officialName": "Democratic People's Republic of Korea"
+			"officialName": "Democratic People's Republic of Korea",
+			"other": ["DPRK"]
 		},
 		"region": "Eastern Asia",
 		"area": {
@@ -3758,7 +3783,8 @@
 			"english": "Korea, Republic of (South Korea)",
 			"french": "Corée, République de",
 			"local": "Han-guk",
-			"officialName": "Republic of Korea"
+			"officialName": "Republic of Korea",
+			"other": ["South Korea", "Korea"]
 		},
 		"region": "Eastern Asia",
 		"area": {
@@ -4176,7 +4202,8 @@
 			"english": "Macedonia, Rep. of",
 			"french": "Macédoine, l'ex-République Yougoslave de",
 			"local": "Makedonija",
-			"officialName": "The Former Yugoslav Republic of Macedonia"
+			"officialName": "The Former Yugoslav Republic of Macedonia",
+			"other": ["Macedonia"]
 		},
 		"region": "Southern Europe",
 		"area": {
@@ -5027,7 +5054,8 @@
 			"english": "Netherlands",
 			"french": "Pays-Bas",
 			"local": "Nederland/Holland",
-			"officialName": "Kingdom of the Netherlands"
+			"officialName": "Kingdom of the Netherlands",
+			"other": ["Holland"]
 		},
 		"region": "Western Europe",
 		"area": {
@@ -5089,7 +5117,8 @@
 		"names": {
 			"english": "New Caledonia",
 			"french": "Nouvelle-Calédonie",
-			"local": "Nouvelle-Calédonie"
+			"local": "Nouvelle-Calédonie",
+			"other": ["Caledonia"]
 		},
 		"region": "Melanesia, Oceania",
 		"area": {
@@ -5474,7 +5503,8 @@
 			"english": "Palestinian territories",
 			"french": "Autorité Nationale Palestinienne",
 			"local": "Filastin",
-			"officialName": "Gaza Strip and West Bank"
+			"officialName": "Gaza Strip and West Bank",
+			"other": ["Palestine"]
 		},
 		"region": "Middle East, Western Asia",
 		"area": {
@@ -5845,7 +5875,8 @@
 		"names": {
 			"english": "Reunion Island",
 			"french": "Ile de la Réunion",
-			"local": "Ile de la Réunion"
+			"local": "Ile de la Réunion",
+			"other": ["Reunion"]
 		},
 		"region": "Eastern Africa",
 		"area": {
@@ -5902,7 +5933,8 @@
 			"english": "Russian Federation",
 			"french": "Russie, Fédération de",
 			"local": "Rossiya",
-			"officialName": "Russian Federation"
+			"officialName": "Russian Federation",
+			"other": ["Russia"]
 		},
 		"region": "Eastern Europe - Northern Asia",
 		"area": {
@@ -5995,7 +6027,8 @@
 		"names": {
 			"english": "Saint Kitts and Nevis",
 			"french": "Saint-Kitts-et-Nevis",
-			"officialName": "Federation of Saint Kitts and Nevis"
+			"officialName": "Federation of Saint Kitts and Nevis",
+			"other": ["Kitts", "Nevis"]
 		},
 		"region": "Lesser Antilles, Caribbean",
 		"area": {
@@ -6031,7 +6064,8 @@
 			"english": "Saint Lucia",
 			"french": "Sainte-Lucie",
 			"local": "Saint Lucia",
-			"officialName": "Saint Lucia"
+			"officialName": "Saint Lucia",
+			"other": ["Lucia"]
 		},
 		"region": "Lesser Antilles, Caribbean",
 		"area": {
@@ -6056,6 +6090,9 @@
 		"numeric": "663",
 		"population": {
 			"2012": "36000"
+		},
+		"names": {
+			"other": ["St Martin", "Saint Martin"]
 		}
 	},
 	"SPM": {
@@ -6230,7 +6267,8 @@
 			"english": "Saudi Arabia",
 			"french": "Arabie Saoudite",
 			"local": "Al Arabiyah as Suudiyah",
-			"officialName": "Kingdom of Saudi Arabia"
+			"officialName": "Kingdom of Saudi Arabia",
+			"other": ["Saudi"]
 		},
 		"region": "Arabian Peninsula, Middle East",
 		"area": {
@@ -6512,7 +6550,8 @@
 			"english": "Solomon Islands",
 			"french": "Salomon, Îles",
 			"local": "Solomon Islands",
-			"officialName": "Solomon Islands"
+			"officialName": "Solomon Islands",
+			"other": ["Solomon"]
 		},
 		"region": "Melanesia, Oceania",
 		"area": {
@@ -6620,7 +6659,8 @@
 			"english": "South Sudan",
 			"french": "Soudan du Sud",
 			"local": "South Sudan",
-			"officialName": "Republic of South Sudan"
+			"officialName": "Republic of South Sudan",
+			"other": ["Sudan"]
 		},
 		"region": "East-Central Africa",
 		"capital": {
@@ -6910,7 +6950,8 @@
 			"english": "Syria, Syrian Arab Republic",
 			"french": "Syrienne, République Arabe",
 			"local": "Suriyah",
-			"officialName": "Syrian Arab Republic"
+			"officialName": "Syrian Arab Republic",
+			"other": ["Syria"]
 		},
 		"region": "Middle East, Western Asia",
 		"area": {
@@ -6944,7 +6985,8 @@
 			"english": "Taiwan (Republic of China)",
 			"french": "Taïwan, Province de Chine",
 			"local": "T'ai-wan",
-			"officialName": "Taiwan, Republic of China"
+			"officialName": "Taiwan, Republic of China",
+			"other": ["Taiwan"]
 		},
 		"region": "Eastern Asia",
 		"area": {
@@ -7012,7 +7054,8 @@
 			"english": "Tanzania; officially the United Republic of Tanzania",
 			"french": "Tanzanie, République-Unie de",
 			"local": "Jamhuri ya Muungano wa Tanzania",
-			"officialName": "United Republic of Tanzania"
+			"officialName": "United Republic of Tanzania",
+			"other": ["Tanzania"]
 		},
 		"region": "Eastern Africa",
 		"area": {
@@ -7081,7 +7124,8 @@
 			"english": "Timor-Leste (East Timor)",
 			"french": "Timor-Leste (Timor Oriental)",
 			"local": "Timor",
-			"officialName": "Democratic Republic of Timor-Leste"
+			"officialName": "Democratic Republic of Timor-Leste",
+			"other": ["Timor Leste", "East Timor", "Timor"]
 		},
 		"region": "Maritime South-East Asia",
 		"area": {
@@ -7210,7 +7254,8 @@
 			"english": "Trinidad and Tobago",
 			"french": "Trinité-et-Tobago",
 			"local": "Trinidad, Tobago",
-			"officialName": "Republic of Trinidad and Tobago"
+			"officialName": "Republic of Trinidad and Tobago",
+			"other": ["Trinidad", "Tobago"]
 		},
 		"region": "Northern South America, Caribbean",
 		"area": {
@@ -7484,7 +7529,8 @@
 			"english": "United Arab Emirates",
 			"french": "Émirats Arabes Unis",
 			"local": "Al Imarat al Arabiyah al Muttahidah",
-			"officialName": "United Arab Emirates"
+			"officialName": "United Arab Emirates",
+			"other": ["UAE"]
 		},
 		"region": "Arabian Peninsula, Middle East",
 		"area": {
@@ -7519,7 +7565,16 @@
 			"english": "United Kingdom",
 			"french": "Royaume-Uni",
 			"local": "United Kingdom",
-			"officialName": "United Kingdom of Great Britain and Northern Ireland"
+			"officialName": "United Kingdom of Great Britain and Northern Ireland",
+			"other": [
+				"UK",
+				"Britain",
+				"Northern Ireland",
+				"Great Britain",
+				"England",
+				"Scotland",
+				"Wales"
+			]
 		},
 		"region": "Northern Europe",
 		"area": {
@@ -7555,7 +7610,8 @@
 			"english": "United States",
 			"french": "États-Unis",
 			"local": "United States",
-			"officialName": "United States of America"
+			"officialName": "United States of America",
+			"other": ["USA", "Merica", "America"]
 		},
 		"region": "North America",
 		"area": {
